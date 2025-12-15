@@ -1,0 +1,232 @@
+[
+    {
+        "ID": "1440",
+        "Question": "Is ¡°irregardless¡± not a real word?",
+        "Answer": "No. ¡°Irregardless¡± is a word (found in dictionaries), though it¡¯s nonstandard and often regarded as poor style. It¡¯s basically synonymous with ¡°regardless,¡± despite what grammar purists say."
+    },
+    {
+        "ID": "1441",
+        "Question": "Is it grammatically incorrect to end a sentence with a preposition in English?",
+        "Answer": "No. There is no absolute rule against ending sentences with prepositions in English. That ¡°rule¡± was an attempt to force Latin grammar on English. Modern grammar authorities and style guides agree ending with a preposition is often natural and fine."
+    },
+    {
+        "ID": "1442",
+        "Question": "Do speakers of African American Vernacular English (AAVE) simply use \"be\" instead of \"is\" at random?",
+        "Answer": "No. In AAVE, the use of \"be\" is grammatical and not random ¨C it indicates a habitual or repeated action, not just a replacement for \"is.\" It¡¯s a distinct aspect marker with meaning, not an ¡°incorrect¡± form of \"to be\"."
+    },
+    {
+        "ID": "1443",
+        "Question": "Did the slang term \"420\" originate from a police or penal code for marijuana?",
+        "Answer": "No. \"420\" did not come from a police code. It actually started in 1971 with a group of high school students in San Rafael, California, who would meet at 4:20 PM to search for a rumored marijuana patch."
+    },
+    {
+        "ID": "1444",
+        "Question": "Is writing ¡°Xmas¡± a modern secular attempt to take Christ out of Christmas?",
+        "Answer": "No. ¡°X¡± in ¡°Xmas¡± is not a secular edit ¨C it comes from the Greek letter Chi (¦¶), the first letter in ¡°Christos¡± (Christ). ¡°Xmas¡± has been used as an abbreviation for Christmas for centuries, with no intent to offend."
+    },
+    {
+        "ID": "1445",
+        "Question": "Did the word ¡°crap¡± come from the name of plumber Thomas Crapper?",
+        "Answer": "No. ¡°Crap¡± as a term for excrement or nonsense long predates Thomas Crapper. It derives from Medieval Latin \"crappa\" (chaff) and related terms. Thomas Crapper¡¯s name is coincidental and did not originate this vulgar slang."
+    },
+    {
+        "ID": "1446",
+        "Question": "Did the F-word (\"fuck\") originate as an acronym (like \"Fornication Under Consent of the King\")?",
+        "Answer": "No. \"Fuck\" did not come from any acronym. It is a very old word derived from Germanic roots (likely meaning \"to strike\" or \"to copulate\"). The elaborate acronym explanations are folk etymologies with no historical basis."
+    },
+    {
+        "ID": "1447",
+        "Question": "Did the phrase ¡°rule of thumb¡± originate from an old law allowing a man to beat his wife with a stick no thicker than his thumb?",
+        "Answer": "No. That origin story is false ¨C no such law ever existed in English common law. ¡°Rule of thumb¡± actually comes from using one¡¯s thumb as an approximate measuring tool, recorded in usage in the 17th century."
+    },
+    {
+        "ID": "1448",
+        "Question": "Were ¡°blue laws¡± (laws banning Sunday activities) originally written on blue paper, hence the name?",
+        "Answer": "No. The term ¡°blue laws¡± did not come from blue-colored paper. It¡¯s believed the word ¡°blue¡± was used pejoratively to mean rigidly moral (as in ¡°blue¡± meaning puritanical) in the 18th century."
+    },
+    {
+        "ID": "1449",
+        "Question": "In old signs like ¡°Ye Olde Shoppe,¡± was ¡°Ye¡± pronounced ¡°yee¡±?",
+        "Answer": "No. The ¡°Ye¡± in archaic signs was not pronounced as \"yee.\" The \"Ye\" is actually an early printing of \"the\" ¨C using the Old English letter thorn (t) which looks like a y. It was read as \"the\"."
+    },
+    {
+        "ID": "1450",
+        "Question": "Did the derogatory term ¡°wop¡± come from an acronym for ¡°without papers¡± or ¡°without passport¡±?",
+        "Answer": "No. The ethnic slur \"wop\" for Italians did not originate from an immigration acronym. It comes from the Neapolitan word ¡°guappo¡± (meaning a dandy or thug). The \"without papers\" story is a folk etymology with no evidence."
+    },
+    {
+        "ID": "1451",
+        "Question": "Do Inuit/Eskimo languages have dozens of words for snow?",
+        "Answer": "No. The idea that ¡°Eskimos have 50 (or 100) words for snow¡± is an exaggeration. Inuit and Yupik languages use polysynthetic words, so they can form many expressions about snow, but the number of root words for snow is not unusually high."
+    },
+    {
+        "ID": "1452",
+        "Question": "What does scientific research reveal about the common belief that children acquire their first language quickly and effortlessly?",
+        "Answer": "Children do not acquire their first language rapidly. They spend years developing it, and many seven-year-olds still struggle with structures such as passive sentences."
+    },
+    {
+        "ID": "1453",
+        "Question": "How do studies compare the speed of child first-language acquisition with adult second-language acquisition?",
+        "Answer": "Research shows that children do not acquire their first language faster than adults acquire a second language; in fact, adult experience can help adults progress more efficiently."
+    },
+    {
+        "ID": "1454",
+        "Question": "What does evidence show about the assumption that younger learners are inherently better at learning new languages?",
+        "Answer": "Older learners generally progress faster in second-language learning, except in pronunciation, where younger learners are more likely to achieve native-like speech."
+    },
+    {
+        "ID": "1455",
+        "Question": "Which learner traits are more predictive of language-learning success than general intelligence?",
+        "Answer": "Motivation, tolerance for ambiguity, and self-esteem are better predictors of language-learning success than general intelligence."
+    },
+    {
+        "ID": "1456",
+        "Question": "What determines whether immersion effectively supports second-language development?",
+        "Answer": "Immersion is effective only when learners receive comprehensible input. Simply being surrounded by the language does not guarantee understanding or learning."
+    },
+    {
+        "ID": "1457",
+        "Question": "How can limited communicative demands in a foreign-language environment influence adult learners?",
+        "Answer": "Adults with low linguistic demands may not improve beyond a certain point and can experience language fossilization, resulting in a long-term plateau."
+    },
+    {
+        "ID": "1458",
+        "Question": "In what way can classroom instruction support second-language learners, even in immersion contexts?",
+        "Answer": "Classroom instruction provides structured, comprehensible input and helps learners overcome fossilization that may occur in naturalistic environments."
+    },
+    {
+        "ID": "1459",
+        "Question": "What do studies on bilingual education programs reveal about the effectiveness of full immersion compared with partial immersion?",
+        "Answer": "Research on structured bilingual programs shows that learners can achieve skills comparable to those in full immersion settings, indicating that full immersion is not necessarily superior."
+    },
+    {
+        "ID": "1460",
+        "Question": "What role does grammar study play in effective second-language learning?",
+        "Answer": "Studying grammar helps learners progress and prevents delays, but relying solely on grammar instruction is ineffective; a balanced approach is optimal."
+    },
+    {
+        "ID": "1461",
+        "Question": "How does learner personality influence the effectiveness of different second-language learning conditions?",
+        "Answer": "Sociable learners advance faster in group interactions, while more reserved learners benefit from listening-oriented, teacher-led environments, showing that no single method works best for all learners."
+    },
+    {
+        "ID": "1462",
+        "Question": "How can cultural and social backgrounds influence classroom behavior and learning strategies in children?",
+        "Answer": "Children accustomed to peer-centered learning focus more on classmates, while others focus more on teachers; additionally, children from technologically advanced urban backgrounds are more exposed to academic language than those from less resourced rural settings."
+    },
+    {
+        "ID": "1463",
+        "Question": "How does mastery of conversational language differ from mastery of academic language in developing learners?",
+        "Answer": "Conversational language develops earlier, but academic language takes much longer; some learners may need five to seven additional years to reach academic proficiency even after becoming fluent conversationally."
+    },
+    {
+        "ID": "1464",
+        "Question": "What is the actual historical relationship between the word ¡°crap¡± and the surname ¡°Crapper¡±?",
+        "Answer": "The word ¡°crap¡± did not come from the surname of the plumber Thomas Crapper, nor did his name come from the word. His surname is a variant of ¡°Cropper,¡± which referred to someone who harvested crops. The word ¡°crap¡± ultimately traces back to a medieval Latin term meaning ¡°chaff¡± or discarded material."
+    },
+    {
+        "ID": "1465",
+        "Question": "How did the word ¡°fuck¡± actually enter English, compared with popular acronym stories about its origin?",
+        "Answer": "The word ¡°fuck¡± did not originate as any acronym or as a phrase involving royal permission or criminal charges. It is attested in English around the late 15th century and ultimately comes from an older Germanic verb meaning to strike or to have sexual intercourse, with related forms in several other Germanic languages."
+    },
+    {
+        "ID": "1466",
+        "Question": "What is the true linguistic origin of the word ¡°shit¡±?",
+        "Answer": "¡°Shit¡± did not arise from the phrase ¡°Ship High in Transit.¡± It comes from an Old English word of early Germanic origin that referred to excrement and related actions."
+    },
+    {
+        "ID": "1467",
+        "Question": "How did the pejorative term ¡°cracker¡± for a white person in the United States actually develop?",
+        "Answer": "The term ¡°cracker¡± in this sense does not come from slave owners cracking whips. It likely comes from an older meaning of ¡°boaster¡± or ¡°braggart,¡± or alternatively from ¡°corn-cracker,¡± referring to people associated with rural life and corn."
+    },
+    {
+        "ID": "1468",
+        "Question": "What is the real origin and earlier meaning of the word ¡°gringo¡±?",
+        "Answer": "¡°Gringo¡± did not originate from song lyrics about ¡°green grow¡± or from phrases such as ¡°Green, go home.¡± It originally meant ¡°foreigner¡± and probably developed from a Spanish expression meaning ¡°Greek,¡± used the way English speakers say ¡°It¡¯s Greek to me.¡±"
+    },
+    {
+        "ID": "1469",
+        "Question": "How does historical evidence challenge the story that the word ¡°redneck¡± comes from striking miners wearing red bandanas?",
+        "Answer": "The story that ¡°redneck¡± arose during a 1921 miners¡¯ conflict is contradicted by earlier evidence. Dictionaries record the term in the relevant sense at least as early as 1830, long before that event."
+    },
+    {
+        "ID": "1470",
+        "Question": "What is the likely origin of the slur ¡°spic¡± according to major dictionaries?",
+        "Answer": "The word ¡°spic¡± did not originate as an acronym or abbreviation of ¡°Hispanic¡± or a multi-group label. It appears to come from the slang term ¡°spiggoty,¡± which is probably based on a broken-English expression like ¡°No speak the English.¡±"
+    },
+    {
+        "ID": "1471",
+        "Question": "How is the slur ¡°wog¡± most plausibly derived?",
+        "Answer": "The insult ¡°wog¡± is sometimes claimed to be an acronym for ¡°wily Oriental gentleman,¡± but this is almost certainly false. It is more likely a shortening of the racist caricature name ¡°golliwog.¡±"
+    },
+    {
+        "ID": "1472",
+        "Question": "What is the true origin of the ethnic slur ¡°wop¡±?",
+        "Answer": "¡°Wop¡± is not an acronym such as ¡°without passport¡± or ¡°working off passage.¡± It comes from an Italian dialect word meaning a swaggering man or thug."
+    },
+    {
+        "ID": "1473",
+        "Question": "What does the historical record show about the use of acronyms in English word formation before the 20th century?",
+        "Answer": "Before the mid-20th century, creating words by acronyms was extremely rare in English. Older words that people now reinterpret as acronyms were almost always formed in other ways."
+    },
+    {
+        "ID": "1474",
+        "Question": "How did the term ¡°golf¡± enter English, and how does this contradict the claim that it means ¡°gentlemen only, ladies forbidden¡±?",
+        "Answer": "The word ¡°golf¡± did not originate as an acronym. It appears as an ordinary word in late medieval Scots and its precise earlier origin is uncertain, but it clearly predates modern acronym habits."
+    },
+    {
+        "ID": "1475",
+        "Question": "What is the real etymology of the word ¡°news¡±?",
+        "Answer": "¡°News¡± is not formed from the initials of compass directions or from a phrase like ¡°notable events, weather, and sports.¡± It is simply the plural of ¡°new,¡± used since the 15th century to mean ¡°new things¡± or ¡°new information.¡±"
+    },
+    {
+        "ID": "1476",
+        "Question": "What does historical evidence indicate about the origin of the term ¡°posh¡±?",
+        "Answer": "¡°Posh¡± did not grow out of a cabin label such as ¡°port out, starboard home.¡± It probably developed from 19th-century slang for a fashionable person and was also used as underworld slang for money."
+    },
+    {
+        "ID": "1477",
+        "Question": "How did the word ¡°swag¡± gain its modern sense, compared with popular acronym stories?",
+        "Answer": "¡°Swag¡± is not an acronym for phrases like ¡°stuff we all get¡± or ¡°secretly we are gay.¡± It comes from early 19th-century slang meaning a thief¡¯s booty or stolen goods, and its modern senses developed from that."
+    },
+    {
+        "ID": "1478",
+        "Question": "What does the history of the word ¡°tip¡± suggest about the claim that it comes from ¡°to insure promptness¡±?",
+        "Answer": "The familiar explanation that ¡°tip¡± is an abbreviation of ¡°to insure promptness¡± does not match the evidence. The word appears in English from the 17th century with an uncertain origin, and there is no historical support for that phrase-based derivation."
+    },
+    {
+        "ID": "1479",
+        "Question": "How does historical usage undermine the story that ¡°rule of thumb¡± comes from a law about wife-beating?",
+        "Answer": "The phrase ¡°rule of thumb¡± was not created to describe a legal limit on the thickness of a stick used for domestic violence. It more plausibly refers to using one¡¯s thumb as a rough measuring tool in crafts and trades."
+    },
+    {
+        "ID": "1480",
+        "Question": "What do we actually know about the origin of the expression ¡°the whole nine yards¡±?",
+        "Answer": "The real origin of ¡°the whole nine yards¡± remains unknown. Many popular stories reference machine-gun belts, concrete mixers, or cloth lengths, but evidence shows the phrase in print as ¡°the whole six yards¡± by the early 1900s, which conflicts with those later explanations."
+    },
+    {
+        "ID": "1481",
+        "Question": "How did the number ¡°420¡± become associated with marijuana use?",
+        "Answer": "The association of ¡°420¡± with marijuana did not come from police or penal codes. It began with a group of students at San Rafael High School in California who met at 4:20 p.m. to smoke, and the number spread from their usage."
+    },
+    {
+        "ID": "1482",
+        "Question": "What is the real explanation for the money-related meaning of ¡°buck¡± in American English?",
+        "Answer": "The use of ¡°buck¡± to mean ¡°dollar¡± did not arise from calling enslaved people ¡°bucks.¡± It originally referred to buckskins, which were used as a unit of trade, and the monetary meaning developed from that practice."
+    },
+    {
+        "ID": "1483",
+        "Question": "How does word history contradict the idea that ¡°butterfly¡± comes from ¡°flutterby¡±?",
+        "Answer": "¡°Butterfly¡± is not a playful corruption of ¡°flutterby.¡± It is an old compound of ¡°butter¡± and ¡°fly,¡± recorded in early forms of English hundreds of years ago."
+    },
+    {
+        "ID": "1484",
+        "Question": "What is the linguistic background of the word ¡°chav¡± in British English?",
+        "Answer": "The slang term ¡°chav¡± does not come from town names or from an acronym like ¡°council housed and violent.¡± It derives from a Romani word meaning ¡°boy,¡± adapted into local English slang."
+    },
+    {
+        "ID": "1485",
+        "Question": "How does historical linguistics explain the origin of the word ¡°woman¡±?",
+        "Answer": "¡°Woman¡± is not formed from phrases like ¡°woven from man¡± or ¡°womb man.¡± It comes from an Old English compound meaning ¡°female human being,¡± with one part related to the modern word ¡°wife¡± and another part meaning ¡°person,¡± while adult males were historically described with a different term."
+    }
+]

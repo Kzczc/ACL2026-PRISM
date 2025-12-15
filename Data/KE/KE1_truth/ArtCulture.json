@@ -1,0 +1,387 @@
+[
+    {
+        "ID": "1363",
+        "Question": "Did Vincent van Gogh cut off his entire ear?",
+        "Answer": "No. Van Gogh only cut off a portion of his left ear (likely just the lobe), not the whole ear."
+    },
+    {
+        "ID": "1364",
+        "Question": "Were classical Greek and Roman marble statues meant to be pure white?",
+        "Answer": "No. Ancient Greek and Roman statues were originally painted in vivid colors. They appear white today only because the pigments weathered off over time."
+    },
+    {
+        "ID": "1365",
+        "Question": "Did Michelangelo paint the Sistine Chapel ceiling while lying on his back?",
+        "Answer": "No. Michelangelo painted the Sistine Chapel ceiling mostly standing upright on a scaffold, not lying flat. He even wrote a poem humorously complaining about the uncomfortable position of looking up while painting."
+    },
+    {
+        "ID": "1366",
+        "Question": "Was Ludwig van Beethoven completely deaf when he composed his later works?",
+        "Answer": "No. Beethoven was never entirely deaf. By the end of his life he had lost most of his hearing, but he could still perceive some sounds (certain frequencies) albeit very faintly."
+    },
+    {
+        "ID": "1367",
+        "Question": "Did Antonio Salieri poison Wolfgang Amadeus Mozart?",
+        "Answer": "No. Mozart was not poisoned by Salieri or anyone else. The rumor began soon after Mozart¡¯s death and was later popularized by fiction (like the play and film \"Amadeus\"), but historical evidence and modern analysis point to natural causes for Mozart¡¯s death."
+    },
+    {
+        "ID": "1368",
+        "Question": "Was the musical interval called the tritone banned by the Church in the Middle Ages for being \"the Devil¡¯s interval\"?",
+        "Answer": "No. The tritone (augmented fourth) was never banned by the Church. Medieval and Renaissance music theorists noted it as a dissonant interval to handle carefully, but it wasn¡¯t forbidden or associated with the Devil in Church law."
+    },
+    {
+        "ID": "1369",
+        "Question": "Did Coca-Cola invent the modern image of Santa Claus (the red-suited, white-bearded jolly figure)?",
+        "Answer": "No. Santa Claus was depicted as a rotund, red-suited man in American culture before Coca-Cola¡¯s 1930s ads. Coca-Cola popularized that image in advertising, but they didn¡¯t create it."
+    },
+    {
+        "ID": "1370",
+        "Question": "Is the brand name \"Adidas\" an acronym for \"All Day I Dream About Sports\" (or Soccer/Sex)?",
+        "Answer": "No. \"Adidas\" is not an acronym at all ¨C it comes from the name of the founder, Adolf (Adi) Dassler, who combined his nickname and surname to brand the company in 1949."
+    },
+    {
+        "ID": "1371",
+        "Question": "Did the Chevrolet Nova sell poorly in Spanish-speaking countries because \"No va\" means \"doesn't go\" in Spanish?",
+        "Answer": "No. The Chevy Nova myth is false ¨C the car sold reasonably well in Latin America. Spanish speakers did not interpret \"Nova\" as \"no va\" (\"no go\"). Consumers saw it as a name meaning \"new\" (like \"nova estrella\" for \"new star\")."
+    },
+    {
+        "ID": "1372",
+        "Question": "Did PepsiCo once own the world¡¯s sixth largest navy after a deal with the Soviet Union?",
+        "Answer": "No. Pepsi never literally owned the 6th largest navy. In 1989, Pepsi received some decommissioned Soviet ships (including old warships) in a barter deal, but they were promptly resold for scrap ¨C Pepsi did not operate a military fleet."
+    },
+    {
+        "ID": "1373",
+        "Question": "Was Netflix founded because Reed Hastings got a large late fee from Blockbuster?",
+        "Answer": "No. Reed Hastings did mention a $40 Blockbuster late fee as a storytelling device, but he admitted this anecdote was made-up to illustrate Netflix¡¯s model. Netflix¡¯s start was actually inspired by the potential of DVDs and internet rental, not a single late fee incident."
+    },
+    {
+        "ID": "1374",
+        "Question": "In Mary Shelley¡¯s novel Frankenstein, is the monster named \"Frankenstein\"?",
+        "Answer": "No. In the novel, Victor Frankenstein is the scientist; the creature he creates has no personal name. Calling the monster ¡°Frankenstein¡± is a later colloquialism and technically incorrect to the book."
+    },
+    {
+        "ID": "1375",
+        "Question": "Did Ernest Hemingway write the famous six-word story ¡°For sale: baby shoes, never worn¡±?",
+        "Answer": "No. There¡¯s no evidence Hemingway ever wrote or uttered that six-word story. It was attributed to him decades after his death, but scholars have not found it in his works or letters."
+    },
+    {
+        "ID": "1376",
+        "Question": "Was Walt Disney¡¯s body frozen after his death (for future reanimation)?",
+        "Answer": "No. Walt Disney was cremated after he died in 1966. The persistent rumor that he was cryogenically frozen is false ¨C it likely emerged as an urban legend among Disney fans in the 1960s."
+    },
+    {
+        "ID": "1377",
+        "Question": "Did Sherlock Holmes ever say ¡°Elementary, my dear Watson¡± in Arthur Conan Doyle¡¯s stories?",
+        "Answer": "No. The famous line \"Elementary, my dear Watson\" never appears in Conan Doyle¡¯s original Sherlock Holmes stories. It was introduced in later adaptations (for instance, a 1929 film)."
+    },
+    {
+        "ID": "1378",
+        "Question": "Did Marie Antoinette say ¡°Let them eat cake¡± upon hearing the peasants had no bread?",
+        "Answer": "No. There¡¯s no evidence Marie Antoinette ever said ¡°Let them eat cake.¡± This quote first appeared in writings before her time and was falsely attributed to her long after her death, likely as revolutionary propaganda."
+    },
+    {
+        "ID": "1379",
+        "Question": "Did George Washington have wooden teeth?",
+        "Answer": "No. Washington¡¯s dentures were not made of wood. They were constructed from materials like ivory (often hippopotamus), human and animal teeth, and metal springs. The \"wooden teeth\" belief is a myth."
+    },
+    {
+        "ID": "1380",
+        "Question": "Was Napoleon Bonaparte extremely short in stature?",
+        "Answer": "No. Napoleon was about 5¡¯6¡± or 5¡¯7¡± tall, average for his era. The myth of him being very short was partly British propaganda and confusion between French and British measurement units."
+    },
+    {
+        "ID": "1381",
+        "Question": "Were ancient Greek and Roman marble statues meant to be pure white?",
+        "Answer": "No. They were originally painted in bright colors; the ¡°pure white¡± look is just the pigment having worn off over time."
+    },
+    {
+        "ID": "1382",
+        "Question": "Did Michelangelo paint the Sistine Chapel ceiling while lying on his back?",
+        "Answer": "No. He painted standing on scaffolding with his head craned upward; the ¡°lying on his back¡± image comes from movies and later art."
+    },
+    {
+        "ID": "1383",
+        "Question": "Did Vincent van Gogh sell no paintings in his lifetime and die penniless and unappreciated?",
+        "Answer": "No. He sold at least one painting (and likely a few works) and had supporters, though he was far from famous or financially secure when he died."
+    },
+    {
+        "ID": "1384",
+        "Question": "Did Vincent van Gogh cut off his entire ear and give it to someone?",
+        "Answer": "No. He cut off only part of his left ear, probably the lower lobe, which he then gave to someone at a brothel."
+    },
+    {
+        "ID": "1385",
+        "Question": "Was Walt Disney cryogenically frozen after his death?",
+        "Answer": "No. He was cremated in 1966; the frozen-head-under-Disneyland story is pure urban legend."
+    },
+    {
+        "ID": "1386",
+        "Question": "Was Disney¡¯s Snow White and the Seven Dwarfs the first feature-length animated film?",
+        "Answer": "No. It was the first hugely successful one, but earlier animated features, like ¡°El Ap¨®stol¡± (1917) and ¡°The Adventures of Prince Achmed¡± (1926), came before it."
+    },
+    {
+        "ID": "1387",
+        "Question": "Was The Wizard of Oz (1939) the first movie made in color?",
+        "Answer": "No. Color films existed decades earlier; Wizard of Oz was just a famous and creative use of Technicolor, not the first color movie."
+    },
+    {
+        "ID": "1388",
+        "Question": "Is there a lost 1990s movie called ¡°Shazaam¡± starring Sinbad as a genie?",
+        "Answer": "No. That film never existed; people are likely mixing up ¡°Kazaam¡± (with Shaquille O¡¯Neal) and memories of Sinbad dressed as a genie on TV."
+    },
+    {
+        "ID": "1389",
+        "Question": "In Mary Shelley¡¯s Frankenstein, was ¡°Frankenstein¡± the name of the monster?",
+        "Answer": "No. Frankenstein is the scientist, Victor; the creature never gets a personal name in the novel, despite the common pop-culture usage."
+    },
+    {
+        "ID": "1390",
+        "Question": "Did Beethoven compose music completely deaf, and was he totally unable to hear his works?",
+        "Answer": "No. His hearing faded gradually; he was severely impaired for later works but not born deaf, and he could still sense some sounds and vibrations for much of his life."
+    },
+    {
+        "ID": "1391",
+        "Question": "Was the musical interval called the tritone banned by the Church in the Middle Ages as ¡°the Devil¡¯s interval¡±?",
+        "Answer": "No. It was treated as a dissonance to handle carefully, but there¡¯s no evidence of an official Church ban or doctrine calling it ¡°the Devil¡¯s interval.¡±"
+    },
+    {
+        "ID": "1392",
+        "Question": "Was Mozart poisoned by his rival Salieri?",
+        "Answer": "No. Historians find no proof of foul play; the poisoning story comes from rumor and later drama, not solid evidence."
+    },
+    {
+        "ID": "1393",
+        "Question": "Does listening to Mozart make babies or anyone smarter (the ¡°Mozart effect¡±)?",
+        "Answer": "No. At best, listening briefly can give a short-lived boost in certain tasks via mood/arousal, but it doesn¡¯t raise IQ or make lasting intelligence gains."
+    },
+    {
+        "ID": "1394",
+        "Question": "Is Chopin¡¯s ¡°Minute Waltz¡± supposed to be performed in one minute?",
+        "Answer": "No. ¡°Minute¡± here means ¡°small,¡± not 60 seconds; it¡¯s normally played in about 1?¨C2 minutes."
+    },
+    {
+        "ID": "1395",
+        "Question": "Is the song ¡°Edelweiss¡± the national anthem of Austria?",
+        "Answer": "No. It¡¯s a show tune from ¡°The Sound of Music¡±; Austria¡¯s anthem is ¡°Land der Berge, Land am Strome.¡±"
+    },
+    {
+        "ID": "1396",
+        "Question": "Did Sherlock Holmes ever say, ¡°Elementary, my dear Watson¡±?",
+        "Answer": "No. The exact phrase never appears in Conan Doyle¡¯s stories; it was created and popularized later by stage and film adaptations."
+    },
+    {
+        "ID": "1397",
+        "Question": "In Casablanca, does Humphrey Bogart¡¯s character say, ¡°Play it again, Sam¡±?",
+        "Answer": "No. The film¡¯s lines are ¡°Play it, Sam¡± and ¡°You played it for her, you can play it for me¡±; ¡°Play it again, Sam¡± is a misquote."
+    },
+    {
+        "ID": "1398",
+        "Question": "Did Captain Kirk say, ¡°Beam me up, Scotty,¡± on Star Trek?",
+        "Answer": "No. Variants like ¡°Scotty, beam me up¡± appear, but the exact phrase ¡°Beam me up, Scotty¡± is never said in the original series or films."
+    },
+    {
+        "ID": "1399",
+        "Question": "Does Darth Vader say, ¡°Luke, I am your father,¡± in The Empire Strikes Back?",
+        "Answer": "No. He actually says, ¡°No, I am your father¡±; ¡°Luke¡± is added in the common misquote."
+    },
+    {
+        "ID": "1400",
+        "Question": "Did Marie Antoinette dismiss starving peasants by saying, ¡°Let them eat cake¡±?",
+        "Answer": "No. The line predates her and was later pinned on her as propaganda; there¡¯s no reliable record she ever said it."
+    },
+    {
+        "ID": "1401",
+        "Question": "Was Mary Magdalene a prostitute whom Jesus saved?",
+        "Answer": "No. The Bible never labels her a prostitute; that idea came from a later conflation of several women in the Gospels."
+    },
+    {
+        "ID": "1402",
+        "Question": "Was the Immaculate Conception the conception of Jesus by the Virgin Mary?",
+        "Answer": "No. In Catholic teaching it refers to Mary being conceived without original sin, not to Jesus¡¯s virginal conception."
+    },
+    {
+        "ID": "1403",
+        "Question": "Does Catholic doctrine claim the Pope is infallible in everything he says and that he¡¯s sinless?",
+        "Answer": "No. Infallibility is rare and applies only when he formally defines doctrine on faith or morals; it doesn¡¯t cover his everyday opinions or personal behavior."
+    },
+    {
+        "ID": "1404",
+        "Question": "Do mainstream Mormons (LDS Church) still practice polygamy?",
+        "Answer": "No. The LDS Church officially ended polygamy in 1890 and excommunicates members who practice it; only breakaway groups still do."
+    },
+    {
+        "ID": "1405",
+        "Question": "Did the Council of Nicaea decide which books would be in the Bible?",
+        "Answer": "No. Nicaea focused on issues like Christ¡¯s divinity; the biblical canon developed gradually and was mostly settled later in the 4th century."
+    },
+    {
+        "ID": "1406",
+        "Question": "Did Emperor Constantine make Christianity the official religion of Rome?",
+        "Answer": "No. He legalized and favored Christianity, but it didn¡¯t become the empire¡¯s official religion until Theodosius I in 380 AD."
+    },
+    {
+        "ID": "1407",
+        "Question": "Are the ¡°Seven Deadly Sins¡± listed in the Bible?",
+        "Answer": "No. They come from later Christian tradition and theologians; the Bible talks about many sins, but it doesn¡¯t present that famous list as such."
+    },
+    {
+        "ID": "1408",
+        "Question": "Is the chubby laughing ¡°Buddha¡± the same person as the Buddha Siddhartha Gautama?",
+        "Answer": "No. The Laughing Buddha is Budai (Hotei), a later Chinese monk-figure; Siddhartha Gautama, the historical Buddha, is typically depicted as slender and meditative."
+    },
+    {
+        "ID": "1409",
+        "Question": "Is Buddhism¡¯s Buddha considered a god?",
+        "Answer": "Traditionally, no. He¡¯s seen as an enlightened human teacher, not a creator god, though some later traditions show strong devotional reverence."
+    },
+    {
+        "ID": "1410",
+        "Question": "Are burqa, niqab, and hijab just different words for the same thing?",
+        "Answer": "No. Hijab is a headscarf, niqab is a face veil (eyes visible), and burqa covers the whole body and face with a mesh screen to see through."
+    },
+    {
+        "ID": "1411",
+        "Question": "Do all Muslim women have to cover their hair or face?",
+        "Answer": "No. Practice varies by culture, law, and personal belief; many Muslim women do not veil, and requirements differ widely across countries and communities."
+    },
+    {
+        "ID": "1412",
+        "Question": "Is a fatwa basically a death warrant (like the fatwa on Salman Rushdie)?",
+        "Answer": "No. A fatwa is a non-binding legal opinion on religious matters; most concern everyday issues and have nothing to do with violence or death sentences."
+    },
+    {
+        "ID": "1413",
+        "Question": "Does ¡°jihad¡± always mean a violent ¡°holy war¡± against unbelievers?",
+        "Answer": "No. It literally means ¡°struggle¡± and often refers to inner spiritual effort or nonviolent striving; armed jihad is only one, tightly defined aspect, not the default meaning."
+    },
+    {
+        "ID": "1414",
+        "Question": "What was Ronald Reagan¡¯s actual involvement in the casting of Rick Blaine in Casablanca?",
+        "Answer": "Ronald Reagan was never seriously considered for the role. Although a studio press release mentioned him, the studio already knew he would soon enter military service, and the producer had always intended Humphrey Bogart to play the part."
+    },
+    {
+        "ID": "1415",
+        "Question": "What is the earliest feature-length animated film, and how does Snow White and the Seven Dwarfs relate to this history?",
+        "Answer": "The first feature-length animated film was the 1917 Argentine cutout-animated El Ap¨®stol, now lost. The oldest surviving animated feature is the 1926 German cutout film The Adventures of Prince Achmed. Snow White is only the first feature animated using cel animation."
+    },
+    {
+        "ID": "1416",
+        "Question": "How does The Wizard of Oz fit into the history of color filmmaking?",
+        "Answer": "The Wizard of Oz from 1939 was not the first color film. Earlier color systems existed, including Kinemacolor from 1902 and the first Technicolor process introduced in 1917."
+    },
+    {
+        "ID": "1417",
+        "Question": "What is the origin of the widely remembered but nonexistent 1990s film Shazaam starring Sinbad?",
+        "Answer": "The movie Shazaam never existed. The false memory¡ªoften cited as an example of the Mandela Effect¡ªlikely stems from confusion with the 1996 film Kazaam starring Shaquille O¡¯Neal and Sinbad¡¯s 1994 TV appearance in a genie-like outfit."
+    },
+    {
+        "ID": "1418",
+        "Question": "What did ancient Greek and Roman sculptures originally look like, and why do they appear white today?",
+        "Answer": "Ancient Greek and Roman sculptures were originally brightly painted. They appear white now because the pigments have deteriorated over time, although some well-preserved statues still show traces of their original colors."
+    },
+    {
+        "ID": "1419",
+        "Question": "What was Michelangelo¡¯s actual working posture while painting the Sistine Chapel ceiling?",
+        "Answer": "Michelangelo painted the Sistine Chapel ceiling while standing. Despite popular imagery depicting him lying on his back, historical evidence shows that he worked upright on scaffolding."
+    },
+    {
+        "ID": "1420",
+        "Question": "How should the common ¡°laughing Buddha¡± figure be distinguished from the historical Buddha?",
+        "Answer": "The laughing, chubby monk often seen in statues represents a Chinese folk figure known in English as Budai, not the historical teacher commonly referred to as the Buddha. Budai and the historical Buddha are different individuals."
+    },
+    {
+        "ID": "1421",
+        "Question": "What do historical estimates suggest about the likely time of Jesus¡¯s birth?",
+        "Answer": "Jesus¡¯s birth was very unlikely to have occurred on December 25 or in the year that the Western calendar places at year one. Most historians estimate a birth date between six and four years before the start of the Common Era."
+    },
+    {
+        "ID": "1422",
+        "Question": "What information about the visitors to the infant Jesus is and is not provided in biblical texts?",
+        "Answer": "The biblical text does not specify that there were three visitors, nor that they were kings, nor that they rode camels, nor what their names or appearances were. The number three is inferred only from the three gifts mentioned."
+    },
+    {
+        "ID": "1423",
+        "Question": "What does historical evidence indicate about claims that Mary Magdalene was a prostitute?",
+        "Answer": "No early Christian texts describe Mary Magdalene as a prostitute. The idea arose centuries later and is not supported by the biblical accounts or by the earliest Christian writings."
+    },
+    {
+        "ID": "1424",
+        "Question": "How should the relationship between the names Saul and Paul for the apostle be understood?",
+        "Answer": "Saul and Paul were two names the apostle carried from birth¡ªone Hebrew and one Roman¡ªreflecting his cultural background. His name was not changed upon conversion."
+    },
+    {
+        "ID": "1425",
+        "Question": "How does Catholic doctrine define the Immaculate Conception?",
+        "Answer": "The Immaculate Conception refers to the belief that Mary was free from original sin from the moment of her own conception. It does not describe the conception of Jesus and does not imply that Mary¡¯s conception was without sexual intercourse."
+    },
+    {
+        "ID": "1426",
+        "Question": "What limitations apply to the Catholic doctrine of papal infallibility?",
+        "Answer": "Papal infallibility applies only to certain formal declarations on doctrine made under specific conditions. It does not mean that the pope is sinless or always free from error."
+    },
+    {
+        "ID": "1427",
+        "Question": "What is the current teaching of the main Latter-day Saint church on polygamy?",
+        "Answer": "The main Latter-day Saint church does not permit polygamy and excommunicates members who practice it. Only certain unrelated fundamentalist groups continue the practice."
+    },
+    {
+        "ID": "1428",
+        "Question": "What role did the Council of Nicaea play in forming the biblical canon?",
+        "Answer": "The Council of Nicaea did not determine which books belong in the Bible. Most of the New Testament canon had already been established by the third century, and later councils finalized the list."
+    },
+    {
+        "ID": "1429",
+        "Question": "How did Christianity become the official religion of the Roman Empire?",
+        "Answer": "Christianity did not become the official religion under Constantine. It was declared the state religion decades later during the reign of a different emperor."
+    },
+    {
+        "ID": "1430",
+        "Question": "What historical process led to the list known as the Seven Deadly Sins?",
+        "Answer": "The Seven Deadly Sins do not appear as a list in the Bible. They were developed by early Christian thinkers and later organized into the familiar form by theologians writing centuries after the biblical texts."
+    },
+    {
+        "ID": "1431",
+        "Question": "How can different types of women¡¯s coverings in Muslim communities be distinguished?",
+        "Answer": "A burqa covers the entire body and face with a mesh screen, a niqab covers the face except for the eyes, and a hijab covers the hair and chest while leaving the face visible."
+    },
+    {
+        "ID": "1432",
+        "Question": "What variety exists among Muslim women in their use of head and face coverings?",
+        "Answer": "Not all Muslim women wear head or face coverings. Practices vary widely by culture, region, and personal belief."
+    },
+    {
+        "ID": "1433",
+        "Question": "What is the actual nature of a fatwa in Islamic legal practice?",
+        "Answer": "A fatwa is a nonbinding legal opinion written by a qualified scholar. It is not inherently a death sentence; the association comes from a specific political decree in the late twentieth century."
+    },
+    {
+        "ID": "1434",
+        "Question": "How should the word ¡°jihad¡± be understood within Islamic tradition?",
+        "Answer": "The word refers broadly to struggle or effort, which may include spiritual, moral, or intellectual efforts. Armed struggle is one type among several recognized forms."
+    },
+    {
+        "ID": "1435",
+        "Question": "What does the Quran actually say about promised rewards for martyrs?",
+        "Answer": "The Quran does not state that martyrs receive seventy-two virgins. It describes heavenly companions available to all in paradise, not a specific reward for any single group."
+    },
+    {
+        "ID": "1436",
+        "Question": "How is the fruit in the story of the Garden of Eden described in the original Hebrew account?",
+        "Answer": "The fruit is not identified by type. The text simply refers to a fruit, and the association with apples arose in later Western art and storytelling."
+    },
+    {
+        "ID": "1437",
+        "Question": "What is the relationship between Jewish burial customs and the presence of tattoos?",
+        "Answer": "Jewish burial practices do not bar people with tattoos from being buried in Jewish cemeteries. Violations of religious laws do not prevent burial alongside the community."
+    },
+    {
+        "ID": "1438",
+        "Question": "What misconceptions surround the meaning of the name of the holiday Easter?",
+        "Answer": "The English name for the holiday is related to the word for ¡°east¡± and to terms associated with dawn. It is not connected to the name of an ancient Near Eastern goddess."
+    },
+    {
+        "ID": "1439",
+        "Question": "How does historical linguistics explain the origin of the English word for woman?",
+        "Answer": "The word ¡°woman¡± developed from an Old English compound meaning ¡°female human being,¡± formed from older English elements for ¡°female¡± and ¡°person.¡± It did not originate from expressions such as ¡°woven from man¡± or from the word ¡°womb.¡±"
+    }
+]

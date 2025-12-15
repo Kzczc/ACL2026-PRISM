@@ -1,0 +1,3072 @@
+[
+  {
+    "id": "ife_lang_0",
+    "question": "Design a web page to display data in table format.\nInput: The table contains 3 columns: Name, Age, Country\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_1",
+    "question": "Diagnose the issue with this code\nInput: int x = 5;\nint y = 0;\nint z = x / y;\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_2",
+    "question": "Create a flow chart to represent a given algorithm.\nInput: Bubble Sort Algorithm\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_3",
+    "question": "How can text analysis be used in businesses?\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_4",
+    "question": "Describe the painting of the Mona Lisa.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_5",
+    "question": "Evaluate the following statement: \"The internet has no boundaries\".\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_6",
+    "question": "Generate a haiku poem that uses the words 'sky', 'mountain', and 'evening'.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_7",
+    "question": "Explain the differences in the voting process between the UK and the US\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_8",
+    "question": "Find a way to reduce the poverty rate in India.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_9",
+    "question": "Calculate the slope of the line given the two points.\nInput: (3, 4) and (5, 6)\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_10",
+    "question": "Compose a short story about two friends with opposite personalities.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_11",
+    "question": "Provide the steps to check a car engine.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_12",
+    "question": "What is the purpose of the IF statement in programming?\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_13",
+    "question": "What geological epoch are we living in currently?\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_14",
+    "question": "Come up with a pun that relates to the given topic.\nInput: Bees\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_15",
+    "question": "Generate a unique travel plan for a weekend trip.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_16",
+    "question": "Make a list of things that help people stay healthy.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_17",
+    "question": "Generate a list of benefits for athletes of developing mental toughness.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_18",
+    "question": "Write five steps to create a presentation.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_19",
+    "question": "Brainstorm three relevant topics for the article\nInput: Impact of Covid-19 on Education\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_20",
+    "question": "Come up with a metaphor for how I am feeling.\nInput: Feeling: Tired and overwhelmed.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_21",
+    "question": "Connect a device to a local network.\nInput: The device is an Android tablet.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_22",
+    "question": "Provide an example of how to be a better listener.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_23",
+    "question": "Categorize the type of pronouns used in this sentence.\nInput: She was happy for him.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_24",
+    "question": "In this task, you need to restate the sentence using the given word.\nInput: She was dancing. Word: twirl\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_25",
+    "question": "Edit the following sentence to make it sound more formal: “we spoke on the phone”\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_26",
+    "question": "Name 3 programming languages that are used to develop applications\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_27",
+    "question": "Generate a html code in order to create a simple form\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_28",
+    "question": "Create a data visualization displaying the impact of rising sea levels in the last 100 years.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_29",
+    "question": "What is the first prime number greater than 100?\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_30",
+    "question": "How does debt consolidation work?\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_31",
+    "question": "Can you design a logo for a fashion brand?\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_32",
+    "question": "Follow the instructions - create a list of 7 items related to a given country.\nInput: Australia\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_33",
+    "question": "Design a survey questionnaire to find out the reason customers choose a particular restaurant.\nInput: Noinput\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_34",
+    "question": "How would you respond to someone who said \"you never listen to me\"?\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_35",
+    "question": "Come up with three interesting facts about the Mauna Kea volcano.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_36",
+    "question": "Approximate the area of a rectangle sized 12 cm by 18 cm\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_37",
+    "question": "Write two verses of a song about nature.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_38",
+    "question": "How many different colors are in the British flag?\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_39",
+    "question": "Outline the main points of a speech about the effects of climate change\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_40",
+    "question": "Generate a five-sentence story about Alice waking up late.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_41",
+    "question": "Create a catchy headline for an article on data privacy\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_42",
+    "question": "Find and list five cities in Japan.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_43",
+    "question": "Suggest a website for creating free logos\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_44",
+    "question": "Write a short story involving an alien life form.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_45",
+    "question": "Research and compare two common medical treatments for a condition.\nInput: Anxiety\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_46",
+    "question": "Identify the risks associated with artificial intelligence.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_47",
+    "question": "Edit the following sentence: She slip on the ice and fell.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_48",
+    "question": "How can we combat climate change?\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_49",
+    "question": "Suggest an alternative title for the book \"To kill a mockingbird\".\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_50",
+    "question": "Compose a tweet with a maximum of 280 characters.\nInput: #DiversityMatters\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_51",
+    "question": "Generate a story about two strangers meeting for the first time.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_52",
+    "question": "State three tips for staying organized.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_53",
+    "question": "Generate a list of the most visited attractions in your city.\nInput: London, UK\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_54",
+    "question": "Given a certain time, answer the following question.\nInput: Time: 2:15 pm\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_55",
+    "question": "Change the points in the given sentence into a single sentence.\nInput: The dog barked. It wagged its tail.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_56",
+    "question": "Explain the role of mitochondria in the cell.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_57",
+    "question": "Identify the most important natural resources.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_58",
+    "question": "Name a disease that is caused by an infectious organism.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_59",
+    "question": "Describe the impact of a software bug on the customer experience.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_60",
+    "question": "Arrange the given sequence of words into a coherent and logical sentence.\nInput: doctors difficult the caring are\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_61",
+    "question": "Describe two possible strategies for managing customer complaints\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_62",
+    "question": "Edit the following sentence to make the punctuation and capitalization more accurate.\nInput: the baker made the best cookies ive ever eaten\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_63",
+    "question": "Research and write up 5 interesting facts about your city\nInput: Los Angeles, USA\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_64",
+    "question": "Explain why some people prefer to use Linux rather than Windows.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_65",
+    "question": "Create a computer program that calculates the area of a circle.\nInput: Radius = 5\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_66",
+    "question": "Compare and contrast the differences between a learning management system (LMS) and course management system (CMS).\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_67",
+    "question": "Reconstruct the following sentence by replacing the word \"an\" with the appropriate pronoun.\nInput: I need an answer as soon as possible.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_68",
+    "question": "Help me solve this math problem\nInput: 6+3*2\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_69",
+    "question": "Identify the tone of this sentence: With the addition of this new technology, our company will reach new heights.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_70",
+    "question": "Describe a flower in 5 sentences.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_71",
+    "question": "Give an example of a chemical change that occurs everyday.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_72",
+    "question": "Replace the idiom with a simpler phrase that conveys the same meaning.\nInput: Idiom: Cut to the chase\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_73",
+    "question": "Discuss the questions to be considered in developing a business plan.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_74",
+    "question": "What could be a possible use case for a conversational AI assistant?\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_75",
+    "question": "Summarize the impact of the given economic trend\nInput: Consumer confidence remains low\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_76",
+    "question": "Classify the following as an example of an idiom\nInput: It's raining cats and dogs\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_77",
+    "question": "What should I do to find the best lawyer in my area?\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_78",
+    "question": "For the given definition provide an appropriate word.\nInput: A state of intense agitation\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_79",
+    "question": "Classify the given animal as a mammal.\nInput: Hedgehog\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_80",
+    "question": "Provide two solutions on how to reduce water consumption in the home.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_81",
+    "question": "Describe a concept in machine learning.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_82",
+    "question": "Classify the words \"happy\", \"jovial\" and \"joyful\"\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_83",
+    "question": "Create an appropriate response\nInput: \"It's been a pleasure working with you.\"\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_84",
+    "question": "Generate a list of topics to include in a given document.\nInput: A guide to creating a business plan\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_85",
+    "question": "How can I reduce my energy consumption?\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_86",
+    "question": "Create a regular expression to find all words with three consonants and one vowel\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_87",
+    "question": "What actions should a company take to prevent data breaches?\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_88",
+    "question": "Write a comparison sentence which compares two items in the following list\nInput: Apple, Orange\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_89",
+    "question": "Tell me why the hypothalamus is an important part of the brain.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_90",
+    "question": "Given the following data points, what is the equation of the line?\nInput: (-2,5) (2,-3)\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_91",
+    "question": "Summarize a book you read recently.\nInput: Utopia for Realists by Rutger Bregman\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_92",
+    "question": "Give me a metaphor to describe a person who is brave.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_93",
+    "question": "Write a script of an interaction between a customer service representative and a customer\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_94",
+    "question": "Name 10 professions and explain how deep learning can be beneficial to them\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_95",
+    "question": "Write an algorithm to calculate the perimeter of a rectangle.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_96",
+    "question": "Create a horror story in five sentences.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_97",
+    "question": "Find 5 synonyms for the given word.\nInput: Amazing\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_98",
+    "question": "Come up with two words that rhyme with the word \"love\".\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_99",
+    "question": "Output the base-10 logarithm of 100.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_100",
+    "question": "What are the most important characteristics of a credit card?\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_101",
+    "question": "Categorize the following words under the correct parts of speech.\nInput: - Quick\n- Explained\n- Constantly\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_102",
+    "question": "Rewrite the following poem with a new content, using the same rhyme scheme\nInput: An apple a day \nKeeps the doctor away\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_103",
+    "question": "Write a function to validate an email address.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_104",
+    "question": "Rewrite the following sentence to make it more descriptive: \"I love to dance.\"\nInput: I love to dance.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_105",
+    "question": "Create 3 creative metaphors to describe the sound of a thunder storm.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_106",
+    "question": "Explain in one sentence the concept of Einstein's general theory of relativity.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_107",
+    "question": "Name the five basic elements of digital marketing.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_108",
+    "question": "Find the atomic mass of oxygen using the periodic table.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_109",
+    "question": "Generate an unlimited number of ideas for creating an algorithm that detects plagiarism.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_110",
+    "question": "Find a synonym for the word in the input and output the synonym.\nInput: Astronomical\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_111",
+    "question": "Write a story about a new creature discovered in a forest.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_112",
+    "question": "Normalize the English text to lowercased words and punctuation marks using regular expressions\nInput: He said, “It's time to go!”\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_113",
+    "question": "In 100 words or less, tell a story about the consequences of the choices people make\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_114",
+    "question": "Read the given paragraph and indicate the figure of speech being used\nInput: A rolling stone gathers no moss\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_115",
+    "question": "Explain the process of photosynthesis in one paragraph.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_116",
+    "question": "Explain the following quote: \"The greater the difficulty, the more glory in surmounting it.\"\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_117",
+    "question": "Given the following data, calculate the average cost of a meal.\nInput: Cost of meals: $15, $20, $12, $18\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_118",
+    "question": "Give an example of an appropriate goal for an employee.\nInput: Noinput\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_119",
+    "question": "Explain how natural language processing can improve customer service.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_120",
+    "question": "How would you explain the concept of artificial intelligence to a group of middle schoolers?\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_121",
+    "question": "Generate a metaphor for strength.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_122",
+    "question": "Identify the fields in which IoT is used.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_123",
+    "question": "Create a descriptive character profile of a cat.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_124",
+    "question": "Train a neural network to accurately classify different types of animals.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_125",
+    "question": "What are the three components of the IoT architecture?\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_126",
+    "question": "Explain why some programming languages are easier to read than others.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_127",
+    "question": "Output the solution to the following equation: 10/2+3\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_128",
+    "question": "Calculate the volume of a cube with side length 8 meters\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_129",
+    "question": "Which of the following countries is the least populated?\nInput: A. France \nB. England \nC. Russia \nD. Japan\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_130",
+    "question": "Generate a 4-digit PIN code\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_131",
+    "question": "What can be done to reduce air pollution?\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_132",
+    "question": "What is the name of the capital of Turkey?\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_133",
+    "question": "Generate a list of the top 5 time management tips.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_134",
+    "question": "Show me the corresponding flag for Ireland\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_135",
+    "question": "Determine the chemical equation for the reaction between Carbon dioxide and water\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_136",
+    "question": "List three methods for dealing with climate change.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_137",
+    "question": "Describe how a person would feel after drinking an energy drink\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_138",
+    "question": "Create a storyboard of a given concept.\nInput: Earning money through a side hustle\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_139",
+    "question": "Correct the spelling for the given word.\nInput: Affter\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_140",
+    "question": "Describe a feature of a wind turbine.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_141",
+    "question": "Identify three characteristics of the given species.\nInput: Lemurs are primates native to Madagascar.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_142",
+    "question": "Output a piece of code that will print out a list containing the numbers from 1 to 10.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_143",
+    "question": "What is the essence of Socrates' philosophy?\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_144",
+    "question": "Describe why artificial intelligence is important.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_145",
+    "question": "Arrange the following five numbers in ascending order: 7, 4, 8, 1, 9.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_146",
+    "question": "Add two adjectives to this sentence that describe the quality of sleep\nInput: I had a good night's sleep\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_147",
+    "question": "Automatically generate a sexual free meme caption.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_148",
+    "question": "For the given sentence, replace the adjective with a synonym.\nInput: She walked down the narrow hallway.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_149",
+    "question": "Please find a conference on artificial intelligence.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_150",
+    "question": "Output a 4-digit code that follows these rules: the first digit is odd, the second digit is a multiple of 3, the third digit is divisible by 5, and the fourth digit is equal to the sum of the first three digits.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_151",
+    "question": "Generate a 12-point outline for the topic \"Effective Communication\".\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_152",
+    "question": "Provide a simple explanation of the following term\nInput: Artificial Intelligence\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_153",
+    "question": "Name a modern form of communication.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_154",
+    "question": "Write an algorithm to determine the digital root of a number.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_155",
+    "question": "Name a common tool used in woodworking.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_156",
+    "question": "Put together a recipe for a given dish.\nInput: Chocolate Chip Cookies\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_157",
+    "question": "Correct the incorrect pronoun in the following sentence.\nInput: Them ended up ordering pizza for dinner.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_158",
+    "question": "Provide an example of an allegory.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_159",
+    "question": "List three ways to conserve water.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_160",
+    "question": "Convert from celsius to fahrenheit.\nInput: Temperature in Celsius: 15\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_161",
+    "question": "Provide the missing word in the given sentence.\nInput: The sun rose __ the horizon.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_162",
+    "question": "Write a short (max 50 words) description of a painting.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_163",
+    "question": "Describe what changes the environment in a decade.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_164",
+    "question": "Explain the difference between systematic and unsystematic risk\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_165",
+    "question": "Explain what a neutron star is.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_166",
+    "question": "Write a job description for a software engineer.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_167",
+    "question": "Describe how machines can help people with their daily tasks.\nInput: Noinput\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_168",
+    "question": "Construct a regular expression that will match strings of four digits.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_169",
+    "question": "Gather 3 reliable sources to prove the given statement.\nInput: Climate change is a growing problem\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_170",
+    "question": "Construct a formula using the provided terms.\nInput: Terms: Gravitational acceleration (g), Mass (m)\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_171",
+    "question": "What is the equivalent of 3 ounces in cups?\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_172",
+    "question": "Create a list of safety measures for operating machinery.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_173",
+    "question": "Describe the role that blockchain technology plays in cryptocurrency transactions.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_174",
+    "question": "Analyze the given sentence and use the findings to construct a new sentence.\nInput: The cats lounged in the sun.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_175",
+    "question": "Describe the role of Data Science in AI-enabled decision making\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_176",
+    "question": "Create a database query to calculate the total sales in the past week.\nInput: Table name = sales\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_177",
+    "question": "Write a few sentences from the point of view of an alien\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_178",
+    "question": "Design an educational game to help children learn the capital cities of countries in a fun way.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_179",
+    "question": "Rewrite the following sentence in a way that changes the tense: \"I am drinking tea.\"\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_180",
+    "question": "Write an ad for a new food delivery service\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_181",
+    "question": "Take the given sentence and transform it into a haiku.\nInput: The cold winds are blowing.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_182",
+    "question": "Generate an original horror story with a minimum of 100 words.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_183",
+    "question": "Create a story about an unusual friendship\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_184",
+    "question": "Reorder the following verbs in the order that they occurred in the text.\nInput: ran, held, shouted\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_185",
+    "question": "What is the energy produced by the combustion of methane?\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_186",
+    "question": "Create a short poem about autumn.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_187",
+    "question": "Generate a creative and catchy slogan for a pet store.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_188",
+    "question": "Generate 5 keywords for a research paper about climate change.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_189",
+    "question": "Suggest one creative solution to mitigate the problem of traffic congestion.\nInput: noinput\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_190",
+    "question": "Write a SQL query that returns the top 10 customers by total spent\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_191",
+    "question": "Calculate the total surface area of a cube with a side length of 5 cm.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_192",
+    "question": "Retrieve the top three results for the given query.\nInput: Best vegetarian restaurants in San Francisco\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_193",
+    "question": "Provide an example of a specific use case for an AI assistant in an academic setting\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_194",
+    "question": "Which figure of speech is used here?\nInput: She was as fit as a fiddle.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_195",
+    "question": "Given the sentence \"I am staying in today\" what is the predicate?\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_196",
+    "question": "What does the acronym S.M.A.R.T. stand for?\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_197",
+    "question": "Given the following sentence,.derive its negative form\nInput: We will meet at the park\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_198",
+    "question": "Given two separate sentences, join them into one using the conjunction 'but'.\nInput: She wanted to go. She was afraid.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_199",
+    "question": "Categorize the spectrum of the given data set.\nInput: [2, 3, 4, 9, 15, 22, 25, 31, 33]\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_200",
+    "question": "Given a given noun, change it to a singular form.\nInput: Studies\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_201",
+    "question": "Generate a list of flowers that begin with the letter 'a'.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_202",
+    "question": "Create a function that converts Celsius to Fahrenheit.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_203",
+    "question": "Edit the following sentence to make it more concise: \"Increasing reading comprehension is one of the primary goals of reading education\"\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_204",
+    "question": "Find the adjective that describes the given noun.\nInput: Love\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_205",
+    "question": "Given the List [1,2,3,4,5], Output the average of the the list.\nInput: [1,2,3,4,5]\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_206",
+    "question": "Write a story about a future world where robots run everything.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_207",
+    "question": "Tell me the result of this equation 14 + 35\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_208",
+    "question": "Write an algorithm that determines the maximum number of elements in a given array.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_209",
+    "question": "Generate a list of 10 diseases that affect cattle\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_210",
+    "question": "Write the opposite of 'She is doing the task'.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_211",
+    "question": "Compose a poem inspired by the beach in Cayman Islands.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_212",
+    "question": "Come up with an original sci-fi story\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_213",
+    "question": "What is the best definition for the term \"habitat\"?\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_214",
+    "question": "Look up a recipe for grilled chicken.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_215",
+    "question": "Create a timeline for the world's tallest mountain.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_216",
+    "question": "Describe a creative way to express love.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_217",
+    "question": "Generate the factorial of a given number.\nInput: Number: 7\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_218",
+    "question": "Give an example of a situation when I should use discretion.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_219",
+    "question": "In this task, you need to find the synonyms of the given words.\nInput: happy, excited\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_220",
+    "question": "Generate a seasonal Fall recipe using these ingredients.\nInput: Pumpkin, Kale, Lentils\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_221",
+    "question": "Schoolteachers are responsible for what?\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_222",
+    "question": "Create a metaphor for how life is like a roller coaster\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_223",
+    "question": "Translate \"Bonjour\" into English.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_224",
+    "question": "How would you solve this math problem?\nInput: 8x + 6 = 52\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_225",
+    "question": "Name three famous figures who were contemporaries of Galileo Galilei.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_226",
+    "question": "Describe the given scene in a few words.\nInput: Two children playing with a ball on the beach.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_227",
+    "question": "Create two distinct synonyms for the word 'crazy'.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_228",
+    "question": "What is the average adult height in centimeters?\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_229",
+    "question": "What is the meaning of the term \"bill of lading\"?\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_230",
+    "question": "Classify the sentiment of this statement\nInput: Chuck's performance on the project was exemplary.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_231",
+    "question": "Balance the following chemical equation.\nInput: Mg + Cl2 →\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_232",
+    "question": "Name a type of Indian cuisine.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_233",
+    "question": "Outline the steps for effectively delegating tasks.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_234",
+    "question": "Find the 3rd term in this sequence:  2, 5, 8, 11\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_235",
+    "question": "Describe the long-term effects of smoking.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_236",
+    "question": "How can you help the environment?\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_237",
+    "question": "In the sentence, change the adverb from an adverb of Manner to an adverb of Degree.\nInput: She spoke quietly.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_238",
+    "question": "Estimate the length of the following river.\nInput: Amazon\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_239",
+    "question": "Generate a realistic scenario to demonstrate the use of the given product.\nInput: Electric car\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_240",
+    "question": "Compose a song about the importance of computer science\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_241",
+    "question": "Give an example of a technology that can help people work remotely\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_242",
+    "question": "Name five U.S. presidents\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_243",
+    "question": "Generate a science project idea for grade 9 students.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_244",
+    "question": "Generate three new ingredients for a cocktail.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_245",
+    "question": "Construct a sentence using the figure of speech \"Simile\"\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_246",
+    "question": "List two advantages of using e-commerce for businesses.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_247",
+    "question": "Rewrite this sentence as an active voice\nInput: The book was published by him.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_248",
+    "question": "Describe a perfect weekend getaway.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_249",
+    "question": "In less than 100 words, explain why it is important to be honest.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_250",
+    "question": "Edit this text to correct any spelling and grammar errors.\nInput: I have a big deam I want to fufil\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_251",
+    "question": "Make an analogy of what it's like to have a pet dog?\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_252",
+    "question": "Provide two examples of supervised and two examples of unsupervised machine learning.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_253",
+    "question": "Write a command in SQL to delete all the data in a table called “Students”\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_254",
+    "question": "Create a recipe for s'mored.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_255",
+    "question": "What is the opposite of \"abundant\"?\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_256",
+    "question": "Generate a scenario in which a spaceship is stuck on a asteroid.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_257",
+    "question": "Create a query for a database that finds all countries in the world with a population greater than 10 million.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_258",
+    "question": "List five types of jobs that require data analysis.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_259",
+    "question": "Convert the currency conversion rate of USD to CAD.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_260",
+    "question": "Suggest a party theme based on the given movie title.\nInput: The Wizard of Oz\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_261",
+    "question": "What is the difference between an LCD and an LED monitor?\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_262",
+    "question": "Develop a game plan for a company to expand into a new market.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_263",
+    "question": "Proofread the following sentence for grammar errors and provide the corrected version.\nInput: I likes apples and oranges\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_264",
+    "question": "Estimate the cost of producing a movie from start to finish.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_265",
+    "question": "Insert the data into the table.\nInput: China | 437.11\nRussia | 463.67\nCanada | 29.6\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_266",
+    "question": "Take the given sentence and add a hyperbole for emphasis.\nInput: I am really tired today.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_267",
+    "question": "Name one feature of a healthy lifestyle.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_268",
+    "question": "Describe a process for doing sentiment analysis.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_269",
+    "question": "Transform the input text into the present perfect tense.\nInput: I finish my homework\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_270",
+    "question": "Classify the following product as organic or non-organic.\nInput: Banana\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_271",
+    "question": "Create a list of five gift ideas that would appropriate for a business colleague.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_272",
+    "question": "Generate a response plan for the following scenario\nInput: Your company just announced a new product launch.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_273",
+    "question": "Write a query for the following search engine:\nInput: Search engine: Google\nTopic: AI Research\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_274",
+    "question": "Convert this sentence into third person\nInput: I'm going to the store.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_275",
+    "question": "Create a list of research questions for a given topic.\nInput: Topic: Mental Health\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_276",
+    "question": "Convert a phrase into a question.\nInput: She is learning about the rainforest.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_277",
+    "question": "Create a funny punchline for the following setup\nInput: A car and a banana peel walk into a bar\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_278",
+    "question": "Given a math problem, find the solution.\nInput: 3x + 5 = 28\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_279",
+    "question": "Analyze why a certain industry is successful\nInput: Game industry\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_280",
+    "question": "Translate a given sentence from German to English.\nInput: Wir müssen früh aufstehen.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_281",
+    "question": "Display the top 5 most expensive countries to visit in Europe.\nInput: <no input>\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_282",
+    "question": "Name the colors of the rainbow.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_283",
+    "question": "Explain how a double taxation agreement works.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_284",
+    "question": "Categorize the following item of clothing\nInput: Jeans\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_285",
+    "question": "Construct a sentence with the words: lion, strength, and courage\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_286",
+    "question": "Generate a creative description for a new type of flower.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_287",
+    "question": "Describe the main features of a shopping cart software.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_288",
+    "question": "Classify the following statement into a high level semantic category: \"The stock markets are surging\"\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_289",
+    "question": "Write a list of 10 countries that are members of the United Nations.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_290",
+    "question": "What type of comment should someone make when visiting a blog?\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_291",
+    "question": "Name and describe each figure of speech in this sentence.\nInput: He sold the car like hot cakes.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_292",
+    "question": "Take the input and extend it with three more sentences.\nInput: He prepared a strawberry tart for the party.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_293",
+    "question": "Come up with 5 example datasets that demonstrate the use of natural language processing.\nInput: <No input>\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_294",
+    "question": "Create an outline of a persuasive essay about the importance of education.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_295",
+    "question": "Find and explain the permanent solution to the Syrian refugee crisis.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_296",
+    "question": "Generate a title for an article about technology in our future.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_297",
+    "question": "Write an 1850-word horror story.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_298",
+    "question": "Describe the impact of technology on communication in the past decade.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_299",
+    "question": "Tell me three different words that mean the same thing as \"optimistic\".\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_300",
+    "question": "Generate example sentences for the phrase: \"never give up\".\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_301",
+    "question": "What is the importance of using project management software?\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_302",
+    "question": "Identify 3 benefits of eating seafood\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_303",
+    "question": "Why is the Nile River so important?\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_304",
+    "question": "Generate appropriate solution code to print all multiples of 3 between 0 and 30, except 15.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_305",
+    "question": "Interpret the following proverb and explain its relevance to modern life.\nInput: A stitch in time saves nine.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_306",
+    "question": "Divide 856 by 12.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_307",
+    "question": "Select the appropriate option to solve the following equation: 3x+7=20\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_308",
+    "question": "Provide an example of text generated by a language model.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_309",
+    "question": "Suggest three strategies to reduce the carbon footprint.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_310",
+    "question": "Explain why the resolution is important for a document.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_311",
+    "question": "Given a sentence, remove its references to time.\nInput: Last Saturday I went to the park.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_312",
+    "question": "Find the lowest common multiple of two numbers.\nInput: 36 and 87\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_313",
+    "question": "Compare two types of engines\nInput: Diesel and gasoline\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_314",
+    "question": "Edit the given text to remove grammatical errors without changing the meaning.\nInput: Joey enjoys to drink coffee in the morning.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_315",
+    "question": "Create a poem of 5 lines with the provided word.\nInput: Word: Dreams\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_316",
+    "question": "Name three restaurants near Seattle.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_317",
+    "question": "Take a position on the following issue.\nInput: Issue: Should professional athletes be paid more?\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_318",
+    "question": "Design a web page with 5 navigation items\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_319",
+    "question": "Create a metaphor that relates to cooking.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_320",
+    "question": "Create a multiple choice quiz based on the provided information.\nInput: Topic: Space Exploration\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_321",
+    "question": "Generate a list of three landmarks located in Tokyo.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_322",
+    "question": "Define the term \"cultural relativism.\"\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_323",
+    "question": "Which type of exercise is best for building muscle?\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_324",
+    "question": "How can I keep myself safe while walking in the dark?\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_325",
+    "question": "Generate a story of 20 sentences in the style of William Shakespeare.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_326",
+    "question": "Create verse two of a rap written in the style of T.I.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_327",
+    "question": "Describe a compelling feature of your product.\nInput: StealthFit\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_328",
+    "question": "Craft a story from the following three words: Moon, Whale, Balloon\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_329",
+    "question": "Find and list three quotes about courage.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_330",
+    "question": "Create a new sentence based on the following root sentence \"I can't believe it\".\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_331",
+    "question": "Summarize the film Star Wars: The Empire Strikes Back\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_332",
+    "question": "What did Marie Curie achieve?\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_333",
+    "question": "Given an animal, describe a unique trait of the animal.\nInput: Raccoon\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_334",
+    "question": "Generate a joke about one of the given topics.\nInput: Cats\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_335",
+    "question": "Describe three health benefits of practicing yoga.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_336",
+    "question": "How many teaspoons equal 1 tablespoon?\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_337",
+    "question": "Describe what a person would see if they were looking out the window during a rainstorm\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_338",
+    "question": "Explain linear regression in a simpler language.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_339",
+    "question": "Generate an interesting sentence from the given title.\nInput: \"The Death of John F. Kennedy\"\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_340",
+    "question": "Identify which of these objects is not a mineral.\nInput: Garnet, Gold, Ceramic\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_341",
+    "question": "Using the input, create a view in the database.\nInput: Table: Students\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_342",
+    "question": "Create an email template to ask for a recommendation from a professor.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_343",
+    "question": "Given the input, generate a new option for the list.\nInput: Options: Dog, Cat, Rabbit\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_344",
+    "question": "Find the missing number in the list: 2, 6, 8, 10, 12, __\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_345",
+    "question": "Rewrite the first sentence to make it active voice.\nInput: The drapes were brown in color.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_346",
+    "question": "Translate the following sentence: Je vais à la bibliothèque.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_347",
+    "question": "In this task, you need to convert numbers from words to digits.\nOutput should also be a number, for example \"twelve\" should be output as \"12\".\nInput: forty eight\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_348",
+    "question": "Provide two improvements for the given design.\nInput: [PICTURE]\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_349",
+    "question": "Determine if given two numbers, the first one is greater than the second.\nInput: 75, 67\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_350",
+    "question": "Explain the cultural significance of the given expression.\nInput: \"April showers bring May flowers\"\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_351",
+    "question": "Write a description of the process flow of a restaurant.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_352",
+    "question": "Given a sentence, look up the definition of the words.\nInput: He was filled with joy and mirth.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_353",
+    "question": "How would you create a website similar to Reddit?\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_354",
+    "question": "Give a one-sentence review of this book.\nInput: The Alchemist by Paulo Coelho\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_355",
+    "question": "How can an organization promote and build a culture of diversity and inclusion?\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_356",
+    "question": "Retrieve information about the Internet of Things (IoT).\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_357",
+    "question": "Classify the given sentence into one of three categories.\nInput: The boy ate an apple.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_358",
+    "question": "What are the best practices for burning fat?\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_359",
+    "question": "Edit this sentence: \"John is runing the race.\"\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_360",
+    "question": "Suggest one way to reduce climate change\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_361",
+    "question": "Come up with an analogy to illustrate the saying \"A stitch in time saves nine\".\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_362",
+    "question": "Find a way to replace the word \"large\" by using a synonym.\nInput: The elephant is a large animal.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_363",
+    "question": "Develop a strategy to win the given game.\nInput: Tic-tac-toe\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_364",
+    "question": "Given a movie title, generate a movie synopsis of 50 words.\nInput: The Color Purple\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_365",
+    "question": "Rewrite the following sentence to reflect a formal writing style:\n\"An independent contractor works for themselves, and not for a company.\"\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_366",
+    "question": "Estimate the cost for a two-week vacation to San Francisco for two people.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_367",
+    "question": "Evaluate the following statement: \"The internet will replace physical stores.\"\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_368",
+    "question": "Outline the steps for creating a web page\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_369",
+    "question": "Let's create a story with the heading \"The Distant Adventure\". Give the first line of the story.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_370",
+    "question": "Who wrote the novel To Kill a Mockingbird?\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_371",
+    "question": "Relate the following two concepts.\nInput: Ocean and Mountains\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_372",
+    "question": "Suggest three ways to promote healthy living.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_373",
+    "question": "This is a open-ended generation task. GPT model should generate an appropriate output for the instruction\nInput: How to prepare for a job interview\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_374",
+    "question": "Calculate the amount of money in a bank account with an initial $100 deposit and an interest rate of 6%, compounded annually\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_375",
+    "question": "Compare the nutritional benefits of grass-fed beef and grain-fed beef.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_376",
+    "question": "Explain what a neuromarketing strategy is.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_377",
+    "question": "Given a user's query, identify the intent or purpose of their question.\nInput: How can I find out my credit score?\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_378",
+    "question": "What is the average distance from the earth to the moon?\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_379",
+    "question": "What benefit does the described feature provide?\nInput: This laptop has a backlit keyboard.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_380",
+    "question": "Design a quilt with 5 different colors.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_381",
+    "question": "Find the largest number in the following list.\nInput: [-10, 8, 0, 18, 1]\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_382",
+    "question": "Generate a poem about nature that has four stanzas.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_383",
+    "question": "Can you give me an example of tone deafness?\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_384",
+    "question": "Determine what type of triangle will be formed by the following coordinates: (4, 2), (7, 9), (4, 11).\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_385",
+    "question": "Write a description of a Dungeons and Dragons character.\nInput: A Mage\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_386",
+    "question": "Convert this sentence from passive to active -\nThe door was opened by her\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_387",
+    "question": "Provide an example of a problem-solution essay.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_388",
+    "question": "List some of the benefits of using AI in business.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_389",
+    "question": "Write a creative job title for a social media manager\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_390",
+    "question": "Classify the given animal into one of these categories: mammal, fish, amphibian, reptile, or bird.\nInput: dog\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_391",
+    "question": "Generate a story using the sentence \"The sun was setting\".\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_392",
+    "question": "Generate a soundscape of the beach\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_393",
+    "question": "Describe how the following characters are different.\nInput: Yoda and Darth Vader\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_394",
+    "question": "Explain how to write a user manual for a new software program.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_395",
+    "question": "Describe what happens during the process of photosynthesis.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_396",
+    "question": "Give an example of an active sentence using the verb \"give\".\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_397",
+    "question": "Analyze the following sentence: \"The cold winter wind rustled the leaves\".\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_398",
+    "question": "Complete the sentence using an appropriate noun.\nInput: He was the best _________ I ever had.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_399",
+    "question": "Develop ideas for a new customer loyalty program\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_400",
+    "question": "Find me two characters from the Harry Potter books that have similar personalities.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_401",
+    "question": "Contruct a joke using the words \"boats\" and \"yoghurt\".\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_402",
+    "question": "Specify an algorithm to find the maximum sum in a given array.\nInput: [1,2,3,4]\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_403",
+    "question": "Reword the sentence in order to make it more precise.\nInput: The machine was used to automate tasks.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_404",
+    "question": "Name the stages of the machine learning pipeline.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_405",
+    "question": "Come up with a creative way to make art out of recycled materials.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_406",
+    "question": "How would you explain the concept of natural language processing (NLP) to a 6th grader?\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_407",
+    "question": "Write a story describing a magical journey.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_408",
+    "question": "Reformulate this sentence with a different structure.\nInput: I've had a terrible day today.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_409",
+    "question": "Create a poem that summarises the importance of biodiversity\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_410",
+    "question": "Detect if the following website is trustable.\nInput: https://www.usgooglefacebook.com/\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_411",
+    "question": "Rewrite the following sentence to use an appropriate idiom:\n\nShe wasn't paying attention\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_412",
+    "question": "Come up with a question suitable for a trivia game:\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_413",
+    "question": "Name a major river in South Asia.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_414",
+    "question": "Tell me a few benefits of eating vegetables.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_415",
+    "question": "Write 5 haiku about nature.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_416",
+    "question": "Reword the following sentence so the emphasis lies on the word \"singer\":\nInput: The popular singer took to the stage last night.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_417",
+    "question": "Describe a process of cleaning silverware.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_418",
+    "question": "Generate a story about a forest ranger exploring an uncharted area.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_419",
+    "question": "Outline a strategy for using productivity tools such as Asana.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_420",
+    "question": "Categorize the given list of fruits as either berries or citrus fruits.\nInput: Bananas, strawberries, oranges, limes\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_421",
+    "question": "Generate a list of 5 names of cities from New York.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_422",
+    "question": "Convert the RGB color (255,153,0) to a hex color code.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_423",
+    "question": "Classify the text as positive, neutral of negative.\nInput: I absolutely hate this new program.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_424",
+    "question": "Generate a paragraph that explains the steps to build a Natural Language Processing (NLP) model.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_425",
+    "question": "Make a list of 5 verbs in the past tense.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_426",
+    "question": "Write a short story about a man trying to escape his mundane life\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_427",
+    "question": "Write a story about a scientist who discovers a planet.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_428",
+    "question": "Print the Fibonacci sequence from 0 to 10.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_429",
+    "question": "Compute the minimum score required to pass a test with 15 questions and a passing score of 80%.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_430",
+    "question": "Identify the geographical region of the following river.\nInput: The Tigris\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_431",
+    "question": "Edit this sentence to include a word that reveals what type of store is being featured.\nInput: This store has a lot to offer.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_432",
+    "question": "Write an article about the relationship between mental health and eating habits\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_433",
+    "question": "Suggest a mobile app for social media usage.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_434",
+    "question": "Generate a slogan for this organization.\nInput: Organization name: Save the Pigs\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_435",
+    "question": "Describe the shape of a cube.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_436",
+    "question": "How many continents are there on Earth?\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_437",
+    "question": "List five elements of effective communication.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_438",
+    "question": "Convert the following number in hexadecimal format.\nInput: 3048\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_439",
+    "question": "Name a type of animal found in this habitat.\nInput: Desert\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_440",
+    "question": "Classify the speech act of \"I'm just checking if you are still alive\"\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_441",
+    "question": "Classify this sentence as positive, negative or neutral sentiment: \"I am so tired\".\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_442",
+    "question": "Write a web-scraping script to extract stock information.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_443",
+    "question": "Complete this analogy: \"Fortune favors the ___\"\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_444",
+    "question": "Provide examples of negative words that start with the letter M\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_445",
+    "question": "Construct an invalid logical argument.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_446",
+    "question": "Write a letter to persuade the reader to do something.\nInput: Conduct a research project\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_447",
+    "question": "Rewrite the following sentence so that it is in active voice.\nInput: The problem is being solved by her.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_448",
+    "question": "Identify 3 types of fallacy in argumentation.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_449",
+    "question": "Explain what the evolutionary advantage of eating plants is.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_450",
+    "question": "Create a Facebook post that encourages online shopping.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_451",
+    "question": "Describe the process of making a paper airplane.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_452",
+    "question": "Rearrange list items to be in alphabetical order.\nInput: Ocelot, Tasmanian Devil, Galapagos Tortoise\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_453",
+    "question": "Generate a list of English words starting with the letter \"c\".\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_454",
+    "question": "Translate the following sentence from English to Spanish. Output less than 25 words\nInput: I am learning Spanish.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_455",
+    "question": "Give an example of a problem that can benefit from artificial intelligence technology.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_456",
+    "question": "How do you calculate the distance between two points?\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_457",
+    "question": "Rewrite this phrase using a metaphor\nInput: Data is the currency of the 21st century\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_458",
+    "question": "Name three varieties of fruit.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_459",
+    "question": "Write a code to print out a multiplication table for the number 4.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_460",
+    "question": "Name three organizations working to reduce global poverty.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_461",
+    "question": "Give an example of a person who demonstrates commitment to their work.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_462",
+    "question": "What is the main difference between blockchain and distributed ledger technology?\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_463",
+    "question": "Analyze how the effects of two given drugs interact.\nInput: Ibuprofen and Acetaminophen\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_464",
+    "question": "Find the software release notes for the latest version of Google Chrome.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_465",
+    "question": "Compile a list of the top 5 most popular films from the past 10 years.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_466",
+    "question": "Generate a story about an astronaut visiting the moon.\nInput: \"<noinput>\"\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_467",
+    "question": "Sort the ingredients below in order of importance in a recipe.\nInput: eggs, sugar, vanilla, butter\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_468",
+    "question": "Rewrite the sentence below so that it is grammatically correct.\nInput: Her and I went to the movies\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_469",
+    "question": "Explain why 'practice makes perfect'.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_470",
+    "question": "Suggest some activities one can do while hiking.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_471",
+    "question": "Paraphrase the following sentence: Her cat ran away.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_472",
+    "question": "Identify the given word's root.\nInput: Ambiguous\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_473",
+    "question": "Generate a password of 8 characters.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_474",
+    "question": "Give an example of how Artificial Intelligence can be used in the banking sector.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_475",
+    "question": "Write a survey question to investigate the attitudes of people towards a certain issue.\nInput: attitudes towards gender equality\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_476",
+    "question": "Explain what a digital footprint is.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_477",
+    "question": "Describe what a \"good\" digital assistant should be capable of doing.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_478",
+    "question": "Write an algorithm that would analyze a given text and extract all the nouns from it.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_479",
+    "question": "Research the concept of virtual reality and explain it in one sentence.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_480",
+    "question": "How can data science be used to improve healthcare?\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_481",
+    "question": "Write a story involving a car accident\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_482",
+    "question": "Provide a few facts about the country of Nigeria.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_483",
+    "question": "What memory techniques could help you remember a list of items?\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_484",
+    "question": "Create a rap song about the given subject.\nInput: Education\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_485",
+    "question": "Rewrite the sentence so that it has the same meaning, but no two words start with the same letter.\nInput: The flowers in the garden were blooming brightly.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_486",
+    "question": "Construct a paragraph of maximum 100 words about the process of making pizza\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_487",
+    "question": "Generate five resolutions for living a healthy lifestyle\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_488",
+    "question": "Given a theme, write a research-based article.\nInput: Fire safety in universities\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_489",
+    "question": "Create a tweet that includes a hashtag to increase the visibility of a new product announcement\nInput: [Image of a new product]\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_490",
+    "question": "Retrieve a list of cities in the United Kingdom with a population greater than 500,000.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_491",
+    "question": "Describe in a few sentences about the solar system.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_492",
+    "question": "How would you encourage someone to try something new\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_493",
+    "question": "Write a Python function that encrypts a message using the Caesar cipher.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_494",
+    "question": "Tell me about the Salem Witch Trials.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_495",
+    "question": "Compose a French sentence using the following words: \"neige\" (snow), \"fleur\" (flower), \"jardin\" (garden).\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_496",
+    "question": "Explain how society can promote knowledge sharing.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_497",
+    "question": "Transform the following list of instructions into declarative statements.\nInput: - Scrub your back \n- Gently exfoliate your arms\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_498",
+    "question": "Given two numerical values, calculate the percentage increase.\nInput: Original value: 200\nNew Value: 300\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_499",
+    "question": "Add at least five similes to the following sentence:\nThe leaves flew all around\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_500",
+    "question": "Determine the proper form of the verb for the following sentence.\nInput: The students _____ the exam before the deadline.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_501",
+    "question": "Create a poem that has 8 lines and uses the following words: tree, sky, love, sun.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_502",
+    "question": "Explain what an embedding layer is and its purpose in Machine Learning.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_503",
+    "question": "Design a logo for a company in the food industry.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_504",
+    "question": "Guess the correct answer for this question: What is the capital of Spain?\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_505",
+    "question": "Give a description of the movie \"Pirates of the Caribbean: The Curse of the Black Pearl\".\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_506",
+    "question": "Explain why the moon appears bigger on the horizon than it does in the sky.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_507",
+    "question": "In 150 words, explain why technology is important in today's society.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_508",
+    "question": "Give an example of a question that a chatbot can answer.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_509",
+    "question": "Explain what quantum mechanics is.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_510",
+    "question": "What is the best mentoring advice you have ever received?\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_511",
+    "question": "Give instructions on how to cook an omelette.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_512",
+    "question": "Pretend you are a teacher. Explain what a learning plan is in two sentences.\nInput: <no input>\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_513",
+    "question": "Input the name of an animal and output the animal's scientific name.\nInput: Lion\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_514",
+    "question": "Compare the given products.\nInput: iPhone 11 and Google Pixel 4\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_515",
+    "question": "Which type of events does this actress usually attend?\nInput: Jennifer Aniston\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_516",
+    "question": "Classify the following foods as either healthy or unhealthy:\n\nMashed potatoes, Caesar salad, Poached salmon\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_517",
+    "question": "Create a new setting for a story.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_518",
+    "question": "Given a list of nouns, generate a new sentence with one of the nouns as the subject and one of the nouns as the object.\nInput: List: [Chef, Kangaroo, Fridge, Table]\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_519",
+    "question": "Predict the values of x and y in the following equation: 9x + 4y = 36.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_520",
+    "question": "Provide an example of a positive descriptive statement.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_521",
+    "question": "What type of error is the following piece of code producing?\n\ndef print_hello():\nprint(\"Goodbye\")\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_522",
+    "question": "Write a function to count the occurances of a given character in a string.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_523",
+    "question": "Edit this sentence so that it follows proper grammar rules.\nInput: She gone the store.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_524",
+    "question": "Compare the independence of two countries.\nInput: USA and Canada\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_525",
+    "question": "Generate a list of 5 resorts for a summer vacation.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_526",
+    "question": "How would you explain the concept of Darwinism to an 8th grader?\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_527",
+    "question": "What was the most important invention of the 20th century?\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_528",
+    "question": "Draft a plan for using social media for marketing a small business.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_529",
+    "question": "Rewrite the sentence \"He was able to climb the mountain\" in a positive manner.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_530",
+    "question": "How could you improve the design of the following website?\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_531",
+    "question": "Compose a thank you note to someone who has done you a favor.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_532",
+    "question": "What are the steps to wash hands effectively?\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_533",
+    "question": "Provide an example of a proverb that has to do with money.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_534",
+    "question": "Come up with three more adjectives that can be used to describe the sound of a saxophone.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_535",
+    "question": "Rewrite the following in an active voice:\n\nThe car was driven by the woman\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_536",
+    "question": "Name three different causes of climate change.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_537",
+    "question": "Generate a classic children's story featuring a princess using the given words.\nInput: rescue, traveling, forest, dragon\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_538",
+    "question": "Write a tip to make cooking easier.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_539",
+    "question": "Describe the privacy policies adopted by Facebook.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_540",
+    "question": "Determine whether the sentence is in present perfect or past tense.\nInput: They have seen the movie.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_541",
+    "question": "Describe the positive effects of sleep.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_542",
+    "question": "Look up the facts about the human heart and provide a one-sentence summary.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_543",
+    "question": "Write a 150-word essay about the importance of computer-aided learning.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_544",
+    "question": "Categorize a website into one of the following categories: E-commerce, News, or Education.\nInput: Website: Amazon\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_545",
+    "question": "Compare and contrast the Pros and cons of using renewable energy sources.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_546",
+    "question": "Compose a short story about a father’s journey.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_547",
+    "question": "Write a short story set in the future.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_548",
+    "question": "Explain how turtles help maintain the balance in an ecosystem.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_549",
+    "question": "Explain what kinds of benefits does AI have in the healthcare sector.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_550",
+    "question": "Make an algorithm to solve the following problem: Given an array of positive integers, find all the pairs whose sum is divisible by 3.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_551",
+    "question": "Suppose two chess players play 10 games, how many possible outcomes exist?\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_552",
+    "question": "Name the actors in Star Wars: The Last Jedi.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_553",
+    "question": "Break the sentence into two independent clauses, separated by a comma.\nInput: The sun was setting and the sky was beautiful.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_554",
+    "question": "Suggest an educational field trip for children\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_555",
+    "question": "Create an example of a simple budget for a family of 4.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_556",
+    "question": "Describe a hobby in 15 words or less.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_557",
+    "question": "Write about the battle of Dunkirk.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_558",
+    "question": "Give an example of an occupation which involves working with numbers.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_559",
+    "question": "Output directions to get to 10 Downing Street.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_560",
+    "question": "Given a movie you watched, provide a brief summary of the movie.\nInput: Avengers: Endgame\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_561",
+    "question": "Give a reason why GPT models are a powerful AI tool.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_562",
+    "question": "Suggest a method for reducing stress\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_563",
+    "question": "Convert the measurement 1 liter to gallons.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_564",
+    "question": "Write a tweet about the following topic.\nInput: Motivation\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_565",
+    "question": "Compose a rap verse about a current injustice in the world.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_566",
+    "question": "List three people who have had a significant impact on the world.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_567",
+    "question": "Create a program that can detect if a text is written in English.\nInput: This text is written in English.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_568",
+    "question": "Edit the following sentence to make it more formal:\n\"My phone got stolen so I need to buy a new one\"\nInput: My phone got stolen so I need to buy a new one\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_569",
+    "question": "Arrange the different food items in decreasing order of calories per portion.\nInput: Food items: Apple, Burger, French Fries, Broccoli\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_570",
+    "question": "List 3 popular trends right now\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_571",
+    "question": "Answer the following question: What is the weather in Tajikistan in December?\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_572",
+    "question": "Compose a one-sentence summary of the article \"How AI is Transforming the Future of Healthcare\"\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_573",
+    "question": "Create a blog post on the importance of international volunteering.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_574",
+    "question": "Write 5 sentences about a tree\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_575",
+    "question": "Create a tweet about workplace inclusivity.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_576",
+    "question": "Take this math equation, and explain what it means in layman's terms.\nInput: 2x + 3y = 4z\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_577",
+    "question": "Collect data about the GDP of a country over the last three years\nInput: United Arab Emirates\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_578",
+    "question": "Reword the sentence \"Caring for the elderly requires diligence\" so it is an imperative instruction.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_579",
+    "question": "Indicate which is a better investment: stocks or bonds.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_580",
+    "question": "Compare the production costs of a digital product and a physical product with respect to the climate.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_581",
+    "question": "Create a recipe containing at least 3 ingredients.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_582",
+    "question": "Create a list of five animals native to Mexico.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_583",
+    "question": "Cluster the following items into four different categories.\nInput: - basketball\n- hamburgers \n- books\n- cars\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_584",
+    "question": "Create a css stylesheet to increase font size to 20px, give all text italicized font-style and apply 70% transparency to all elements.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_585",
+    "question": "Translate the phrase \"Good Morning\" to French\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_586",
+    "question": "Generate ideas for reducing air pollution.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_587",
+    "question": "Categorise the following food according to its nutrition content.\nInput: Chocolate cake\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_588",
+    "question": "Identify two professional software development practices.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_589",
+    "question": "Describe the day-to-day job duties of a Human Resources Manager.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_590",
+    "question": "Correct the grammatical errors in the sentence.\nInput: She come to the store for supplies.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_591",
+    "question": "Input a URL and output the domain of that URL, excluding the subdomains.\nInput: https://docs.google.com/document\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_592",
+    "question": "Create an example of a survey to assess customer satisfaction.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja"
+  },
+  {
+    "id": "ife_lang_593",
+    "question": "Compose a story with a beginning, a middle, and an ending.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_594",
+    "question": "Generate a response that expresses surprise for the following statement.\nInput: He ran a marathon in two hours.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_595",
+    "question": "How can one encourage participation in an online discussion forum?\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_596",
+    "question": "Create Two objects of type String.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_597",
+    "question": "Generate a list of five tips to save money on groceries.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_598",
+    "question": "Suggest a dietary change for better health.\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_599",
+    "question": "State four differences between a rose and an apple\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_600",
+    "question": "Explain the concept of 'photosynthesis' to a 5-year-old child.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_601",
+    "question": "Write a Python function to calculate the factorial of a number.\nInput: def factorial(n):\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_602",
+    "question": "Give me a recipe for a classic margarita pizza.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_603",
+    "question": "Summarize the plot of 'Romeo and Juliet' in one sentence.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_604",
+    "question": "What are the three laws of thermodynamics?\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_605",
+    "question": "Write a thank you email to a colleague for their help on a project.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_606",
+    "question": "Describe the benefits of regular exercise.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_607",
+    "question": "Translate the following sentence: 'Artificial Intelligence is transforming the world.'\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_608",
+    "question": "List 5 famous landmarks in Beijing.\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  },
+  {
+    "id": "ife_lang_609",
+    "question": "How do you say 'Where is the nearest train station?'\n\nPlease answer the above strictly in Russian.",
+    "answer": "ru"
+  },
+  {
+    "id": "ife_lang_610",
+    "question": "Create a SQL query to select all users from the 'Customers' table.\n\nPlease answer the above strictly in French.",
+    "answer": "fr"
+  },
+  {
+    "id": "ife_lang_611",
+    "question": "Write a short poem about winter.\n\nPlease answer the above strictly in German.",
+    "answer": "de"
+  },
+  {
+    "id": "ife_lang_612",
+    "question": "Explain the difference between a virus and a bacteria.\n\nPlease answer the above strictly in Spanish.",
+    "answer": "es"
+  },
+  {
+    "id": "ife_lang_613",
+    "question": "What is the capital city of Australia?\n\nPlease answer the above strictly in Chinese.",
+    "answer": "zh-cn"
+  }
+]
