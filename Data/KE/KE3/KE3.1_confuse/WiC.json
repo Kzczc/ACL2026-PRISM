@@ -1,0 +1,982 @@
+[
+  {
+    "ID": 226,
+    "Question": "Sentence (A): The sleeper held down the rails in the train yard. Sentence (B): The election result was a sleeper upset. Do both sentences use the same sense of 'sleeper'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 147,
+    "Question": "Sentence (A): The King will read the proclamation at noon. Sentence (B): Have you read this book yet? Do both sentences use the same sense of 'read'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 158,
+    "Question": "Sentence (A): The project is already in the making. Sentence (B): After baking, remove the loaf from the pan (in the making). Do both sentences use the same sense of 'making'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 132,
+    "Question": "Sentence (A): His entire file is confidential and cannot be opened. Sentence (B): He will file a lawsuit by the end of the month. Do both sentences use the same sense of 'file'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 167,
+    "Question": "Sentence (A): He had a train of thought that led to a solution. Sentence (B): A train of cars passed through the station. Do both sentences use the same sense of 'train'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 135,
+    "Question": "Sentence (A): He is a man of action, always doing something. Sentence (B): After the accident he was out of action for weeks. Do both sentences use the same sense of 'action'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 183,
+    "Question": "Sentence (A): His lack of understanding made things difficult. Sentence (B): We reached a mutual understanding at the end. Do both sentences use the same sense of 'understanding'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 47,
+    "Question": "Sentence (A): She is feeling fine today. Sentence (B): The weather is fine for outdoor activities. Do both sentences use the same sense of fine?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 78,
+    "Question": "Sentence (A): We hike every spring when flowers bloom. Sentence (B): Spring is their favorite season to travel. Do both sentences use the same sense of spring?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 12,
+    "Question": "Sentence (A): In England, football is the most popular sport. Sentence (B): He scored a touchdown in the football game. Do both sentences use the same sense of football?",
+    "Answer": "No"
+  },
+  {
+    "ID": 34,
+    "Question": "Sentence (A): He opened a new savings account at the bank. Sentence (B): She withdrew cash from the bank before closing. Do both sentences use the same sense of bank?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 239,
+    "Question": "Sentence (A): The salesman made a pitch for his product. Sentence (B): They applied pitch to waterproof the roof. Do both sentences use the same sense of 'pitch'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 264,
+    "Question": "Sentence (A): I see the point of your argument. Sentence (B): She pointed the telescope at the stars. Do both sentences use the same sense of 'point'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 20,
+    "Question": "Sentence (A): He took the lift to the top floor. Sentence (B): Can you lift this box for me? Do both sentences use the same sense of lift?",
+    "Answer": "No"
+  },
+  {
+    "ID": 213,
+    "Question": "Sentence (A): His strange expression puzzled the teacher. Sentence (B): Her manner of expression showed how she felt. Do both sentences use the same sense of 'expression'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 218,
+    "Question": "Sentence (A): He is a rain cloud and tends to depress others. Sentence (B): She will rain on my parade by complaining. Do both sentences use the same sense of 'rain'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 247,
+    "Question": "Sentence (A): She had a small mole on her arm. Sentence (B): They employed a mole to spy on the others. Do both sentences use the same sense of 'mole'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 145,
+    "Question": "Sentence (A): I know Latin. Sentence (B): She knows French fluently. Do both sentences use the same sense of 'know'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 39,
+    "Question": "Sentence (A): She aimed her bow and released the arrow. Sentence (B): The archer pulled back the bow to shoot the target. Do both sentences use the same sense of bow?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 162,
+    "Question": "Sentence (A): The purchase of a new house was final. Sentence (B): After the deal, they closed the purchase of the car. Do both sentences use the same sense of 'purchase'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 174,
+    "Question": "Sentence (A): I fear that the worst has happened. Sentence (B): You should not fear the consequences. Do both sentences use the same sense of 'fear'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 286,
+    "Question": "Sentence (A): The British professor was mortified when he realized he had been lecturing to students wearing only his pants under his gown. Sentence (B): Before leaving the dorm, the American student checked his pants pockets to make sure he had not forgotten his wallet. Do both sentences use the same sense of \"pants\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 320,
+    "Question": "Sentence (A): The lifeguard blew his whistle to signal the swimmers that the beach was about to close. Sentence (B): He still couldn't whistle a single bar of the new tune, even though he had the melody in his head. Do both sentences use the same sense of \"whistle\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 263,
+    "Question": "Sentence (A): He approached it with a broad swipe of his arm. Sentence (B): Sweep the floor with a broom. Do both sentences use the same sense of 'sweep'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 67,
+    "Question": "Sentence (A): She poured cereal into a bowl and added milk. Sentence (B): He accidentally spilled the bowl of soup. Do both sentences use the same sense of bowl?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 38,
+    "Question": "Sentence (A): The dog began to bark loudly at the stranger. Sentence (B): She woke up to the sound of a dog barking. Do both sentences use the same sense of bark?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 219,
+    "Question": "Sentence (A): They count the votes after the election. Sentence (B): Count your blessings each day. Do both sentences use the same sense of 'count'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 73,
+    "Question": "Sentence (A): Water is a compound of hydrogen and oxygen. Sentence (B): He created a chemical compound for the experiment. Do both sentences use the same sense of compound?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 268,
+    "Question": "Sentence (A): Let's leave the bottle on the table. Sentence (B): They will table the discussion until next week. Do both sentences use the same sense of 'table'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 2,
+    "Question": "Sentence (A): For lunch, the children had chips with ketchup. Sentence (B): He grabbed a bag of chips and salsa. Do both sentences use the same sense of chips?",
+    "Answer": "No"
+  },
+  {
+    "ID": 242,
+    "Question": "Sentence (A): She struck a match to light the candle. Sentence (B): They made a perfect match in their project. Do both sentences use the same sense of 'match'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 223,
+    "Question": "Sentence (A): Send the students to see the principal. Sentence (B): A portion of your payment goes to reduce the principal. Do both sentences use the same sense of 'principal'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 171,
+    "Question": "Sentence (A): Your guests are now in my custody. Sentence (B): The mother was awarded custody of her children. Do both sentences use the same sense of 'custody'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 189,
+    "Question": "Sentence (A): Make sure to deflate the balloons after the party. Sentence (B): Deflate the air mattress before storing it. Do both sentences use the same sense of 'deflate'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 292,
+    "Question": "Sentence (A): He warmed up on the cricket pitch before the match, carefully gauging the angle of his swing against the ball. Sentence (B): The roofer applied molten pitch to the wooden seams to waterproof the ship's hull. Do both sentences use the same sense of \"pitch\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 101,
+    "Question": "Sentence (A): The article aimed to demystify the science behind solar panels. Sentence (B): We need to demystify the process by explaining it step by step. Do both sentences use the same sense of 'demystify'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 19,
+    "Question": "Sentence (A): The concert hall's flat note held everyone in awe. Sentence (B): The old tire was flat and needed air. Do both sentences use the same sense of flat?",
+    "Answer": "No"
+  },
+  {
+    "ID": 295,
+    "Question": "Sentence (A): The room was dim, so she turned on the light to see the book she wanted to read. Sentence (B): Even with his heavy backpack, he felt surprisingly light after running five miles and working out daily. Do both sentences use the same sense of \"light\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 204,
+    "Question": "Sentence (A): The river has considerable extent. Sentence (B): The extent of the damage was vast. Do both sentences use the same sense of 'extent'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 220,
+    "Question": "Sentence (A): The subtlety of taste is sensitivity to salt. Sentence (B): A galvanometer of extreme sensitivity detected the current. Do both sentences use the same sense of 'sensitivity'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 193,
+    "Question": "Sentence (A): The psychiatrist will counsel the patient. Sentence (B): The lawyer counseled his client to remain silent. Do both sentences use the same sense of 'counsel'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 180,
+    "Question": "Sentence (A): The wounded were treated by medics in the field. Sentence (B): They left the wounded on the battlefield. Do both sentences use the same sense of 'wounded'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 290,
+    "Question": "Sentence (A): After the lecture, she waited for the coach at the station that would take her to London for the weekend. Sentence (B): She hired a personal trainer to help coach her to reach her fitness goals before the marathon. Do both sentences use the same sense of \"coach\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 323,
+    "Question": "Sentence (A): The coach had to train the apprentice electrician how to replace the complex breaker panel. Sentence (B): Every morning, he catches the commuter train to travel into the city for work. Do both sentences use the same sense of \"train\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 26,
+    "Question": "Sentence (A): He wore braces to hold up his trousers. Sentence (B): She got braces to straighten her teeth. Do both sentences use the same sense of braces?",
+    "Answer": "No"
+  },
+  {
+    "ID": 166,
+    "Question": "Sentence (A): He achieved a rank of 23 on the leaderboard. Sentence (B): The hotel was of the first rank in the city. Do both sentences use the same sense of 'rank'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 105,
+    "Question": "Sentence (A): While driving home I took an excursion and saw some deer. Sentence (B): They planned several summer excursions to the beach. Do both sentences use the same sense of 'excursion'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 106,
+    "Question": "Sentence (A): The rescue team managed to suppress the flow of oil from the well. Sentence (B): This medication can suppress the fever. Do both sentences use the same sense of 'suppress'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 27,
+    "Question": "Sentence (A): He put on a vest under his shirt. Sentence (B): She wore a silver vest with her suit. Do both sentences use the same sense of vest?",
+    "Answer": "No"
+  },
+  {
+    "ID": 11,
+    "Question": "Sentence (A): She took a holiday from work in July. Sentence (B): The holiday lights were beautiful in December. Do both sentences use the same sense of holiday?",
+    "Answer": "No"
+  },
+  {
+    "ID": 206,
+    "Question": "Sentence (A): They plan to exchange gifts. Sentence (B): The hostages were exchanged for prisoners. Do both sentences use the same sense of 'exchange'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 49,
+    "Question": "Sentence (A): He has a firm grip on the situation. Sentence (B): The mattress is very firm and supportive. Do both sentences use the same sense of firm?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 6,
+    "Question": "Sentence (A): He adjusted his pants before leaving the house. Sentence (B): He put on his pants before going to bed. Do both sentences use the same sense of pants?",
+    "Answer": "No"
+  },
+  {
+    "ID": 227,
+    "Question": "Sentence (A): A correction of errors is needed in the report. Sentence (B): The vision correction improved his eyesight. Do both sentences use the same sense of 'correction'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 54,
+    "Question": "Sentence (A): He struck a match to light the candle. Sentence (B): She searched for a match in the box to start the fire. Do both sentences use the same sense of match?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 35,
+    "Question": "Sentence (A): A bat flew into the cave last night. Sentence (B): She saw a bat hanging from the roof of the barn. Do both sentences use the same sense of bat?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 159,
+    "Question": "Sentence (A): They met before the set of the sun. Sentence (B): She won two sets of tennis. Do both sentences use the same sense of 'set'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 301,
+    "Question": "Sentence (A): He prepared soup in a porcelain bowl to keep it warm during the picnic. Sentence (B): They wanted to bowl the last frame perfectly to win the game at the bowling alley. Do both sentences use the same sense of \"bowl\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 300,
+    "Question": "Sentence (A): The cat leaped into the air, using the coil spring in the mattress to reach the windowsill. Sentence (B): The musicians worked on a symphony inspired by the flowers and rebirth of spring. Do both sentences use the same sense of \"spring\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 157,
+    "Question": "Sentence (A): She underwent conversion to a new faith. Sentence (B): The binary conversion yielded a different output. Do both sentences use the same sense of 'conversion'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 100,
+    "Question": "Sentence (A): He is a man of unflagging conscience. Sentence (B): He has no conscience about his cruelty. Do both sentences use the same sense of 'conscience'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 87,
+    "Question": "Sentence (A): She polished her shoes until they shone. Sentence (B): He needed to polish the silverware. Do both sentences use the same sense of polish?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 274,
+    "Question": "Sentence (A): She tied a knot in the rope. Sentence (B): It was a knot of investigators at the scene. Do both sentences use the same sense of 'knot'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 209,
+    "Question": "Sentence (A): Career women call glass ceilings penetration of the workforce. Sentence (B): He was arrested for penetration of a locked area. Do both sentences use the same sense of 'penetration'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 107,
+    "Question": "Sentence (A): The leakiness of the roof caused damage in the attic. Sentence (B): The boat's leakiness made it dangerous to use. Do both sentences use the same sense of 'leakiness'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 224,
+    "Question": "Sentence (A): We will row the boat across the lake. Sentence (B): They rowed the canals in Venice. Do both sentences use the same sense of 'row'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 155,
+    "Question": "Sentence (A): He has no means to solve this problem. Sentence (B): Meditation is one means to reduce stress. Do both sentences use the same sense of 'means'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 104,
+    "Question": "Sentence (A): We should fly by air instead of taking the train. Sentence (B): The air quality in the city is improving. Do both sentences use the same sense of 'air'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 205,
+    "Question": "Sentence (A): They will build a new library. Sentence (B): She built a career as an engineer. Do both sentences use the same sense of 'build'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 179,
+    "Question": "Sentence (A): It was created with the conscious aim of answering needs. Sentence (B): He took aim and fired the arrow. Do both sentences use the same sense of 'aim'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 188,
+    "Question": "Sentence (A): We put the time of arrival at 8 PM. Sentence (B): Put your suitcase in the trunk. Do both sentences use the same sense of 'put'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 329,
+    "Question": "Sentence (A): She wielded a sharpened spade to dig a hole for the tree in her garden. Sentence (B): At the poker table, he proudly revealed that he held the ace of spades, guaranteeing his victory. Do both sentences use the same sense of \"spade\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 181,
+    "Question": "Sentence (A): Boil this liquid until it evaporates. Sentence (B): Boil some water for tea. Do both sentences use the same sense of 'boil'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 75,
+    "Question": "Sentence (A): He lit a match to start the campfire. Sentence (B): They used a match from the box to light the candles. Do both sentences use the same sense of match?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 114,
+    "Question": "Sentence (A): Please tighten the screw a quarter-turn. Sentence (B): We need to tighten the wire on the lamp. Do both sentences use the same sense of 'tighten'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 94,
+    "Question": "Sentence (A): Relieve the pressure and the stress. Sentence (B): This pill will relieve your headaches. Do both sentences use the same sense of 'relieve'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 310,
+    "Question": "Sentence (A): She struck a match to light the candle before the power went out. Sentence (B): They watched an exciting soccer match that ended in a thrilling tie. Do both sentences use the same sense of \"match\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 123,
+    "Question": "Sentence (A): This formula expresses the work done. Sentence (B): Work equals force times distance in physics. Do both sentences use the same sense of 'work'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 133,
+    "Question": "Sentence (A): I suspect that he has the answer. Sentence (B): They suspected the leader of foul play. Do both sentences use the same sense of 'suspect'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 248,
+    "Question": "Sentence (A): Spring is my favorite season. Sentence (B): She likes to season her food with herbs. Do both sentences use the same sense of 'season'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 89,
+    "Question": "Sentence (A): The old ship began to sink after hitting the iceberg. Sentence (B): A heavy container would sink if placed on water. Do both sentences use the same sense of sink?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 7,
+    "Question": "Sentence (A): He loaded groceries into the boot of the car. Sentence (B): She polished her boots before the hike. Do both sentences use the same sense of boot?",
+    "Answer": "No"
+  },
+  {
+    "ID": 60,
+    "Question": "Sentence (A): He gave her a diamond ring. Sentence (B): She admired the gold ring on her finger. Do both sentences use the same sense of ring?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 92,
+    "Question": "Sentence (A): He was a man of judicial deliberation. Sentence (B): A little deliberation would have deterred them. Do both sentences use the same sense of 'deliberation'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 134,
+    "Question": "Sentence (A): The furniture arrangement made the room cozy. Sentence (B): They changed the arrangement of topics at the meeting. Do both sentences use the same sense of 'arrangement'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 170,
+    "Question": "Sentence (A): Do not relax your effort now. Sentence (B): The rules relaxed after the new manager arrived. Do both sentences use the same sense of 'relax'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 56,
+    "Question": "Sentence (A): She painted her nails bright red. Sentence (B): I broke my fingernail while gardening. Do both sentences use the same sense of nail?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 85,
+    "Question": "Sentence (A): The restaurant added a service charge to the bill. Sentence (B): They refused to pay the extra charge for delivery. Do both sentences use the same sense of charge?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 90,
+    "Question": "Sentence (A): She made a slip and apologized immediately. Sentence (B): He corrected the slip in his report before submitting. Do both sentences use the same sense of slip?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 203,
+    "Question": "Sentence (A): He fumbled the key before opening the door. Sentence (B): She fumbled with the keys in her purse. Do both sentences use the same sense of 'fumble'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 25,
+    "Question": "Sentence (A): They had dinner around noon at the festival. Sentence (B): He cooked dinner for his family at 7pm. Do both sentences use the same sense of dinner?",
+    "Answer": "No"
+  },
+  {
+    "ID": 293,
+    "Question": "Sentence (A): She quickly calculated the mean of the test scores to share the average with her classmates. Sentence (B): When he apologized, she understood that he didn't mean any offense by the joke he had made. Do both sentences use the same sense of \"mean\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 95,
+    "Question": "Sentence (A): She quieted down after being shouted at. Sentence (B): Once you quiet the music, we can talk. Do both sentences use the same sense of 'quiet'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 306,
+    "Question": "Sentence (A): On the beach, she tried to catch the biggest wave on her surfboard as the sun set. Sentence (B): He gave a wave to his neighbor as they passed each other on the sidewalk. Do both sentences use the same sense of \"wave\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 61,
+    "Question": "Sentence (A): The phone began to ring unexpectedly. Sentence (B): She heard the doorbell ring and answered it. Do both sentences use the same sense of ring?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 97,
+    "Question": "Sentence (A): Consult with specialists regularly. Sentence (B): They had frequent consultations on management. Do both sentences use the same sense of 'consultation'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 74,
+    "Question": "Sentence (A): The match between the rivals ended in a draw. Sentence (B): They watched the final match of the tournament. Do both sentences use the same sense of match?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 212,
+    "Question": "Sentence (A): Camels hate leaving their mates behind. Sentence (B): He found his mate in the chess tournament. Do both sentences use the same sense of 'mate'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 256,
+    "Question": "Sentence (A): He caught the fish in his net. Sentence (B): After tax, his profit was $100 net. Do both sentences use the same sense of 'net'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 255,
+    "Question": "Sentence (A): She lives in a nice flat in London. Sentence (B): He made sure the tire was not flat. Do both sentences use the same sense of 'flat'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 228,
+    "Question": "Sentence (A): He will fumble the ball if he isn't careful. Sentence (B): She fumbled for the keys in her pocket. Do both sentences use the same sense of 'fumble'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 63,
+    "Question": "Sentence (A): He threw a rock into the lake. Sentence (B): She found a shiny rock on the beach. Do both sentences use the same sense of rock?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 86,
+    "Question": "Sentence (A): He learned Polish while living in Warsaw. Sentence (B): She speaks Polish fluently. Do both sentences use the same sense of Polish?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 208,
+    "Question": "Sentence (A): She is a dedicated groom for show horses. Sentence (B): He groomed himself before the interview. Do both sentences use the same sense of 'groom'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 31,
+    "Question": "Sentence (A): She put groceries in the trolley at the supermarket. Sentence (B): The trolley on the city street screeched as it turned. Do both sentences use the same sense of trolley?",
+    "Answer": "No"
+  },
+  {
+    "ID": 66,
+    "Question": "Sentence (A): He learned how to bowl a cricket ball. Sentence (B): They went to bowl at the local alley. Do both sentences use the same sense of bowl?",
+    "Answer": "No"
+  },
+  {
+    "ID": 324,
+    "Question": "Sentence (A): In school, his favorite subject was history, because he loved learning about past civilizations. Sentence (B): After the hearing, the mayor decided not to subject himself to any more interviews regarding the controversy. Do both sentences use the same sense of \"subject\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 326,
+    "Question": "Sentence (A): They left their shoes on the porch and played barefoot in the backyard until sunset. Sentence (B): The football player scored a touchdown as he ran seventy yards down the field. Do both sentences use the same sense of \"yard\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 152,
+    "Question": "Sentence (A): Check the parity bits in the data. Sentence (B): We must consider the mother's parity in the medical study. Do both sentences use the same sense of 'parity'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 124,
+    "Question": "Sentence (A): Career women call glass ceilings penetration of the workforce. Sentence (B): The cat penetrated the house through an open window. Do both sentences use the same sense of 'penetration'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 119,
+    "Question": "Sentence (A): The prisoner tried to flee, but was caught by the guards. Sentence (B): He threw down his gun and fled. Do both sentences use the same sense of 'flee'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 8,
+    "Question": "Sentence (A): She kept spare tires in the boot of the car. Sentence (B): He lost one of his boots on the trail. Do both sentences use the same sense of boot?",
+    "Answer": "No"
+  },
+  {
+    "ID": 304,
+    "Question": "Sentence (A): We decided to park by the lake and enjoy a quiet afternoon of fishing and reading. Sentence (B): He needed to park himself on the couch for a moment to rest his aching feet after hiking. Do both sentences use the same sense of \"park\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 91,
+    "Question": "Sentence (A): Be careful not to slip on the icy path. Sentence (B): He tends to slip when walking on wet floors. Do both sentences use the same sense of slip?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 10,
+    "Question": "Sentence (A): We're planning a holiday to Spain next month. Sentence (B): Christmas is a public holiday in many countries. Do both sentences use the same sense of holiday?",
+    "Answer": "No"
+  },
+  {
+    "ID": 163,
+    "Question": "Sentence (A): The lines converge at this point. Sentence (B): Social forces converged to bring the regime down. Do both sentences use the same sense of 'converge'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 250,
+    "Question": "Sentence (A): Don't be mean to your sister. Sentence (B): What does this word mean? Do both sentences use the same sense of 'mean'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 121,
+    "Question": "Sentence (A): We stalk the woods for deer every fall. Sentence (B): The police stalked the suspect around the perimeter. Do both sentences use the same sense of 'stalk'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 231,
+    "Question": "Sentence (A): The dog's bark was louder than ever. Sentence (B): The tree's bark is rough to the touch. Do both sentences use the same sense of 'bark'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 71,
+    "Question": "Sentence (A): They used a crane to lift the heavy beam. Sentence (B): The crane lifted the container onto the ship. Do both sentences use the same sense of crane?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 251,
+    "Question": "Sentence (A): He likes to beat eggs for the cake. Sentence (B): His heart beat stopped momentarily. Do both sentences use the same sense of 'beat'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 267,
+    "Question": "Sentence (A): He won the buckle trophy at the fair. Sentence (B): She buckled under the pressure of deadlines. Do both sentences use the same sense of 'buckle'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 44,
+    "Question": "Sentence (A): They decided to go on a date to the movie theater. Sentence (B): He asked her out on a date for dinner. Do both sentences use the same sense of date?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 240,
+    "Question": "Sentence (A): The duck swam across the pond. Sentence (B): She had to duck under the table. Do both sentences use the same sense of 'duck'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 307,
+    "Question": "Sentence (A): The geologist discovered a rare quartz rock while studying the mountain range. Sentence (B): She loves to rock out to classic rock music when she needs motivation. Do both sentences use the same sense of \"rock\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 32,
+    "Question": "Sentence (A): He went to the bank to deposit some cash. Sentence (B): The bank approved her loan application. Do both sentences use the same sense of bank?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 316,
+    "Question": "Sentence (A): She was surprised to see the dice scattered across the kitchen floor after her toddler played with them. Sentence (B): He had to dice the onions quickly while cooking so dinner would be ready on time. Do both sentences use the same sense of \"dice\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 116,
+    "Question": "Sentence (A): All parties agree on the new plan. Sentence (B): They agree to disagree on some points. Do both sentences use the same sense of 'agree'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 305,
+    "Question": "Sentence (A): The composer wrote a new musical score for the orchestra to perform next month. Sentence (B): They needed to score four more points to win the basketball game in the final seconds. Do both sentences use the same sense of \"score\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 160,
+    "Question": "Sentence (A): Let's rent a car for the trip. Sentence (B): We rented our apartment to some friends over the summer. Do both sentences use the same sense of 'rent'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 241,
+    "Question": "Sentence (A): The prime minister announced a new law. Sentence (B): The local minister opened the new church. Do both sentences use the same sense of 'minister'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 296,
+    "Question": "Sentence (A): She seasoned the stew with rosemary and thyme before letting it simmer for hours. Sentence (B): The basketball team practiced every day hoping to improve before the start of the next season. Do both sentences use the same sense of \"season\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 271,
+    "Question": "Sentence (A): She will not lie to her parents. Sentence (B): Lie back and relax on the sofa. Do both sentences use the same sense of 'lie'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 229,
+    "Question": "Sentence (A): The river has considerable extent. Sentence (B): The extent of the damage was severe. Do both sentences use the same sense of 'extent'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 245,
+    "Question": "Sentence (A): He caught a bass in the lake. Sentence (B): She plays the bass guitar in a band. Do both sentences use the same sense of 'bass'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 172,
+    "Question": "Sentence (A): Unrest erupted in the city overnight. Sentence (B): He tends to erupt in anger at small things. Do both sentences use the same sense of 'erupt'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 43,
+    "Question": "Sentence (A): What is the date today? Sentence (B): She wrote the date at the top of the page. Do both sentences use the same sense of date?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 122,
+    "Question": "Sentence (A): He gained access to the building through the back door. Sentence (B): It took months to gain access to the restricted files. Do both sentences use the same sense of 'access'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 140,
+    "Question": "Sentence (A): He will extend the deadline by one week. Sentence (B): The backyard will extend another 100 feet. Do both sentences use the same sense of 'extend'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 33,
+    "Question": "Sentence (A): They had a picnic on the bank of the river. Sentence (B): A fisherman sat quietly on the river bank. Do both sentences use the same sense of bank?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 262,
+    "Question": "Sentence (A): I'll block the alley with crates. Sentence (B): They live in a block of apartments. Do both sentences use the same sense of 'block'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 18,
+    "Question": "Sentence (A): She lives in a flat on the fourth floor. Sentence (B): The car tire went flat on the highway. Do both sentences use the same sense of flat?",
+    "Answer": "No"
+  },
+  {
+    "ID": 125,
+    "Question": "Sentence (A): He raised a barn with old-fashioned methods. Sentence (B): He had to raise the fallen flag. Do both sentences use the same sense of 'raise'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 22,
+    "Question": "Sentence (A): It's cold; wear a jumper. Sentence (B): The basketball player made a jumper from the free throw line. Do both sentences use the same sense of jumper?",
+    "Answer": "No"
+  },
+  {
+    "ID": 21,
+    "Question": "Sentence (A): The lift in the building was under maintenance. Sentence (B): They lift weights at the gym every morning. Do both sentences use the same sense of lift?",
+    "Answer": "No"
+  },
+  {
+    "ID": 148,
+    "Question": "Sentence (A): She has been editing the local paper for years. Sentence (B): Please edit this film for the screening. Do both sentences use the same sense of 'edit'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 243,
+    "Question": "Sentence (A): Light backpacks are easier for hiking. Sentence (B): They turned on the light before entering. Do both sentences use the same sense of 'light'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 62,
+    "Question": "Sentence (A): She loves listening to rock music on weekends. Sentence (B): They attended a rock concert in the park. Do both sentences use the same sense of rock?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 79,
+    "Question": "Sentence (A): The mattress has a broken spring inside. Sentence (B): He repaired the spring under the sofa cushion. Do both sentences use the same sense of spring?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 210,
+    "Question": "Sentence (A): We decided to hit the road early. Sentence (B): The sight of her husband made her heart skip a beat when it hit her. Do both sentences use the same sense of 'hit'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 178,
+    "Question": "Sentence (A): Don't forget to shuffle the cards before dealing. Sentence (B): The data packets were shuffled before transmission. Do both sentences use the same sense of 'shuffle'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 5,
+    "Question": "Sentence (A): We enjoyed tea and biscuits this afternoon. Sentence (B): The special included biscuits and sausage gravy. Do both sentences use the same sense of biscuit?",
+    "Answer": "No"
+  },
+  {
+    "ID": 312,
+    "Question": "Sentence (A): He needed to take a short break from studying to rest his eyes. Sentence (B): The burglar planned to break into the office after midnight when no one was there. Do both sentences use the same sense of \"break\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 83,
+    "Question": "Sentence (A): Secret documents will eventually leak to the press. Sentence (B): Some information managed to leak out despite the secrecy. Do both sentences use the same sense of leak?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 154,
+    "Question": "Sentence (A): The baby was born at full term. Sentence (B): He learned many new terms in language class. Do both sentences use the same sense of 'term'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 294,
+    "Question": "Sentence (A): After a hard day, he was thankful to find a kind friend who helped him carry his groceries up the steep hill. Sentence (B): She asked what kind of fruit her colleague had brought, since he had some exotic produce she didn't recognize. Do both sentences use the same sense of \"kind\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 265,
+    "Question": "Sentence (A): They scored the winning goal. Sentence (B): Score along the lines before cutting the paper. Do both sentences use the same sense of 'score'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 139,
+    "Question": "Sentence (A): She managed to glimpse the solution to the puzzle. Sentence (B): We glimpsed the Queen as she got into her limousine. Do both sentences use the same sense of 'glimpse'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 42,
+    "Question": "Sentence (A): The current situation is quite challenging. Sentence (B): She is keeping up with current events in the news. Do both sentences use the same sense of current?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 96,
+    "Question": "Sentence (A): She reached the top of her career. Sentence (B): He was at the top of his class in school. Do both sentences use the same sense of 'top'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 201,
+    "Question": "Sentence (A): The onrush of wind startled the sailors. Sentence (B): She felt an onrush of emotion. Do both sentences use the same sense of 'onrush'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 51,
+    "Question": "Sentence (A): He lied about his age to get into the club. Sentence (B): She told a lie to avoid trouble. Do both sentences use the same sense of lie?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 156,
+    "Question": "Sentence (A): Put a tight leash on your spending. Sentence (B): He finally got a long leash from his boss. Do both sentences use the same sense of 'leash'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 169,
+    "Question": "Sentence (A): I sensed his presence in the room. Sentence (B): She blushed in his physical presence. Do both sentences use the same sense of 'presence'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 252,
+    "Question": "Sentence (A): Please buckle your seatbelt. Sentence (B): The chair legs buckled under the weight. Do both sentences use the same sense of 'buckle'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 77,
+    "Question": "Sentence (A): He threw a rock into the lake. Sentence (B): She picked up a rock from the beach. Do both sentences use the same sense of rock?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 200,
+    "Question": "Sentence (A): All efforts were in vain. Sentence (B): It was all for naught in the end. Do both sentences use the same sense of 'naught'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 28,
+    "Question": "Sentence (A): The dog sat on its bum in the garden. Sentence (B): He's such a bum who never works. Do both sentences use the same sense of bum?",
+    "Answer": "No"
+  },
+  {
+    "ID": 130,
+    "Question": "Sentence (A): She is the kind of person who always keeps promises. Sentence (B): I have a kind of dessert after dinner. Do both sentences use the same sense of 'kind'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 46,
+    "Question": "Sentence (A): We went to the fair and enjoyed the rides. Sentence (B): Every year the county fair attracts thousands of visitors. Do both sentences use the same sense of fair?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 129,
+    "Question": "Sentence (A): Tack the notice on the board so everyone can see it. Sentence (B): She tacked fabric scraps into a patchwork quilt. Do both sentences use the same sense of 'tack'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 246,
+    "Question": "Sentence (A): The gardener watered the plant daily. Sentence (B): Oil prices plant uncertainty in the market. Do both sentences use the same sense of 'plant'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 1,
+    "Question": "Sentence (A): They served fish and chips at the pub. Sentence (B): He spilled chips all over the table. Do both sentences use the same sense of chips?",
+    "Answer": "No"
+  },
+  {
+    "ID": 284,
+    "Question": "Sentence (A): Before driving to the airport, she loaded her luggage into the boot of the car in her English town. Sentence (B): He put on his hiking boots and laced them tightly before setting off on the rugged mountain trail. Do both sentences use the same sense of \"boot\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 244,
+    "Question": "Sentence (A): He mowed the lawn in his yard. Sentence (B): He bought twenty yards of cloth. Do both sentences use the same sense of 'yard'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 314,
+    "Question": "Sentence (A): During the protest, the crowd pressed against the barricade to get a better view. Sentence (B): The journalist wrote an article about the freedom of the press in contemporary society. Do both sentences use the same sense of \"press\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 76,
+    "Question": "Sentence (A): She loves rock music and heavy metal. Sentence (B): They attended a rock concert in the city. Do both sentences use the same sense of rock?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 202,
+    "Question": "Sentence (A): Market corrections often follow runups. Sentence (B): The optometrist prescribed a vision correction. Do both sentences use the same sense of 'correction'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 260,
+    "Question": "Sentence (A): I won't stoop to cheating on this exam. Sentence (B): He stooped to tie his shoelaces. Do both sentences use the same sense of 'stoop'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 232,
+    "Question": "Sentence (A): He gave me a box of chocolates. Sentence (B): The boxer is a professional athlete. Do both sentences use the same sense of 'box'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 285,
+    "Question": "Sentence (A): They spent the entire summer holiday exploring ancient ruins and tasting local foods, making memories that would last a lifetime. Sentence (B): Because December 25th is a national holiday, the schools and banks were closed all day. Do both sentences use the same sense of \"holiday\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 299,
+    "Question": "Sentence (A): The office manager asked him to file the receipts in the cabinet in alphabetical order. Sentence (B): He grabbed the coarse metal file to smooth the rough edges of the wooden plank for the furniture. Do both sentences use the same sense of \"file\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 279,
+    "Question": "Sentence (A): The plane will land at 5 PM. Sentence (B): The building's land value has skyrocketed. Do both sentences use the same sense of 'land'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 30,
+    "Question": "Sentence (A): The baby played with jelly during story time. Sentence (B): He spread peanut butter and jelly on his sandwich. Do both sentences use the same sense of jelly?",
+    "Answer": "No"
+  },
+  {
+    "ID": 185,
+    "Question": "Sentence (A): Life is no game for her. Sentence (B): They played a fun game in the park. Do both sentences use the same sense of 'game'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 198,
+    "Question": "Sentence (A): Place your keys on the table. Sentence (B): They place emphasis on precision. Do both sentences use the same sense of 'place'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 3,
+    "Question": "Sentence (A): We had chips with our burgers at the diner. Sentence (B): She poured chocolate chips into the cookie batter. Do both sentences use the same sense of chips?",
+    "Answer": "No"
+  },
+  {
+    "ID": 142,
+    "Question": "Sentence (A): We aim to provide the community with more parks. Sentence (B): The hostess provided lunch for all the guests. Do both sentences use the same sense of 'provide'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 65,
+    "Question": "Sentence (A): The mattress has a broken spring inside. Sentence (B): The sofa cushion was held up by a metal spring. Do both sentences use the same sense of spring?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 287,
+    "Question": "Sentence (A): He boarded at a prestigious public school in the English countryside, where students wore uniforms and education was privately funded. Sentence (B): The town announced increased funding for the public school system to improve textbooks and technology in the state-run district. Do both sentences use the same sense of \"public school\"?",
+    "Answer": "No"
+  },
+  {
+    "ID": 272,
+    "Question": "Sentence (A): The wall is made of solid rock. Sentence (B): The street performers rock the crowd each night. Do both sentences use the same sense of 'rock'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 196,
+    "Question": "Sentence (A): He hid behind the garden wall. Sentence (B): The wall of fog followed the car. Do both sentences use the same sense of 'wall'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 98,
+    "Question": "Sentence (A): I have a foot fetish. Sentence (B): Many men have fetishes for hair or shoes. Do both sentences use the same sense of 'fetish'?",
+    "Answer": "Yes"
+  },
+  {
+    "ID": 278,
+    "Question": "Sentence (A): They clubbed together to buy a gift. Sentence (B): The baseball player has a powerful club swing. Do both sentences use the same sense of 'club'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 235,
+    "Question": "Sentence (A): A crane is a large bird with long legs. Sentence (B): They used a crane to lift the steel beam. Do both sentences use the same sense of 'crane'?",
+    "Answer": "No"
+  },
+  {
+    "ID": 153,
+    "Question": "Sentence (A): Suspend the experiment immediately. Sentence (B): The judge suspended the sentence pending appeal. Do both sentences use the same sense of 'suspend'?",
+    "Answer": "No"
+  }
+]

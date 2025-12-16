@@ -1,0 +1,397 @@
+[
+  {
+    "id": 1,
+    "question": "Is anorectal endosonography valuable in dyschesia?",
+    "answer": true
+  },
+  {
+    "id": 2,
+    "question": "Do patients with rheumatoid arthritis established on methotrexate and folic acid 5 mg daily need to continue folic acid supplements long term?",
+    "answer": true
+  },
+  {
+    "id": 3,
+    "question": "Can teaching medical students to investigate medication errors change their attitudes towards patient safety?",
+    "answer": true
+  },
+  {
+    "id": 4,
+    "question": "Does a physician's specialty influence the recording of medication history in patients' case notes?",
+    "answer": true
+  },
+  {
+    "id": 5,
+    "question": "Locoregional opening of the rodent blood-brain barrier for paclitaxel using Nd:YAG laser-induced thermo therapy: a new concept of adjuvant glioma therapy?",
+    "answer": true
+  },
+  {
+    "id": 6,
+    "question": "Spinal subdural hematoma: a sequela of a ruptured intracranial aneurysm?",
+    "answer": true
+  },
+  {
+    "id": 7,
+    "question": "Is there a correlation between androgens and sexual desire in women?",
+    "answer": true
+  },
+  {
+    "id": 8,
+    "question": "Is the zeolite hemostatic agent beneficial in reducing blood loss during arterial injury?",
+    "answer": true
+  },
+  {
+    "id": 9,
+    "question": "Are endothelial cell patterns of astrocytomas indicative of grade?",
+    "answer": true
+  },
+  {
+    "id": 10,
+    "question": "Should cavitation in proximal surfaces be reported in cone beam computed tomography examination?",
+    "answer": true
+  },
+  {
+    "id": 11,
+    "question": "Ultrasound in squamous cell carcinoma of the penis; a useful addition to clinical staging?",
+    "answer": true
+  },
+  {
+    "id": 12,
+    "question": "Can third trimester ultrasound predict the presentation of the first twin at delivery?",
+    "answer": true
+  },
+  {
+    "id": 13,
+    "question": "Is micro-computed tomography reliable to determine the microstructure of the maxillary alveolar bone?",
+    "answer": true
+  },
+  {
+    "id": 14,
+    "question": "Is primary angioplasty an acceptable alternative to thrombolysis?",
+    "answer": true
+  },
+  {
+    "id": 15,
+    "question": "Is endometrial polyp formation associated with increased expression of vascular endothelial growth factor and transforming growth factor-beta1?",
+    "answer": true
+  },
+  {
+    "id": 16,
+    "question": "Improvements in survival of gynaecological cancer in the Anglia region of England: are these an effect of centralisation of care and use of multidisciplinary management?",
+    "answer": true
+  },
+  {
+    "id": 17,
+    "question": "Estimated fetal weight by ultrasound: a modifiable risk factor for cesarean delivery?",
+    "answer": true
+  },
+  {
+    "id": 18,
+    "question": "Are financial incentives cost-effective to support smoking cessation during pregnancy?",
+    "answer": true
+  },
+  {
+    "id": 19,
+    "question": "Do adjuvant aromatase inhibitors increase the cardiovascular risk in postmenopausal women with early breast cancer?",
+    "answer": true
+  },
+  {
+    "id": 20,
+    "question": "Is fear of anaphylactic shock discouraging surgeons from more widely adopting percutaneous and laparoscopic techniques in the treatment of liver hydatid cyst?",
+    "answer": true
+  },
+  {
+    "id": 21,
+    "question": "Risk stratification in emergency surgical patients: is the APACHE II score a reliable marker of physiological impairment?",
+    "answer": true
+  },
+  {
+    "id": 22,
+    "question": "Can Flexible Instruments Create Adequate Femoral Tunnel Lengths at 90° of Knee Flexion in Anterior Cruciate Ligament Reconstruction?",
+    "answer": true
+  },
+  {
+    "id": 23,
+    "question": "Do mitochondria play a role in remodelling lace plant leaves during programmed cell death?",
+    "answer": true
+  },
+  {
+    "id": 24,
+    "question": "\"Occult\" posttraumatic lesions of the knee: can magnetic resonance substitute for diagnostic arthroscopy?",
+    "answer": true
+  },
+  {
+    "id": 25,
+    "question": "Does Sensation Return to the Nasal Tip After Microfat Grafting?",
+    "answer": true
+  },
+  {
+    "id": 26,
+    "question": "Do some U.S. states have higher/lower injury mortality rates than others?",
+    "answer": true
+  },
+  {
+    "id": 27,
+    "question": "Hepatorenal syndrome: are we missing some prognostic factors?",
+    "answer": true
+  },
+  {
+    "id": 28,
+    "question": "The Main Gate Syndrome: a new format in mass-casualty victim \"surge\" management?",
+    "answer": true
+  },
+  {
+    "id": 29,
+    "question": "Is EQ-5D a valid quality of life instrument in patients with acute coronary syndrome?",
+    "answer": true
+  },
+  {
+    "id": 30,
+    "question": "Is portable ultrasonography accurate in the evaluation of Schanz pin placement during extremity fracture fixation in austere environments?",
+    "answer": true
+  },
+  {
+    "id": 31,
+    "question": "Is grandmultiparity an independent risk factor for adverse perinatal outcomes?",
+    "answer": true
+  },
+  {
+    "id": 32,
+    "question": "Does depression diagnosis and antidepressant prescribing vary by location?",
+    "answer": true
+  },
+  {
+    "id": 33,
+    "question": "Learning needs of postpartum women: does socioeconomic status matter?",
+    "answer": true
+  },
+  {
+    "id": 34,
+    "question": "Is there a differential in the dental health of new recruits to the British Armed Forces?",
+    "answer": true
+  },
+  {
+    "id": 35,
+    "question": "Does the distribution of health care benefits in Kenya meet the principles of universal coverage?",
+    "answer": false
+  },
+  {
+    "id": 36,
+    "question": "Does a delay in transfer to a rehabilitation unit for older people affect outcome after fracture of the proximal femur?",
+    "answer": true
+  },
+  {
+    "id": 37,
+    "question": "Does quantitative left ventricular regional wall motion change after fibrous tissue resection in endomyocardial fibrosis?",
+    "answer": false
+  },
+  {
+    "id": 38,
+    "question": "Can nonproliferative breast disease and proliferative breast disease without atypia be distinguished by fine-needle aspiration cytology?",
+    "answer": false
+  },
+  {
+    "id": 39,
+    "question": "Does gestational age misclassification explain the difference in birthweights for Australian aborigines and whites?",
+    "answer": false
+  },
+  {
+    "id": 40,
+    "question": "Utility of unenhanced fat-suppressed T1-weighted MRI in children with sickle cell disease -- can it differentiate bone infarcts from acute osteomyelitis?",
+    "answer": true
+  },
+  {
+    "id": 41,
+    "question": "Acute respiratory distress syndrome in children with malignancy--can we predict outcome?",
+    "answer": true
+  },
+  {
+    "id": 42,
+    "question": "Can students' scores on preclerkship clinical performance examinations predict that they will fail a senior clinical performance examination?",
+    "answer": true
+  },
+  {
+    "id": 43,
+    "question": "Is first-line single-agent mitoxantrone in the treatment of high-risk metastatic breast cancer patients as effective as combination chemotherapy?",
+    "answer": true
+  },
+  {
+    "id": 44,
+    "question": "Can distal ureteral diameter predict reflux resolution after endoscopic injection?",
+    "answer": true
+  },
+  {
+    "id": 45,
+    "question": "Does continuous intravenous infusion of low-concentration epinephrine impair uterine blood flow in pregnant ewes?",
+    "answer": false
+  },
+  {
+    "id": 46,
+    "question": "The use of audit to identify maternal mortality in different settings: is it just a difference between the rich and the poor?",
+    "answer": false
+  },
+  {
+    "id": 47,
+    "question": "Are wandering and physically nonaggressive agitation equivalent?",
+    "answer": false
+  },
+  {
+    "id": 48,
+    "question": "Is late-night salivary cortisol a better screening test for possible cortisol excess than standard screening tests in obese patients with Type 2 diabetes?",
+    "answer": false
+  },
+  {
+    "id": 49,
+    "question": "Does escalation of the apical dose change treatment outcome in beta-radiation of posterior choroidal melanomas with 106Ru plaques?",
+    "answer": false
+  },
+  {
+    "id": 50,
+    "question": "Estradiol and Antagonist Pretreatment Prior to Microdose Leuprolide in in Vitro Fertilization. Does It Improve IVF Outcomes in Poor Responders as Compared to Oral Contraceptive Pill?",
+    "answer": false
+  },
+  {
+    "id": 51,
+    "question": "Adjuvant radiation of stage III thymoma: is it necessary?",
+    "answer": false
+  },
+  {
+    "id": 52,
+    "question": "Is diffusion-weighted imaging a significant indicator of the development of vascularization in hypovascular hepatocellular lesions?",
+    "answer": false
+  },
+  {
+    "id": 53,
+    "question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+    "answer": false
+  },
+  {
+    "id": 54,
+    "question": "Are Local H and For Against both from the United States?",
+    "answer": true
+  },
+  {
+    "id": 55,
+    "question": "Are patients with diabetes receiving the same message from dietitians and nurses?",
+    "answer": false
+  },
+  {
+    "id": 56,
+    "question": "Are both Dictyosperma, and Huernia described as a genus?",
+    "answer": true
+  },
+  {
+    "id": 57,
+    "question": "Are North Marion High School (Oregon) and Seoul High School both located in the same country?",
+    "answer": false
+  },
+  {
+    "id": 58,
+    "question": "Do lipids, blood pressure, diabetes, and smoking confer equal risk of myocardial infarction in women as in men?",
+    "answer": false
+  },
+  {
+    "id": 59,
+    "question": "Does increased nerve length within the treatment volume improve trigeminal neuralgia radiosurgery?",
+    "answer": false
+  },
+  {
+    "id": 60,
+    "question": "Amblyopia: is visual loss permanent?",
+    "answer": false
+  },
+  {
+    "id": 61,
+    "question": "Diabetes mellitus among Swedish art glass workers--an effect of arsenic exposure?",
+    "answer": false
+  },
+  {
+    "id": 62,
+    "question": "Are the long-term results of the transanal pull-through equal to those of the transabdominal pull-through?",
+    "answer": false
+  },
+  {
+    "id": 63,
+    "question": "Epidural analgesia for surgical treatment of peritoneal carcinomatosis: a risky technique?",
+    "answer": false
+  },
+  {
+    "id": 64,
+    "question": "Should all human immunodeficiency virus-infected patients with end-stage renal disease be excluded from transplantation?",
+    "answer": false
+  },
+  {
+    "id": 65,
+    "question": "Does minimal access major surgery in the newborn hurt less?",
+    "answer": false
+  },
+  {
+    "id": 66,
+    "question": "Do acute changes in heart rate by isoproterenol affect aortic stiffness in patients with hypertension?",
+    "answer": false
+  },
+  {
+    "id": 67,
+    "question": "Continuity of care experience of residents in an academic vascular department: are trainees learning complete surgical care?",
+    "answer": false
+  },
+  {
+    "id": 68,
+    "question": "Landolt C and snellen e acuity: differences in strabismus amblyopia?",
+    "answer": false
+  },
+  {
+    "id": 69,
+    "question": "Health habits and vaccination status of Lebanese residents: are future doctors applying the rules of prevention?",
+    "answer": false
+  },
+  {
+    "id": 70,
+    "question": "The insertion allele of the ACE gene I/D polymorphism. A candidate gene for insulin resistance?",
+    "answer": false
+  },
+  {
+    "id": 71,
+    "question": "Is fetal gender associated with emergency department visits for asthma during pregnancy?",
+    "answer": false
+  },
+  {
+    "id": 72,
+    "question": "Blunt trauma in intoxicated patients: is computed tomography of the abdomen always necessary?",
+    "answer": false
+  },
+  {
+    "id": 73,
+    "question": "Totally implantable venous access device placement by interventional radiologists: are prophylactic antibiotics necessary?",
+    "answer": false
+  },
+  {
+    "id": 74,
+    "question": "Prognosis of low-tone sudden deafness - does it inevitably progress to Meniere's disease?",
+    "answer": false
+  },
+  {
+    "id": 75,
+    "question": "Does concomitant anterior/apical repair during midurethral sling improve the overactive bladder component of mixed incontinence?",
+    "answer": false
+  },
+  {
+    "id": 76,
+    "question": "Is bicompartmental knee arthroplasty more favourable to knee muscle strength and physical performance compared to total knee arthroplasty?",
+    "answer": false
+  },
+  {
+    "id": 77,
+    "question": "Preoperative locoregional staging of gastric cancer: is there a place for magnetic resonance imaging?",
+    "answer": false
+  },
+  {
+    "id": 78,
+    "question": "Does pain intensity predict a poor opioid response in cancer patients?",
+    "answer": false
+  },
+  {
+    "id": 79,
+    "question": "Internal derangement of the temporomandibular joint: is there still a place for ultrasound?",
+    "answer": false
+  }
+]

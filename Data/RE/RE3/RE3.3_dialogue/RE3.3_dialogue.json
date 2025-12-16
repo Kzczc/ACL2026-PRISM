@@ -1,0 +1,874 @@
+[
+  {
+    "ID": 166,
+    "question": "Extract key content based on the background information and the conversation:Yuvraj Singh : `Film appeared in`: Slumdog Millionaire. Slumdog Millionaire is written by Simon BeaufoySlumdog Millionaire : `~Film appeared in`: Yuvraj Singh[Human]: Are you a fan of cricket? Do you know Yuvraj Singh? [Assistant]: I'm not really knowledgeable about cricket, but was he in the movie Slumdog Millionaire? [Human]: I guess so! I never saw that movie though, was it good? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 101,
+    "question": "Extract key content based on the background information and the conversation:Jason Douglas starred in No Country for Old MenNo Country for Old Men is written by Joel Coen. Joel Coen directed True GritTrue Grit is written by Charles Portis[Human]: Do you know about the actor Jason Douglas? [Assistant]: I know that he stared in Sin City and No Country for Old Men. [Human]: I believe No Country for Old Men was written by Joel Coen. He also directed True Grit, which was amazing. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 335,
+    "question": "Extract key content based on the background information and the conversation:Burn After Reading is written by Joel Coen. Joel Coen produced The Hudsucker ProxyThe Hudsucker Proxy is written by Sam Raimi[Human]: Could you recommend movies similar to Burn After Reading? [Assistant]: Sure. If you like Joel Coen movies you should watch The Hudsucker Proxy or O Brother Where Art Thou? [Human]: Do you know the genre of those movies? [Assistant]: They are comedies.Do you like comedies? [Human]: I do enjoy comedies. Does any other actors star in The Hudsucker Proxy alongside Joel Coen?  Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 260,
+    "question": "Extract key content based on the background information and the conversation:Neill Blomkamp wrote District 9. District 9 has genre Indie filmDistrict 9 is written by Terri TatchellTerri Tatchell wrote District 9. District 9 is starring Jed Brophy[Human]: Neill Blomkamp is a great director. Do you some of his movies? [Assistant]: I do! He directed Elysium and District 9, both great movies! District 9 is an Indie Film that blew it out of the park, have you seen it? [Human]: Not yet. Can you tell me some of its casts? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 308,
+    "question": "Extract key content based on the background information and the conversation:Nesnesitelná lehkost bytí is written by Milan KunderaMilan Kundera wrote ŽertŽert is written by Milan Kundera. Milan Kundera wrote Život je jinde[Human]: Do you know of any books like Nesnesitelna lehkost byti? [Assistant]: I do not know any that are similar.  Sorry.   [Human]: Do you know who wrote that one? [Assistant]: Sure, Nesnesitelna lehkost byti was written by Milan Kundera and Michael Henry Heim. [Human]: I think Milan Kundra wrote another book, Zert, that I read and I wonder if he wrote any other? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 363,
+    "question": "Extract key content based on the background information and the conversation:Kurt Wimmer directed Equilibrium. Equilibrium is starring Christian BaleChristian Bale starred in American HustleAmerican Hustle is starring Christian Bale. Christian Bale starred in The Dark Knight[Human]: Could you recommend a couple of movies directed by Kurt Wimmer? [Assistant]: Sure, he directed Equilibrium. Have you seen it? [Human]: I haven't, can you tell me who's the biggest star in it? [Assistant]: Christian Bale. He was also in American Hustle.  [Human]: Wasn't he also in American Psycho? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 89,
+    "question": "Extract key content based on the background information and the conversation:Los Angeles Lakers : `~Employment history`: Kobe Bryant[Human]: Do you know Los Angeles Lakers? [Assistant]: Yes, they're a great team.  I'm a big fan of Kobe Bryant. Whose your favorite player? [Human]: I don't much about it. But it is interesting to know about it [Assistant]: Well Kobe retired and now he acts sometime. In fact he starred in Jack and Jill with Shaquille O'Nea.  [Human]: is Kobe Bryant from Philadelphia? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 98,
+    "question": "Extract key content based on the background information and the conversation:Caroline Wozniacki is a/an AthleteAthlete has example: Venus WilliamsVenus Williams : `Country`: 2008 Summer Olympics[Human]: Do you have information on Caroline Wozniacki? [Assistant]: She is an athlete who played tennis. She recently lost to Marion Bartoli. Have you seen that match? [Human]: I haven't. I did see Venus Williams play recently and she was awesome as always! Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 241,
+    "question": "Extract key content based on the background information and the conversation:Oldboy has genre World cinema[Human]: Do you know any Drama/Mystery movies like Oldboy? [Assistant]: Do you like that movie because of the Mystery or Thriller genre? [Human]: Yes, I am also a big fan of Korean movies. Can you suggest something that's mystery/thriller and also Korean? [Assistant]: Sure, Lady Vengeance is the sequel to Oldboy. [Human]: Really? Cool! Who stars in Lady Vengeance? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 92,
+    "question": "Extract key content based on the background information and the conversation:Minnesota Vikings : `~Team`: National Football LeagueNational Football League : `~Organization founded`: Jim Thorpe (Olympic athlete)Jim Thorpe (Olympic athlete) : `~has_person`: Pennsylvania[Human]: Do you like the Minnesota Vikings [Assistant]: Not particularly.  I''m an Eagles fan. [Human]: Ahh that is a football team correct? [Assistant]: Yes, they are part of the NFL. [Human]: Yes did you know the NFL was founded by Jim Thorpe? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 306,
+    "question": "Extract key content based on the background information and the conversation:Kesha : `~Composer`: We R Who We RWe R Who We R : `Composer`: Kesha. Kesha : `~Composer`: Your Love Is My Drug[Human]: I think I know about the musician Kesha but cannot think of any details, can you? [Assistant]: Yes I know her, she's a great songwriter as well. She wrote and sang the song We R who we are. Have you heard that one? [Human]: Oh yes, and I think she wrote You Love Is My Drug. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 374,
+    "question": "Extract key content based on the background information and the conversation:Harry Potter and the Cursed Child, Parts One and Two is written by John Tiffany[Human]: Can you tell me who wrote Harry Potter and The cursed child part one and two [Assistant]: Joh Tiffany and Jack Thorne, Have you seen that movie? [Human]: Yes i have. What other movies have they done? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 90,
+    "question": "Extract key content based on the background information and the conversation:Daphne du Maurier wrote Rebecca[Human]: Could you recommend anything written by Daphne du Maurier? I have heard nothing but good things about her. [Assistant]: Yes, she wrote Rebecca, My Cousin Rachel and Jamaica Inn. She was influenced by Stephen King and Stephanie Meyer. [Human]: Those two authors are great ones to be influenced by. What can you tell me about Rebecca? [Assistant]: Rebecca was released in 1938. [Human]: I think that was a very good year for books. Do you know of anything else released that year? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 199,
+    "question": "Extract key content based on the background information and the conversation:Alex Garland wrote Never Let Me Go. Never Let Me Go is starring Keira Knightley[Human]: Do you know of Alex Garland? [Assistant]: Yes I do, he wrote Never Let Me Go starring Keira Knightley. [Human]: I see. Would you recommend the book? [Assistant]: If you enjoy reading Science Fiction, I would recommend this book. [Human]: I do. I'll check it out. Thanks. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 219,
+    "question": "Extract key content based on the background information and the conversation:Shikhar Dhawan : `Sport played`: Cricket (Interest)Cricket (Interest) : `~Sport played`: Shikhar Dhawan[Human]: Do you know anything about Shikhar Dhawan? [Assistant]: Yes, I know he plays Cricket in India. Do you know anything about Cricket? [Human]: I don't know anything about Cricket. Do you like Cricket? What is your favorite sport. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 148,
+    "question": "Extract key content based on the background information and the conversation:Beverly D'Angelo starred in Eye for an Eye. Eye for an Eye has genre Psychological thrillerEye for an Eye is starring Beverly D'AngeloBeverly D'Angelo starred in Eye for an Eye. Eye for an Eye is written by Erika Holzer[Human]: Can you recommend me an actor similar to Beverly D'Angelo. [Assistant]: Beverly D'Angela has been in a variety of movies including comedies, dramas and psychological thrillers. What do you prefer? [Human]: I prefer thrillers Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 201,
+    "question": "Extract key content based on the background information and the conversation:Nicki Minaj : `~Lyricist`: Where Them Girls AtWhere Them Girls At : `Composer`: Nicki Minaj. Nicki Minaj : `Musical Genre`: Dance-popDance-pop : `~Musical Genre`: Shakira[Human]: What do you think about Nikki Minaj? [Assistant]: I know that she is a lyricist on Where Them Girls At.  [Human]: Not really a fan of hers but do like music in the Dance pop Genre.  [Assistant]: She has an Indo-Carribean Ehnicity:  [Human]: Any similar musicians you can recommend? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 150,
+    "question": "Extract key content based on the background information and the conversation:Jonathan Levine directed The Wackness. The Wackness is starring Jane Adams[Human]: What movies did Jonathan Levine direct ? [Assistant]: He wrote and directed The Wackness which is a comedy starring Jane Adams. Have you seen this one? [Human]: I have not seen that one, could you tell me who else is in it? [Assistant]: It also stars Mary-Kate Olsen and Aaron Yoo [Human]: Was that recently released ? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 364,
+    "question": "Extract key content based on the background information and the conversation:Elton John : `~Composer`: Rocket ManRocket Man : `Composer`: Elton John[Human]: What do you think of Elton John? [Assistant]: I love him!  His music is so energizing.  There's a new movie coming out about him called Rocket Man, which is also a song of his. [Human]: Oh, he is in a movie also? which is his latest song Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 100,
+    "question": "Extract key content based on the background information and the conversation:William Friedkin starred in Arbitrage[Human]: What movies has William Friedkin directed? [Assistant]: illiam Friedkin directed The Hunted and The French Connection. [Human]: I've seen those. Can you recommend other movies involving him?  [Assistant]: Sure, William Friedkin directed The Devil and Father Amorth, CSI: Crime Scene Investigation and The Hunted. [Human]: The Devil and Father Amorth sounds interesting! Can you tell me more about it? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 110,
+    "question": "Extract key content based on the background information and the conversation:Mission: Impossible - Ghost Protocol is starring Tom Cruise[Human]: I like, Mission: Impossible - Ghost Protocol, do you know who stars in it? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 307,
+    "question": "Extract key content based on the background information and the conversation:Green Bay Packers : `~Game`: Aaron Rodgers[Human]: What do you think about the Green Bay Packers? [Assistant]: I used to like them a lot under Brett Farve as their quarterback. Since he retired, they're just not as exciting. [Human]: Okay I see do you still watch them at all? [Assistant]: Occasionally, if they play a team I do kind of like. Aaron Rodgers is a pretty decent quarterback but he lacks the excitement that Farve had. Are you a Packers fan? [Human]: I am not really into football like my husband, but I'll glance at it once in awhile. At least the have a decent quarterback Aaron Rodgers. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 223,
+    "question": "Extract key content based on the background information and the conversation:Alexis Sánchez : `~Player statistics`: Chile national football teamChile national football team : `Player statistics`: Alexis Sánchez. Alexis Sánchez : `~Player statistics`: Udinese Calcio[Human]: Do you know alot about Alexis Sánchez Chilean soccer player?  I don't know a lot about soccer. [Assistant]: I know that Alexis Sanchez is on the Chile national football team [Human]: He plays with Udinese Calcio and Colo-Colo.  Do you like Soccer? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 276,
+    "question": "Extract key content based on the background information and the conversation:Michael O'Neill starred in Transformers. Transformers is starring Zack Ward[Human]: Can you recommend actors like Michael O'Neill? [Assistant]: Zack Ward and Bernie Mac you may like if you like Michael O'Neill. [Human]: Cool, what's Zack Ward in? [Assistant]: He plays in Transformers! Also, Trade and Restoration he starred in.  [Human]: Oh else stars in Transformers? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 369,
+    "question": "Extract key content based on the background information and the conversation:Heath Ledger starred in Ned Kelly (Crime Fiction Film)Ned Kelly (Crime Fiction Film) is starring Heath LedgerHeath Ledger starred in Ned Kelly (Crime Fiction Film)[Human]: I like Heath Ledger. [Assistant]: I am a fan! I like him The Brother Grimm. How about you? [Human]: I thought he was good in Ned Kelly which also starred Joel Edgerton. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 214,
+    "question": "Extract key content based on the background information and the conversation:Henry Cavill starred in Whatever WorksWhatever Works is written by Woody AllenWoody Allen wrote To Rome with Love. To Rome with Love has genre Comedy[Human]: Have you ever heard of Henry Cavill? Can you recommend some of his movies? [Assistant]: I would recommend Whatever Works and The Count of Monte Cristo.  [Human]: Oh, I love Woody Allen movies. Who else is in Whatever Works? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 344,
+    "question": "Extract key content based on the background information and the conversation:Pacific Rim is starring Larry Joe CampbellLarry Joe Campbell starred in Wedding CrashersWedding Crashers is starring Larry Joe Campbell. Larry Joe Campbell starred in Pacific Rim (Science Fiction Film)[Human]: Do you know who directed Pacific Rim? [Assistant]: Yes, it's a lovely Action Adventure movie directed by Guillermo del Toro. Have you seen it?  [Human]: No, I have not seen it. Who all stars in that movie? [Assistant]: Well, it has a solid cast. Including Larry Joe Campbell. Do you know him?  [Human]: Yes, didn't he star in Wedding Crashers? I liked that movie too. What other movies has Larry Joe Campbell been in? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 313,
+    "question": "Extract key content based on the background information and the conversation:Benjamin Martinez wrote Il PrincipeIl Principe is written by Rufus GoodwinRufus Goodwin wrote Il Principe. Il Principe is written by Niccolò Machiavelli[Human]: Do you like Benjamin Martinez? [Assistant]: He wrote II Principe didn't he? [Human]: Yes along with Rufus Goodwin and Niccolo Machiavelli Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 35,
+    "question": "Extract key content based on the background information and the conversation:Catherine Hardwicke directed Red Riding Hood. Red Riding Hood is written by David Leslie Johnson[Human]: Could you recommend movies directed by Catherine Hardwicke? [Assistant]: Sure! She directed \"Red Riding Hood,\" \"Twilight,\" and \"Thirteen.\" Would you like to know more about any of them? [Human]: Yes, who starred in Red Riding Hood? I like this kind of movie. [Assistant]: The most noteworthy stars in the film are Virginia Madison and Michael Shanks. [Human]: Oh I love her movies. Do you know of others with her in them? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 238,
+    "question": "Extract key content based on the background information and the conversation:New England Patriots : `~Team`: National Football League[Human]: Do you like the New England Patriots? [Assistant]: They are NFL football team right? No, I havent watched much of football. I did watch Messi and David Beckham though sometime back. [Human]: They are a football team. What sport do you enjoy watching? [Assistant]: I like cricket, did you ever watch cricket? [Human]: I've actually never watched it. Is it a team sport? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 327,
+    "question": "Extract key content based on the background information and the conversation:Emilia Fox starred in Shooting the Past. Shooting the Past is starring Lindsay DuncanLindsay Duncan starred in Shooting the Past. Shooting the Past is starring Blake RitsonBlake Ritson starred in RocknRolla[Human]: I like Emilia Fox! Do you have anything with her? [Assistant]: She was in Shooting the Past alongside Lindsay Duncan. [Human]: Was that with Blakeritson? I also like her in The Reflecting Skin. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 147,
+    "question": "Extract key content based on the background information and the conversation:Ariana Grande is a celebrity friend to Taylor SwiftTaylor Swift starred in Valentine's Day (Romantic comedy Film)Valentine's Day (Romantic comedy Film) is starring Taylor Swift[Human]: Do you listen to Ariana Grande's music? [Assistant]: Only when it comes on the radio. I do like her friends music Taylor Swift! [Human]: I like Taylor Swift more too. She was great in Valentine's Day. I love that film. What is your favorite song of her? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 163,
+    "question": "Extract key content based on the background information and the conversation:Jonathan Mostow directed SurrogatesSurrogates is starring Taylor ColeTaylor Cole starred in The Violent Kind[Human]: Could you recommend a movie directed by Jonathan Mostow?  [Assistant]: Have you see Surrogates?  He directed that. [Human]: No I have not, who stars in it? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 244,
+    "question": "Extract key content based on the background information and the conversation:Dress Your Family in Corduroy and Denim is written by David SedarisDavid Sedaris wrote Squirrel Seeks Chipmunk: A Modest BestiarySquirrel Seeks Chipmunk: A Modest Bestiary is written by David Sedaris. David Sedaris wrote SantaLand Diaries[Human]: Do you have a book called Dress Your Family in Corduroy and Denim? [Assistant]: By David Sedaris? I love that book. Have you read it? [Human]: no i havent read that book. what else has he written? [Assistant]: Oh, he's written a bunch. A couple of my favorites are When You Are Engulfed in Flames, and Naked. Were you looking for something specific? [Human]: what about something like Squirrel Seeks Chipmunk? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 243,
+    "question": "Extract key content based on the background information and the conversation:The Catcher in the Rye has genre NovelNovel has examples: Breathing Lessons. Breathing Lessons is written by Anne TylerAnne Tyler wrote Breathing Lessons. Breathing Lessons has genre Novel[Human]: Could you tell me more information about the book The Catcher in the Rye? [Assistant]: The Catcher in the Rye is a novel written by J.D. Sallinger released in 1951. [Human]: How about Breathing Lessons ? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 158,
+    "question": "Extract key content based on the background information and the conversation:Harry Potter and the Philosopher's Stone is directed by Chris Columbus. Chris Columbus wrote Gremlins[Human]: I love the book Harry Potter and the Philosopher's Stone, do you know of any similar ? [Assistant]: There is one called Gremlins, directed by Chris Columbus who also directed Harry Potter and the Philosopher's Stone. [Human]: Was Gremlins based on a book like the Harry Potter series ? [Assistant]: I could not find any information regarding that. Sorry. [Human]: No problem, thank you for the recommendation though. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 346,
+    "question": "Extract key content based on the background information and the conversation:Madonna starred in A League of Their OwnA League of Their Own is starring Rosie O'DonnellRosie O'Donnell starred in The Flintstones (Crime Fiction Film)[Human]: I love me some Madonna. what you think about her? [Assistant]: I don't listen to her music much, but I sure did love her in A League of Their Own [Human]: A League of Their Own is a good movie. I love Rosie O'Donnell role in it. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 210,
+    "question": "Extract key content based on the background information and the conversation:There's Something About Mary is starring Willie GarsonWillie Garson starred in There's Something About Mary. There's Something About Mary has genre Romantic comedyThere's Something About Mary has genre Romantic comedy[Human]: I like There's Something About Mary?  [Assistant]: I have never seen that movie I know it is written by Peter Farrelly though. [Human]: It is a great movie starring Ben Stiller and Matt Dillion.  [Assistant]: It also stars Willie Garson as well what is it about? [Human]: It is a Romantic Comedy  Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 54,
+    "question": "Extract key content based on the background information and the conversation:In Bruges is in language French. French has examples: The Girl on the Train[Human]: Could you recommend films similar to 'In Bruges'? [Assistant]: A French film like In Bruges is The Girl on the Train.If you like thrillers, The Descent is also similar. [Human]: The Girl on the Train is starring Emilie Dequenne, do you know of any others staring her? [Assistant]: She is great in Brotherhood of the Wolf. Would you like to recommendations for similar science fiction movies? [Human]: I will check that one out! I do not need any further recommendations. Thank you Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 264,
+    "question": "Extract key content based on the background information and the conversation:Forrest Gump is starring Tom HanksTom Hanks starred in Larry Crowne. Larry Crowne is starring Rami MalekLarry Crowne is written by Tom Hanks[Human]: Hi there, could you recommend some movies similar to Forrest Gump? [Assistant]: Tom Hanks stars in Forrest Gump. Would you like to see more movies with him? [Human]: Sure, I think he starred in Larry Crowne. Do you know that one? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 121,
+    "question": "Extract key content based on the background information and the conversation:Sofia Coppola wrote Somewhere. Somewhere is starring Nathalie Fay[Human]: I like Sofia Coppola, can you tell me few names of the movies she directed? [Assistant]: She directed Somewhere and Fog City Mavericks  [Human]: What is the genre of Somewhere?  [Assistant]: Somewhere has the genre Drama [Human]: Ok I like Drama can you suggest me more movies of this genre? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 356,
+    "question": "Extract key content based on the background information and the conversation:Brett Helquist wrote The EndThe End is written by Brett HelquistBrett Helquist wrote The End. The End is written by Lemony Snicket[Human]: Do you have any information on Brett Helquist? I know he's an author but I am unfamiliar with him or his work. [Assistant]: Yes, he wrote books like The End and The Grim Grotto [Human]: I have heard about The End. Can you tell me anything about it? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 67,
+    "question": "Extract key content based on the background information and the conversation:Golden State Warriors : `~Drafted`: Wayne Cooper (Basketball Player)Wayne Cooper (Basketball Player) : `Drafted`: Golden State Warriors. Golden State Warriors : `Arena/Stadium`: SAP Center at San JoseSAP Center at San Jose : `Contained by`: Silicon Valley[Human]: Do you like the Golden State Warriors? [Assistant]: I am not truly familiar with them but I think they once Drafted Wayne Cooper. [Human]: Are you from Oakland, they play at the SAP Center. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 86,
+    "question": "Extract key content based on the background information and the conversation:Jennifer Weiner wrote In Her Shoes. In Her Shoes is written by Susannah GrantIn Her Shoes is written by Jennifer WeinerJennifer Weiner wrote In Her Shoes. In Her Shoes has genre Drama[Human]: I like Jennifer Weiner books, what about you? [Assistant]: I've read only one. In Her Shoes. I like it.  [Human]: Interesting fact, Ridley Scott produced a movie based on that book. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 204,
+    "question": "Extract key content based on the background information and the conversation:The Cabin in the Woods is directed by Drew Goddard[Human]: I like the cabin in the wood who directed it [Assistant]: The Cabin in the Woods was directed by Drew Goddard. Would you like to know who produced it? [Human]: Yes please tell me [Assistant]: It was produced by Joss Whedon. I can also give you other movies and TV shows Drew Goddard wrote, such as Cloverfield and Lost. [Human]: Yes please tell me another one Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 171,
+    "question": "Extract key content based on the background information and the conversation:Chicago Bulls : `~Team`: National Basketball AssociationNational Basketball Association : `Team`: Sacramento Kings[Human]: Do you like the Chicago Bulls? [Assistant]: Yes, they are owned by Jerry Reinsdorf. Do you like basketball? [Human]: Yes, I'm more of a Sacramento Kings fan. I know they aren't that good but it's my home team. Do you like them? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 183,
+    "question": "Extract key content based on the background information and the conversation:Brooklyn Nets : `~Team Owned`: Jay-ZJay-Z : `Team Owned`: Brooklyn Nets[Human]: Do you like the Brooklyn Nets? [Assistant]: I don't really follow sports much, did you know Jay-Z owns the team? [Human]: Wow, I did not know that. I don't really follow sports either but I enjoy watching the super bowl. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 27,
+    "question": "Extract key content based on the background information and the conversation:The Boy in the Striped Pyjamas has genre Tragicomedy[Human]: Do you know about the book: The Boy in the Striped Pyjamas? [Assistant]: I've heard it was good! Its a tragicomedy, its post-modern literature, and it was written by John Boyne.  Are you familiar with his work? [Human]: No, what genre does he typically write? [Assistant]: I would say Tragicomedy is his thing.  Another example of this genre is Infinite Jest, which I enjoyed. [Human]: Tragicomedy sounds like a good genre. Do you know of some other titles in that genre? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 281,
+    "question": "Extract key content based on the background information and the conversation:Michael O'Neill starred in TrafficTraffic is starring Michael O'Neill[Human]: Michael O'Neill is an awesome actor! Do you have his other movies? [Assistant]: He was in Transformers and Traffic  [Human]: Can you tell me more about Traffic? I haven't heard of that one before. [Assistant]: Traffic is an action drama a great movie  [Human]: Who else starred in that movie? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 213,
+    "question": "Extract key content based on the background information and the conversation:Neil Jordan wrote The Good Thief. The Good Thief is written by Jean-Pierre MelvilleThe Good Thief is starring Ralph FiennesRalph Fiennes starred in The Good Thief[Human]: Do you have any recommendations for movies directed y Neil Jordan? [Assistant]: Neil Jordan wrote The Good Thief. it has genre Thriller [Human]: Is that the movie starring Ralph Fiennes? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 247,
+    "question": "Extract key content based on the background information and the conversation:Stephen R. Covey wrote Principle Centered LeadershipPrinciple Centered Leadership was released 1991. 1991 was the year that released Paradise[Human]: I like Stephen R Covey, Can you recommend any of his Books? [Assistant]: Yes, He wrote Principle Centered Leadership and The Seven Habits of Highly Effective People.  [Human]: Great, Can you tell me when Principle centered Leadership was released? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 231,
+    "question": "Extract key content based on the background information and the conversation:Deception Point is written by Dan BrownDan Brown wrote Angels & Demons. Angels & Demons has genre Suspense[Human]: I really liked the book Deception Point. Can you find some similar titles? [Assistant]: Deception Point was  written by Dan Brown.The genre is Techno-thriller and  Speculative fiction, Is that what you  are looking for? [Human]: Yes that's the one, did he also write Angels & Demons?  Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 78,
+    "question": "Extract key content based on the background information and the conversation:Storm Front is written by Jim Butcher. Jim Butcher wrote Turn Coat[Human]: Could you recommend a book by the author of Storm Front? [Assistant]: Sure! That would be written by Jim Butcher, who also wrote Turn Coat. Have you read that one? [Human]: No I have not. What genre is it? [Assistant]: It's an urban fantasy as well as mystery and speculative fiction. [Human]: Sounds intriguing. Do you know the year it was published? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 168,
+    "question": "Extract key content based on the background information and the conversation:Jennifer Weiner wrote In Her Shoes. In Her Shoes is written by Susannah Grant[Human]: Could you recommend books by Jennifer Weiner? [Assistant]: Sure thing. Jennifer Warner wrote classics like Then Came You, The Next Best Thing and In Her Shoes. Any of those familiar to you? [Human]: No I have not heard about these books, what genre is Then Came You? [Assistant]: Then Came You is a romantic comedy. Are you into romantic comedies? [Human]: Yes I am, could you recommend other similar books? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 123,
+    "question": "Extract key content based on the background information and the conversation:Quentin Tarantino wrote Reservoir Dogs. Reservoir Dogs has genre DramaReservoir Dogs is starring Quentin TarantinoQuentin Tarantino wrote Reservoir Dogs. Reservoir Dogs is starring Steve Buscemi[Human]: I like Quentin Tarantino. What are some films of his? [Assistant]: Quentin Tarantino has lots of films.  Some popular ones are Reservoir Dogs and Pulp Fiction.  Have you seen those? [Human]: Yes. When was Pulp Fiction released? [Assistant]: Pulp Fiction is a great movie!  It came out in 1994. [Human]: Is Quentin Tarantino an actor in Reservoir Dogs? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 66,
+    "question": "Extract key content based on the background information and the conversation:The Mark of Athena : `~Next in series`: The Son of Neptune. The Son of Neptune is written by Rick RiordanThe Son of Neptune has genre FantasyFantasy : `~Subject`: Harry Potter and the Prisoner of Azkaban. Harry Potter and the Prisoner of Azkaban has genre Young-adult fiction[Human]: Can you recommend a book similar to The Mark of Athena? [Assistant]: The Son of Neptune is another Greek mythology book by Rick Riordan. [Human]: Is that a fantasy book? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 128,
+    "question": "Extract key content based on the background information and the conversation:The Catcher in the Rye has genre Novel. Novel has examples: The Scar[Human]: Do you have any books similar to The Catcher in the Rye? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 270,
+    "question": "Extract key content based on the background information and the conversation:Philip Horne wrote Oliver TwistOliver Twist was released 18381838 was the year that released Oliver Twist. Oliver Twist is written by Philip Horne[Human]: Could you recommend any good work of Philip Horne. [Assistant]: Philip Horne wrote Oliver Twist [Human]: was that released in 1838 or 1848? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 56,
+    "question": "Extract key content based on the background information and the conversation:In the Woods is written by Tana French. Tana French wrote The LikenessThe Likeness : `~Next in series`: In the Woods. In the Woods has genre MysteryMystery has examples: The Sleeping Doll. The Sleeping Doll is written by Jeffery Deaver[Human]: Could you recommend any books similar to In the Woods? [Assistant]: Sure! Do you like books by Tana French? She also wrote The Likeness. [Human]: I have never heard of Tana French before. What other books did she write? [Assistant]: Tana French is the author of Into the Woods. She also wrote Faithful Place and Broken Harbor. Do you want other recommendations? [Human]: I know that The Likeness and Into the Woods are both mysteries. Do you know of any similar mysteries by different authors? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 124,
+    "question": "Extract key content based on the background information and the conversation:Shane Black wrote The Long Kiss Goodnight. The Long Kiss Goodnight is starring Melina KanakaredesThe Long Kiss Goodnight is starring Yvonne ZimaYvonne Zima starred in The Long Kiss Goodnight. The Long Kiss Goodnight has genre Mystery[Human]: I like Shane Black's Lethal Weapon.  Do you know of any similar films?  [Assistant]: Shane Black also wrote The Long Kiss Goodnight and Kiss Kiss Bang Bang which are similar [Human]: I saw that film and loved it! I know Yvonne Zima is in it.  Who else stars in that movie? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 81,
+    "question": "Extract key content based on the background information and the conversation:X-Men 2 : `~Film Executive Produced`: Bryan Singer. Bryan Singer directed X-MenX-Men : `~Adapted From`: X-Men 2. X-Men 2 has genre Superhero movieX-Men 2 is starring Bryan Singer. Bryan Singer directed X-Men: Days of Future Past[Human]: Do you like the movie X-Men 2? [Assistant]: Yes, Bryan Singer directed X-Men 2 and stars Hugh Jackman. [Human]: I love Hugh Jackman as Wolverine. What other movies do you have similar? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 39,
+    "question": "Extract key content based on the background information and the conversation:Mulholland Drive is starring Robert ForsterRobert Forster starred in Vigilante (Action/Adventure Film)Vigilante (Action/Adventure Film) is starring Robert Forster. Robert Forster starred in Thick as Thieves[Human]: Who was in the movie Mulholland Drive? [Assistant]: Robert Forster, Patrick Fischler and Naomi Watts are a few actors in the movie.  It is a  genre Psychological thriller. [Human]: I like Naomi Watts but What else has Robert Forster starred in? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 202,
+    "question": "Extract key content based on the background information and the conversation:Something Borrowed is written by Emily Giffin. Emily Giffin wrote Where We BelongWhere We Belong was released 2012[Human]: Can you give me some more titles by the author of  Something Borrowed [Assistant]: Something Borrowed was written by Emily Griffin. She also wrote Where We Belong. [Human]: Where We Belong was released 2012 right? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 170,
+    "question": "Extract key content based on the background information and the conversation:Mahendra Singh Dhoni : `Team`: India national cricket team[Human]: Do you like Mahendra Singh Dhoni? [Assistant]: He's on the India national cricket team right? [Human]: I think so. Do you follow cricket? [Assistant]: Not really but I've heard they have a lot of good players like Kapil Dev and Sunil Gavaskar. [Human]: I don't follow it either, but it seems like a really challenging game to play. From what I've read it seems like it has similarities to lacrosse, baseball and soccer. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 11,
+    "question": "Extract key content based on the background information and the conversation:Fight Club is starring Jared Leto. Jared Leto starred in Panic Room[Human]: Could you recommend some movies similar to Fight Club? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 131,
+    "question": "Extract key content based on the background information and the conversation:Suresh Raina : `Sport played`: Cricket (Interest)[Human]: Do you know of Suresh Raina ? [Assistant]: Yes he is a Cricket player.  I have seen him on tv. [Human]: Didn't he play for the Chennai Super Kings? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 324,
+    "question": "Extract key content based on the background information and the conversation:Oh, the Places You'll Go! is written by Dr. SeussDr. Seuss wrote There's a Wocket in My PocketThere's a Wocket in My Pocket is written by Dr. Seuss. Dr. Seuss wrote The Cat in the Hat and Other Dr. Seuss Favorites[Human]: Do you know the book called Oh, the Places You'll Go! ? [Assistant]: Yes,it is written by Dr.suess [Human]: Really. What other books based on this author can you tell me of? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 252,
+    "question": "Extract key content based on the background information and the conversation:Truman Capote starred in Murder by Death (Comedy)Murder by Death (Comedy) is starring Truman CapoteTruman Capote starred in Murder by Death (Comedy)[Human]: Truman Capote is a good author can you recommend something that he has written? [Assistant]: Utterly Cold Blooded is a good one and so is Murder by Death  [Human]: Murder by Death is that a Comedy? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 145,
+    "question": "Extract key content based on the background information and the conversation:Lost in Translation has genre Romantic comedy. Romantic comedy has examples: The Proposal[Human]: I like Lost In Translation. Do you know of any movies like it? [Assistant]: Sure, Do you like Romantic comedies?  [Human]: Yes, they're my favorite. [Assistant]: Then you might like, The Proposal. Its also a Romantic Comedy [Human]: Thanks. I'll check it out. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 107,
+    "question": "Extract key content based on the background information and the conversation:Fury is starring Brad PittBrad Pitt starred in The Tree of Life. The Tree of Life has genre FantasyThe Tree of Life is starring Sean Penn[Human]: Have you heard of a movie called Fury? Do you like it? [Assistant]: The movie was ok, the emotion is better.  Brad Pitt was pretty good.  Do you like movies about war that were converted from video games? [Human]: I like Brad Pitt. He starred in The Tree of Life Right? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 73,
+    "question": "Extract key content based on the background information and the conversation:A Wrinkle in Time : `Next in series`: A Wind in the Door. A Wind in the Door is written by Madeleine L'EngleMadeleine L'Engle wrote A Wrinkle in TimeA Wrinkle in Time is written by Madeleine L'Engle. Madeleine L'Engle wrote An Acceptable Time (Time Quintet, #5)[Human]: Could you recommend books like A Wrinkle in Time? I really liked that one. [Assistant]: Yes, there is a next in series called a Wind in the Door. [Human]: Madeleine L'Engle wrote A Wrinkle in Time. Is A Wind in the Door also by her? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 232,
+    "question": "Extract key content based on the background information and the conversation:Sandra Ellis Lafferty starred in Walk the LineWalk the Line is starring Sandra Ellis LaffertySandra Ellis Lafferty starred in Walk the Line. Walk the Line has genre Historical period drama[Human]: Could you recommend some movies that Sandra Ellis Lafferty has been in? [Assistant]: She was in Walk the Line and Self/less. Do those sound interesting to you? [Human]: What type of movie is Walk the Line? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 234,
+    "question": "Extract key content based on the background information and the conversation:Katy Perry is a/an Singer-songwriter[Human]: Do you know anything about Katy Perry? [Assistant]: Katy Perry is a singer-songwriter and has also starred in movies as a voice actor. Are you a fan of hers? [Human]: Yes, I like her music. Have you listened to her songs? [Assistant]: I have, I enjoy the song Firework. Which one is your favorite? [Human]: Firework is also my favorite. I love the music video Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 352,
+    "question": "Extract key content based on the background information and the conversation:San Francisco Giants : `~Team`: Major League BaseballMajor League Baseball : `Team`: New York Yankees[Human]: What do you know about San Francisco Giants? [Assistant]: I know they are Major League Baseball, I'm not much of a baseball fan. What about you? [Human]: Yeah me either. But heard a lot about New York Yankees on the radio lately. Do you them? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 75,
+    "question": "Extract key content based on the background information and the conversation:Arsenal is a/an Sports Team[Human]: Do you watch any Arsenal games? [Assistant]: I am not even familiar with that term, tell me more [Human]: It's a football (soccer) team out of London. Do you watch football ? [Assistant]: The only sports I watch is American football [Human]: What is your favorite team ? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 269,
+    "question": "Extract key content based on the background information and the conversation:Frank Capra wrote It's a Wonderful Life. It's a Wonderful Life is starring Donna Reed[Human]: Can you recommend any movies directed by Frank Capra? [Assistant]: Sure thing! He directed It's a Wonderful Life - he also wrote it! Lovely film. [Human]: Can you tell me more about that film? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 208,
+    "question": "Extract key content based on the background information and the conversation:Michael O'Neill starred in Transformers[Human]: Do you know anything about Michael O'Neill? I know he's an actor but I'm not sure what he has starred in. [Assistant]: Michael O'Neill starred in Transformers, Traffic, and  Seabiscuit. [Human]: I loved Transformers! Who were the stars in that? I was so caught up with the action that I didn't pay attention to the actors. [Assistant]: The Transformers blockbuster starred Shia LaBeouf, Megan Fox, and Josh Duhamel [Human]: Oh, yeah. Who was the director? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 38,
+    "question": "Extract key content based on the background information and the conversation:11/22/63 is written by Stephen King. Stephen King starred in Pet Sematary (Horror Film)Stephen King wrote The Dead Zone. The Dead Zone has genre DramaThe Dead Zone is written by Stephen King[Human]: Do you know of any books referring to 11/23/63? [Assistant]: 1/22/63 is written by Stephen King, and he starred in Pet Sematary. do you like horror films?  [Human]: I dislike Horror, it freaks me out, did steven king write anything in the drama genre? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 353,
+    "question": "Extract key content based on the background information and the conversation:Thomas Müller : `~Player statistics`: Germany national football teamGermany national football team : `Player statistics`: Mesut ÖzilMesut Özil : `Position(s)`: Midfielder[Human]: What do you think about Thomas Müller? [Assistant]: I do not know much about him other than he plays German football.  [Human]: Do you know any other German football players? [Assistant]: Mesut Ozil and Toni Kroos also play for Germany.  [Human]: What do you know about  Mesut Özil? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 20,
+    "question": "Extract key content based on the background information and the conversation:Stanley Kubrick directed Full Metal Jacket. Full Metal Jacket is starring Vincent D'OnofrioFull Metal Jacket is starring Matthew ModineMatthew Modine starred in Full Metal Jacket[Human]: What can you tell me about Director Stanley Kubrick? [Assistant]: Stanley Kubrick directed Eyes Wide Shut and Full Metal Jacket. Have you heard of either? [Human]: Eyes Wide Shut I feel starred Nicole Kidman and Full Metal Jacket....Did that have Matthew Modine and Adam Baldwin in it? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 95,
+    "question": "Extract key content based on the background information and the conversation:William Friedkin directed The Hunted[Human]: Do you know William Friedkin? [Assistant]: Yes, William Friedkin directed the Hunted. Do you know that one? [Human]: No I have never seen that movie [Assistant]: The Hunted is an Action film released in 2003 starring Tommy Lee Jones. Would you like to see it? [Human]: I might be intrested in it I like action movies Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 294,
+    "question": "Extract key content based on the background information and the conversation:Emma is written by Jane Austen[Human]: Do you know of a book with the title or partial title of Emma? [Assistant]: Yes, Emma is a novel written by Jane Austen. Would you like other books by that author? [Human]: Sure, I've liked Jane Austen in the past but I am not that familiar with her work. [Assistant]: Sure. Jane Austen writes great historical novels. She also wrote Pride and Prejudice and Persuasion. [Human]: Oh sounds like I better get reading then, thank you! Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 114,
+    "question": "Extract key content based on the background information and the conversation:Unforgiven is written by David Peoples[Human]: I really liked Unforgiven. Do you know who was in that? [Assistant]: Yes Morgan Freeman and Clint Eastwood  by David Peoples. [Human]: I believe David Peoples wrote other Sci-Fi movies, do you know which are they? [Assistant]: The Blood of Heroes and Blade Runner.  [Human]: Which do you recommend me to see first? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 300,
+    "question": "Extract key content based on the background information and the conversation:The Lost World: Jurassic Park has genre Sci-Fi[Human]: Do you know of a movie that's like The Lost World: Jurassic Park? [Assistant]: Do you like films about dinosaurs, or are you interested because it is an adventure and science fiction film? [Human]: I'm really into sci-fi. [Assistant]: Well, you might like X-Men or Zombieland if you're into sci-fi. [Human]: There are so many X-Men movies. Which one do you think I should watch first? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 255,
+    "question": "Extract key content based on the background information and the conversation:Mary GrandPré wrote Harry Potter and the Half-Blood Prince. Harry Potter and the Half-Blood Prince is written by J.K. RowlingHarry Potter and the Half-Blood Prince is written by J. K. Rowling[Human]: Could you recommend a book written by author Mary GrandPré? [Assistant]: Sure, Mary GrandPre wrote Harry Potter and the Half-Blood Prince, it falls under the Fantasy genre. [Human]: Oh really? Did she co author the Harry Potter books with J. K. Rowling? I love fantasy books Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 160,
+    "question": "Extract key content based on the background information and the conversation:Arizona Cardinals : `~Team`: NFC WestNFC West : `~Division`: Arizona Cardinals. Arizona Cardinals : `~Drafted`: Larry Fitzgerald[Human]: Do you like the Arizona Cardinals? [Assistant]: I really like them out of all the NFC West. I like Larry Fitzgerald is one of my favorites. I'm sad that he's at the end of his career but happy that he had a good run.  [Human]: Fitzgerald's done pretty well for my fantasy team this year. What's your favorite team? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 351,
+    "question": "Extract key content based on the background information and the conversation:Martin McDonagh directed Seven Psychopaths. Seven Psychopaths is starring Gabourey SidibeSeven Psychopaths is written by Martin McDonaghMartin McDonagh wrote Seven Psychopaths. Seven Psychopaths is starring Kevin Corrigan[Human]: Could you recommend movies directed by Martin McDonagh? [Assistant]: He directed Seven Psychopaths.  Gabourey Sidibe starred in it. [Human]: Seven Psychopaths is one of my favorites! Who else besides Gabourey Sidibe is in that movie? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 285,
+    "question": "Extract key content based on the background information and the conversation:Manny Pacquiao is a/an Politician[Human]: Is the boxer  Manny Pacquiao any good? [Assistant]: Well, he's only had 7 losses in his career. Did you know that he is also a politician, musician, and film producer? [Human]: Wow, he must be good boxer then! Really? He is a musician and producer too, which movies did he produce? [Assistant]: I don't know which movie he produce but I think they are Filipino movies. He's the biggest deal in the Philippines. [Human]: Nice to be multi talented. Did he win against Mayweather anytime? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 189,
+    "question": "Extract key content based on the background information and the conversation:The Namesake : `Next in series`: Unaccustomed Earth. Unaccustomed Earth has genre FictionUnaccustomed Earth has genre Short storyShort story has examples: The Nightingale[Human]: Could you recommend a book like The Namesake? [Assistant]: Sure! This books is a serie, so the next one is Unaccustomed Earth.  Do you like fiction? [Human]: Yes I do, but particularly short story fiction. Any recommendations? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 320,
+    "question": "Extract key content based on the background information and the conversation:Joseph Gordon-Levitt starred in Looper. Looper is starring Bruce WillisLooper is starring Bruce Willis[Human]: I like Joseph Gordon-Levitt a great deal. Can you recommend any of his films I might not be aware of? [Assistant]: He was in Looper which also stars Bruce Willis. [Human]: I don't think I have heard of that one. Who else stars in it with him? [Assistant]: It also stars Emily Blunt and Tracie Thoms. [Human]: Sounds awesome! I really like Bruce Willis, too. Can you tell me any fun facts about him? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 273,
+    "question": "Extract key content based on the background information and the conversation:Jurassic Park III is written by Peter BuchmanPeter Buchman wrote Jurassic Park III. Jurassic Park III : `Sequel`: Jurassic WorldJurassic World is written by Michael Crichton[Human]: I like Jurassic park, III do you know who wrote it? [Assistant]: It was written by Peter Buchman, Michael Crichton and Alexander Payne. [Human]: Was there a sequal? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 278,
+    "question": "Extract key content based on the background information and the conversation:Anne Hathaway starred in The Princess Diaries 2: Royal EngagementThe Princess Diaries 2: Royal Engagement is directed by Garry Marshall[Human]: I like Anne Hathaway. Have you seen her movies? [Assistant]: I love Anne Hathaway! I love The Princess Diaries movies as well as The Devil Wears Prada. Would you like to know more of her movies? [Human]: Yes please. I like The Princess Diaries 2. Who is the director? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 251,
+    "question": "Extract key content based on the background information and the conversation:The Eye of the World is written by Robert Jordan[Human]: I loved the book The Eye of the World but I can't remember, who wrote it? [Assistant]: It was written by Robert Jordan. Are you interested in other titles by him? [Human]: Great. Yes, can you recommend another book like it?  [Assistant]: Two come to mind off-hand: \"Towers of Midnight\" and \"The Wheel of Time.\" Are you interested in either? [Human]: Robert Jordan also wrote The Great hunt and I loved it. What genre is Towers of Midnight? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 211,
+    "question": "Extract key content based on the background information and the conversation:Mary Ann Shaffer wrote The Guernsey Literary and Potato Peel Pie Society[Human]: Can you please recommend books written by Mary Ann Shaffer? [Assistant]: Absolutely! She wrote The Guernsey Literary and Potato Peel Pie Society. Not only is she an author she is a librarian. [Human]: Amazing! Can you tell me about the both books briefly? [Assistant]: That's just on book with a long title. It's historical fiction and was released in 2008. It is set in England. [Human]: Oh I see. The title really sounds interesting. Thanks for this great recommendation for my next Mary Ann Shaffer book to read, Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 140,
+    "question": "Extract key content based on the background information and the conversation:Duncan Jones wrote Moon (Film). Moon (Film) is starring Matt BerryMoon (Film) is starring Sam RockwellSam Rockwell starred in Galaxy Quest[Human]: Do you know who Duncan Jones is? [Assistant]: Yes, he was the writer for the film, Moon, which starred Matt Berry. Have you seen it? [Human]: Yes, it is great movie. Sam Rockwell is also starring in Moon. Could you recommend ani similar movie? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 336,
+    "question": "Extract key content based on the background information and the conversation:Morten Tyldum directed The Imitation GameThe Imitation Game is starring Benedict CumberbatchBenedict Cumberbatch starred in The Fifth Estate[Human]: I like movies by director  Morten Tyldum. Do you have any suggestions? [Assistant]: He directed The Imitation Game, which is a great film. He also directed Headhunters [Human]: I loved The Imitation Game. Did you know it starred Benedict Cumberbatch? Great actor. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 240,
+    "question": "Extract key content based on the background information and the conversation:Mission: Impossible - Rogue Nation is starring Tom Cruise. Tom Cruise starred in Valkyrie[Human]: Can you recommend another movie like Mission: Impossible - Rogue Nation? [Assistant]: Well Tom cruise starred in Mission impossible Rogue Nation so if you like him he also starred in Valkyrie. [Human]: Yes! Love him. What genre is Valkyrie? [Assistant]: Valkyrie falls under the genre war and political thriller. [Human]: Sounds interesting. Who else stars in it? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 337,
+    "question": "Extract key content based on the background information and the conversation:Die Hard with a Vengeance is written by Roderick Thorp[Human]: Do you like Die Hard with a Vengeance? [Assistant]: Yes! It was written by Roderick Thorp and stars Bruce Willis. Do you like Bruce Willis films? [Human]: I do enjoy Bruce Wills films! [Assistant]: Have you seen Die Hard with a Vengeance with Bruce Willis? [Human]: Yes that was a good film. Did Roderick Throp write this film Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 97,
+    "question": "Extract key content based on the background information and the conversation:Chicago Bulls : `~Drafted`: Michael Jordan. Michael Jordan starred in Space JamSpace Jam is starring Bill MurrayBill Murray starred in Ghostbusters III. Ghostbusters III is starring Melissa McCarthy[Human]: Do you like the Chicago Bulls? [Assistant]: I am not a fan of basketball.  I do like Michael Jordan though.  I loved him in Space jam [Human]: Yes, Space Jam was a great movie. Bill Murray was hilarious in that movie.  Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 12,
+    "question": "Extract key content based on the background information and the conversation:San Francisco Giants : `~Team Owned`: Bill Neukom[Human]: Do you know anything about the San Francisco Giants? [Assistant]: Yes, it was owned by Bill Neukom and it's a Major League Baseball team.  [Human]: Can you tell me about him and owing the the Baseball team?  [Assistant]: He is former managing general partner of the San Francisco Giants baseball team ownership group. He held this position from May 2008 to December 31, 2011 and he was the managing partner when the Giants won the World Series in 2010 [Human]: Does he still own the team? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 180,
+    "question": "Extract key content based on the background information and the conversation:Before I Fall was released 2010. 2010 is starring Arthur C. Clarke[Human]: Do you have information on the book Before I Fall? [Assistant]: Yes. Before I Fall was released in 2010 and stars Arthur C. Clarke. It's a sci-fi movie...do you like those? [Human]: Oh, I didn't know they made it into a movie. Yeah that sounds great. Any famous actors in it? [Assistant]: No, but Arthur C. Clarke also starred in and wrote 2061: Odyssey Three. [Human]: Interesting. Sounds like you gave me some great suggestions. Thanks a lot! Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 70,
+    "question": "Extract key content based on the background information and the conversation:Madonna : `~Spouse (or domestic partner)`: Sean Penn. Sean Penn starred in Fast Times at Ridgemont High[Human]: I used to love Madonna back in the day. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 318,
+    "question": "Extract key content based on the background information and the conversation:Harry Potter and the Half-Blood Prince is written by J.K. RowlingJ.K. Rowling wrote The SilkwormThe Silkworm was released 2014[Human]: Harry Potter and the Half-Blood Prince, have you ever read it? Can you give me some information about it? [Assistant]: That is a young-adult fiction by J.K. Rowling. Do you like young-adult fiction? [Human]: I do like young adult fiction. What other books did J.K. Rowling write? [Assistant]: She wrote The Silkworm and The Casual Vacancy, along with several others. Are you familiar with those? [Human]: No I'm not, what can you tell me about Silkworm?  Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 7,
+    "question": "Extract key content based on the background information and the conversation:Neal Stephenson wrote ZodiacZodiac is written by Neal StephensonNeal Stephenson wrote The System of the World[Human]: Could you recommend any good books by Neal Stephenson? [Assistant]: He Wrote Zodiac [Human]: Could you tell me about books similar to Zodiac? That book is vaguely familar. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 372,
+    "question": "Extract key content based on the background information and the conversation:Kesha : `Musical Genre`: Synthpop[Human]: What do you think of Kesha ? [Assistant]: I love her most of her music. [Human]: What type of song she sings? I don't know much about her Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 267,
+    "question": "Extract key content based on the background information and the conversation:Denver Broncos : `~Team`: National Football LeagueNational Football League : `Team`: Seattle Seahawks[Human]: What do you think about the Denver Broncos? [Assistant]: The Denver Broncos seem like a pretty solid team on the AFC West Division this season. Do you follow them?  [Human]: I am really not a fan of the National Football League. But I have heard about other teams such as the Green Bay Packers and Seattle Seahawks. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 104,
+    "question": "Extract key content based on the background information and the conversation:Spider-Man 2 is written by Stan Lee. Stan Lee wrote The Incredible Hulk[Human]: I like Spider-Man 2 very much. Could you recommend similar movies? [Assistant]: Iron Man 2 is a good one and so is the Incredible Hulk plus any X-Men movie as well.  [Human]: Could you tell me who starred in Iron Man 2? [Assistant]: That would be Robert Downey Jr. as Tony Starks AKA Iron Man.  [Human]: I am a huge fan of Robert Downey Jr. I think I will be Iron Man 2. Thank you for this recommendation. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 157,
+    "question": "Extract key content based on the background information and the conversation:Peter Gallagher starred in The O.C.. The O.C. has genre Teen dramaThe O.C. is starring Tate DonovanTate Donovan starred in Good Night, and Good Luck[Human]: Do you know Peter Gallagher? [Assistant]: Yes. He is an actor, starred in The O.C., While You Were Sleeping and many more. Are you a fan of him? [Human]: Yes I liked him in The O.C. Tate Donovan was also in that movie.  Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 10,
+    "question": "Extract key content based on the background information and the conversation:Pulp Fiction is written by Roger AvaryRoger Avary wrote The Rules of Attraction. The Rules of Attraction is starring Swoosie KurtzThe Rules of Attraction is starring Fred Savage[Human]: I like Pulp Fiction. What do you think about it? [Assistant]: I love it. It was written by  Roger Avary [Human]: I heard he also wrote The Rules of Attraction. Do you know who is in that movie? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 218,
+    "question": "Extract key content based on the background information and the conversation:Voltaire wrote CandideCandide was released 17591759 was the year that released Candide. Candide : `Kind of composition`: Overture[Human]: Could you recommend ny books by Voltaire [Assistant]: Voltaire was a writer, poet, historian and playwright who wrote Candide. [Human]: Candide is the  Operetta released in 1759 right Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 60,
+    "question": "Extract key content based on the background information and the conversation:Mike Newell directed Pushing Tin[Human]: Do you know what films Mike Newell directed? [Assistant]: He directed Pushing Tin, Prince of Persia, and Harry Potter and the Goblet of Fire to name a few.  [Human]: I didn't know that he directed Pushing Tin. That's interesting. Do you also know who wrote Pushing Tin? [Assistant]: Glen Charles and Darcy Frey wrote Pushing Tin, it's a romance. [Human]: Sounds good. Thanks for your help! Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 316,
+    "question": "Extract key content based on the background information and the conversation:The Cat in the Hat is written by Dr. SeussDr. Seuss wrote Yertle the Turtle (Classic Seuss)Yertle the Turtle (Classic Seuss) was released 1958[Human]: Do you like the book The Cat in the Hat? [Assistant]: Oh my God, i love it!  Dr. Seuss was such a genius. [Human]: I agree. Yertle the Turtle (Classic Seuss) is also a good one Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 315,
+    "question": "Extract key content based on the background information and the conversation:Wladimir Klitschko is a/an BoxerBoxer has example: Tonya Harding[Human]: Do you know Wladimir Klitschko? [Assistant]: I know he is a champion heavyweight boxer, with a brother named Vitali [Human]: Must be a big guy. Funny enough, Tonya Harding was boxer after she was done with figure skating.  Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 144,
+    "question": "Extract key content based on the background information and the conversation:Mike Starr starred in The Last DragonThe Last Dragon has genre Mockumentary[Human]: I like actor Mike Starr. Could you recommend films that he stars in? [Assistant]: He was in The Last Dragon and The Bodyguard.  Have you seen either of those? [Human]: I love The Bodyguard but I haven't seen The Last Dragon. can you tell me more about this movie? [Assistant]: It also stars William H. Macy.  It's considered a Mockumentary.  It looks pretty interesting.  Do you like comedies? [Human]: Yes, actually I thought it was a martial art film Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 152,
+    "question": "Extract key content based on the background information and the conversation:Fifty Shades Darker is written by E.L. JamesE.L. James wrote Fifty Shades FreedFifty Shades Freed : `~Next in series`: Fifty Shades Darker. Fifty Shades Darker : `~Next in series`: Fifty Shades of Grey[Human]: Do you like Fifty Shades Darker [Assistant]: I am not a fan of this genre. It's an  Erotic romance novel written by E.L. James. You'll like Fifty Shades Freed too. [Human]: Yes E.L. James also wrote Fifty Shades Freed. I am not really a fan of that genre either though Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 295,
+    "question": "Extract key content based on the background information and the conversation:Stephen Root starred in White OleanderWhite Oleander is written by Janet FitchJanet Fitch wrote White Oleander. White Oleander is starring Cole Hauser[Human]: Could you recommend a couple of movies starring Stephen Root? [Assistant]: Yes, starred in White Oleander and The Men Who stare at Goats [Human]: Didn't Janet Fitch write White Oleander? Is Robin Wright also in that movie? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 239,
+    "question": "Extract key content based on the background information and the conversation:Scott O'Dell : `Award Won`: John Newbery MedalJohn Newbery Medal : `~Category of`: John Newbery MedalJohn Newbery Medal : `~Award Won`: Tomie dePaola[Human]: Do you know of any books written by Scott O'Dell? [Assistant]: Yes.  He's a great author and an award winner.  He wrote Island of the Blue Dolphins.   [Human]: I remember reading that one when I was younger. Did he write mostly children's books? [Assistant]: I'm not sure, but I can tell you he was one of many that one the John Newbery Medal.  Would you like to know some others? [Human]: Sure. Any other Newbery Award winning authors you know of? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 119,
+    "question": "Extract key content based on the background information and the conversation:Madonna : `Spouse (or domestic partner)`: Guy Ritchie. Guy Ritchie directed RocknRolla[Human]: Do you know much about Madonna? When I was a young adult in the 80s, she was my favorite singer.  [Assistant]: I have to be honest, I wasn't around back then. But I know she was married to Guy Ritchie, and he directed RocknRolla. [Human]: I was all into MTV when it first hit the air. I would watch music videos nearly all day, and she was one that was all over. I don't like her newer music, though. What can you tell me about RocknRolla? [Assistant]: Alright, yes I have heard that MTV actually used to show music videos! It is a decent movie with a great cast, including Thandie Newton and Jeremy Piven. [Human]: I haven't checked MTV for a long time. It seems to only do shows mow. I don't see how you can have music tv without the music. That's quite funny. Didn't Guy Ritchie do a lot of things for that film? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 272,
+    "question": "Extract key content based on the background information and the conversation:The 5th Wave is written by Rick Yancey[Human]: I like the book The 5th Wave, do you know of similar titles? [Assistant]: Are we talking of the writer, Rick Yancey? [Human]: Yes!  [Assistant]: Then I can refer you to The Last Star, and The Infinite Sea. These two will fit your pace nicely [Human]: Do you know what genre The Infinite Sea is considered? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 32,
+    "question": "Extract key content based on the background information and the conversation:What Alice Forgot is written by Liane Moriarty[Human]: I like What Alice Forgot, but forget who wrote it.  Can you help? [Assistant]: It was written by Liane Moriarty and released in 2009. Are you interested in her books? [Human]: Yes, what are some other titles? [Assistant]: She also wrote The Last Anniversary and The Hypnotist's Love Story.  [Human]: What's the Last Anniversary about? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 228,
+    "question": "Extract key content based on the background information and the conversation:Linkin Park : `~Member of`: Rob Bourdon[Human]: what do you think of Linkin Park [Assistant]: I love Linkin Park, My favorite song is Bleed it out. How about you? [Human]: my favorite is one step closer, who other singer you like? [Assistant]: I like the Band Muse, Do you know them? [Human]: Yeah I like them too, Dig Down Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 134,
+    "question": "Extract key content based on the background information and the conversation:Under the Dome is written by Stephen King[Human]: Do you know of the book \"Under the Dome\"? [Assistant]: That was written by Stephen King and released in 2009 [Human]: I was wondering if it was a pretty good book. I am looking a a horror book. [Assistant]: The Stand is also written by Stephen King and is horror [Human]: Thanks for the recommendation. I will try that one. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 174,
+    "question": "Extract key content based on the background information and the conversation:Jennifer L. Armentrout wrote Shadows. Shadows has genre Drama[Human]: Do you like books written by Jennifer L. Armentrout?  [Assistant]: Sure, she wrote Shadow and Wicked. Are you a fan of musical theater? [Human]: Yes. I like musicals. Do you know of any other musicals?  [Assistant]: You might also enjoy The Crucible if you like musicals. [Human]: Did Jennifer also write The Crucible?  Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 44,
+    "question": "Extract key content based on the background information and the conversation:FC Bayern Munich : `Sport`: Football[Human]: What do you think about FC Bayern Munich? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 94,
+    "question": "Extract key content based on the background information and the conversation:Alexis Sánchez : `Sport played`: FootballFootball has examples: Remember the Titans. Remember the Titans is starring Denzel WashingtonDenzel Washington starred in Training Day[Human]: What do you think about Alexis Sanchez? [Assistant]: He plays football In Chile right? [Human]: Yes he does. Have you ever watch him play before? [Assistant]: I haven't but I love football movies like Remember The Titans. [Human]: Oh yes same here that was a great movie, it starred Denzel Washington! Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 176,
+    "question": "Extract key content based on the background information and the conversation:The Eye of the World is written by Robert Jordan[Human]: Could you recommend books like The Eye of the World? [Assistant]: The Eye if the World written by Robert Jordan has genres Speculative fiction and fantasy. Do you like these genres? [Human]: Yes, especially Speculative fiction.  [Assistant]: Robert Jordan also wrote The Shadows Rising which is speculative fiction. Have you read it [Human]: No, I haven't. Maybe I'll check that one out. Does he have any other speculative fiction? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 8,
+    "question": "Extract key content based on the background information and the conversation:The Martian is starring Matt Damon[Human]: I like the movie \"The Martian\", could you recommend a movie similar to it? [Assistant]: Do you like The Martian because it stars Matt Damon? [Human]: I like the movie because of its story line. [Assistant]: Matt Damon also starred in The Bourne Ultimatum which is Crime Fiction Film [Human]: I have not seen that movie yet. i do like Crime Fiction so I think that is a great choice. Thank you Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 26,
+    "question": "Extract key content based on the background information and the conversation:Charlotte's Web is written by Rosemary WellsRosemary Wells wrote Charlotte's WebCharlotte's Web has genre Speculative fiction[Human]: My Niece is reading Charlotte's Web and I want some other books like that to give to her. Can you suggest some? [Assistant]: Stuart Little is the next in series of Charlotte's Web. That would be a good book to read.  [Human]: Sounds good. I know that it's written by Rosemary Wells, what genre is it considered? Something like Speculative Fiction? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 354,
+    "question": "Extract key content based on the background information and the conversation:Night at the Museum has genre FantasyFantasy has examples: Harry Potter and the Prisoner of Azkaban. Harry Potter and the Prisoner of Azkaban has genre Family[Human]: I liked Night at the Museum movie, can you recommend me similar movies? [Assistant]: Absolutely! Do you prefer fantasy or family films? [Human]: I am crazy about fantasy movies like  Harry Potter series! Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 254,
+    "question": "Extract key content based on the background information and the conversation:Message in a Bottle is written by Nicholas SparksNicholas Sparks wrote Two By TwoTwo By Two is written by Nicholas Sparks[Human]: What can you tell me about Message in a Bottle?  Who authored it, etc? [Assistant]: Written by Nicholas Sparks and was released in 1988. [Human]: What else did Nicholas Sparks write? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 106,
+    "question": "Extract key content based on the background information and the conversation:Kami Garcia wrote Dream Dark[Human]: Do you know any of Kami Garcia's works? [Assistant]: Sure!  Kami Garcia wrote Dream Dark and Beautiful Redemption which are Young-adult fiction novels. Have you read either of these yet? [Human]: I haven't, but I like reading YA fiction to relax. I really like Cassandra Clare and suspense and or supernatural novels. [Assistant]: Dream Dark was released in 2011, which is the same year Dragon's Oath was released, it is a suspense novel.  Have you read it? [Human]: Is Dragon's Oath also by Kami Garcia? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 179,
+    "question": "Extract key content based on the background information and the conversation:Mission: Impossible III is starring Tom CruiseTom Cruise wrote Days of Thunder. Days of Thunder has genre SportSport has examples: Days of Thunder. Days of Thunder has genre Action Film[Human]: I like the movie Mission: Impossible III, Can you suggest something similar? [Assistant]: Great action movie starring Tom Cruise. Do you like because Tom Cruise is in it or because it is a Action/ Adventure movie? [Human]: I enjoyed this movie most because it is Action/Adventure. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 91,
+    "question": "Extract key content based on the background information and the conversation:The Pursuit of Happyness is starring Will SmithWill Smith starred in Seven Pounds. Seven Pounds has genre RomanceSeven Pounds is starring Will Smith[Human]: Would you recommend the movie The pursuit of HAppyness? [Assistant]: Yes I would its a great film starring will smith [Human]: I love his work. Can you tell me more? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 338,
+    "question": "Extract key content based on the background information and the conversation:Albert Finney starred in The Gathering Storm (Political drama Film). The Gathering Storm (Political drama Film) is starring Vanessa RedgraveThe Gathering Storm (Political drama Film) is starring Linus RoacheLinus Roache starred in The Gathering Storm (Political drama Film)[Human]: Do you like the actor Albert Finney? [Assistant]: I do not like him that much, but I like the movie The Gathering Storm, where he is starring. [Human]: Who else is in that movie? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 181,
+    "question": "Extract key content based on the background information and the conversation:The Lost Hero is written by Rick RiordanRick Riordan wrote The Lost HeroThe Lost Hero : `Part of series`: The Heroes of Olympus[Human]: I have never read the book The Lost Hero. Can you tell me anything about it? [Assistant]: Sure! The Lost Hero is written by Rick Riordan. The book involves Greek Mythology.  [Human]: I like Greek Mythology. Do you know of anymore books that Rick Riordan wrote? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 263,
+    "question": "Extract key content based on the background information and the conversation:The Picture of Dorian Gray has genre Speculative fiction[Human]: Could you recommend books similar to The Picture of Dorian Gray? [Assistant]: Sure! The Picture of Dorian Gray is a Speculative fiction book. Do you like that genre? [Human]: Yes I do. Can you suggest some titles for me? [Assistant]: I can do that. Z for Zachariah and Xenocide are Speculative fiction and already great books. [Human]: Those sound great. Do you have more information on these books? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 49,
+    "question": "Extract key content based on the background information and the conversation:Guy Ritchie wrote Snatch. Snatch is starring Ewen BremnerSnatch has genre Thriller[Human]: Could you recommend a movie by Guy Ritchie? [Assistant]: Snatch is a popular movie by Guy Ritchie. [Human]: Sounds like a good movie. I love Triller. Besides Brad Pitt who star in the movie? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 105,
+    "question": "Extract key content based on the background information and the conversation:The Great Gatsby has genre Fiction. Fiction has examples: The Surgeon[Human]: Do you know of any books like the Great Gatsby? [Assistant]: Yes, do you like fiction books? [Human]: I love fiction [Assistant]: The Surgeon and The Bronze Bow are good fiction books.  [Human]: Who wrote The Surgeon? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 332,
+    "question": "Extract key content based on the background information and the conversation:James Coburn starred in Young Guns II. Young Guns II is starring Alan RuckAlan Ruck starred in Twister (Action/Adventure Film). Twister (Action/Adventure Film) is starring Philip Seymour Hoffman[Human]: Do you know what James Coburn is known for? [Assistant]: He is known for Young Guns  II starring Alan Ruck [Human]: Who else is in that movie? [Assistant]: I am not sure however Alan Ruck also starred in Twister.  Are you familiar with that movie? [Human]: Yes, Philip Seymour Hoffman was in it. I think I'll have to watch Twister tonight. Thanks Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 63,
+    "question": "Extract key content based on the background information and the conversation:Moonrise Kingdom has genre Romance Film. Romance Film has examples: Win a Date with Tad Hamilton!Win a Date with Tad Hamilton! is starring Sean HayesSean Hayes starred in The Three Stooges[Human]: Can you recommend any movies like Moonrise Kingdon? [Assistant]: Sure. Is it the romance in the film that interests you? If so may i recommend Win a Date with Tad Hamilton! [Human]: Yes, interesting who stars in it? [Assistant]: It is! It stars Topher Grace and also Sean Hayes. [Human]: I see, I like Sean Hayes any other movies with him in it? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 248,
+    "question": "Extract key content based on the background information and the conversation:Lionel Messi : `Award Won`: UEFA Club Footballer of the Year[Human]: Do you know Lionel Messi? [Assistant]: I do not, who is that? [Human]: Lionel Messi is an Argentine professional footballer. Do you like soccer?  Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 322,
+    "question": "Extract key content based on the background information and the conversation:2001: A Space Odyssey has genre Sci-FiSci-Fi has examples: ZoomZoom is starring Kevin Zegers[Human]: Could you recommend other movies like 2001: A Space Odyssey? [Assistant]: 2001: A Space Odyssey is both a Mystery and a Sci-Fi film. Do you prefer one genre over another?  [Human]: I like Sci-Fi films. [Assistant]: There are a lot of great Sci-Fi films. You might want to try: eXistenZ, Zoom, or Zombieland.  [Human]: I am curious about Zoom. Who starred in this film? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 331,
+    "question": "Extract key content based on the background information and the conversation:Tom Brady : `~Spouse (or domestic partner)`: Gisele. Gisele starred in The Devil Wears PradaGisele : `~Romantic relationship (with celebrities)`: Tom Brady. Tom Brady starred in Stuck on You[Human]: What do you think about Tom Brady? [Assistant]: I don't know much about him. His wife, Gisele is on one of my favorite movies The Devil Wears Prada. [Human]: I don't think I have watched that one yet. Tom Brady was in the movie Stuck on You.  Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 178,
+    "question": "Extract key content based on the background information and the conversation:The Wolf of Wall Street is starring Matthew McConaugheyMatthew McConaughey starred in A Time to KillA Time to Kill is written by John Grisham[Human]: I enjoyed The Wolf Of Wall Street. Can you recommend any other movies with the stars of it? [Assistant]: Matthew McConaughey is in it.  Do you like him? [Human]: I do. I really enjoyed him in A Time To Kill. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 191,
+    "question": "Extract key content based on the background information and the conversation:FC Bayern Munich is a/an Sports Team[Human]: What do you think about FC Bayern Munich? [Assistant]: It's a German football league correct?  I prefer American football. [Human]: Yes, I prefer american football. Do you have a favorite team? [Assistant]: The Dallas Cowboys all the way.  Who's your favorite team? [Human]: My favorite team is the Redskins.  Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 298,
+    "question": "Extract key content based on the background information and the conversation:John Kennedy Toole wrote A Confederacy of Dunces[Human]: Could you recommend some books by John Kennedy Toole? [Assistant]: Sure! John Kennedy Toole wrote A Confederacy of Dunces, have you read this one? [Human]: I haven't, do you know what genre that is? [Assistant]: It's a tragicomedy that was released in 1980 [Human]: That sounds interesting! I think I'll check it out, thank you!  Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 61,
+    "question": "Extract key content based on the background information and the conversation:Kevin Durant : `Sport played`: BasketballBasketball : `~Sport played`: Stephen Curry[Human]: What do you think about Kevin Durant? [Assistant]: Kevin Durant is a Basketball player. Do you like him? [Human]: I don't really know him. I like Steph Curry with the Warriors. Do you know him? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 132,
+    "question": "Extract key content based on the background information and the conversation:Jason Cope starred in DreddDredd has genre Science FictionScience Fiction has examples: War of the Worlds[Human]: Do you know who Jason Cope is? [Assistant]: Jason Cope starred in District 9 and Dredd. Want to know more? [Human]: Yes, can you tell me more about Dredd? [Assistant]: Dredd is written by John Wagner and was a film released in 2012. Want to know more? [Human]: I think I've heard of Dredd. Is that a sci-fi thriller staring Wood Harris? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 155,
+    "question": "Extract key content based on the background information and the conversation:Shelley Duvall starred in Time Bandits. Time Bandits has genre Comedy[Human]: Could you reccommend a good drama with Shelley Duvall [Assistant]: Shelley Duvall starred in Time Bandits. Do you like comedies? [Human]: I love comedies, especially drama comedies! what else is good I already saw that one [Assistant]: You might also enjoy the movie What Happens In Vegas starring Cameron Diaz. Do you like that actress? [Human]: Oh my god LOVE Cameron Diaz I have to see this movie, what else does she play in Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 85,
+    "question": "Extract key content based on the background information and the conversation:Chris Penn starred in True RomanceTrue Romance is written by Quentin Tarantino[Human]: Do you Know Chris Penn? [Assistant]: He is an actor who starred in True Romance and The Wild Life.  Have you seen either of those? [Human]: True Romance I have and I love it but not Wild Life. Can you tell me more? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 9,
+    "question": "Extract key content based on the background information and the conversation:Harper Lee wrote To Kill a MockingbirdTo Kill a Mockingbird : `Subject`: Drama. Drama has examples: Dark ShadowsDark Shadows is written by Seth Grahame-Smith[Human]: Do you know anything about the author Harper Lee? [Assistant]: He wrote To Kill a Mockingbird, and Go set a Watchman. [Human]: I like that book. Do you think its along the same lines as Dark Shadow?  Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 304,
+    "question": "Extract key content based on the background information and the conversation:Mindy Kaling : `Starring TV role`: The Office[Human]: Do you know Mindy Kaling? I would like to learn more about this author. [Assistant]: Mindy Kaling has a big resume. Her first claim to fame was starring in The Office.  [Human]: The tv program? I love comedy. [Assistant]: Correct! Have you seen Wreck It Ralph? She also voice acts in that movie. [Human]: No, I haven't seen it but it sounds interesting.  I will give it a try. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 159,
+    "question": "Extract key content based on the background information and the conversation:M. Night Shyamalan wrote Unbreakable. Unbreakable is starring Spencer Treat Clark[Human]: Could you recommend some films directed by M. Night Shyamalan? [Assistant]: Yes, M. Night Shyamalan wrote Unbreakable.  [Human]: Did he also direct that film? [Assistant]: Yes, he also directed Unbreakable.  [Human]: What genre of film is it? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 360,
+    "question": "Extract key content based on the background information and the conversation:Donnie Brasco is starring Al Pacino[Human]: Would you recommend the movie Donnie Brasco? [Assistant]: Well Al Pacino can not go wrong in my opinion.  For it being a drama, I feel it delivers among viewers.  [Human]: Oh! Al Pacino! I like his movies. Any other popular actors in it? [Assistant]: Johnny Depp plays Donnie, Anne Heche stars as Maggie, and Michael Madsen plays Sonny Black [Human]: Awesome. Definitely streaming that one soon. Thank you for the info. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 19,
+    "question": "Extract key content based on the background information and the conversation:Damian Lillard : `Sport played`: BasketballBasketball has examples: Space Jam. Space Jam is starring Michael JordanSpace Jam has genre Animation[Human]: Do you know Damian Lillard? [Assistant]: I think he is a Basketball player, play as a point guard. He might be from Oakland. Are you a fan of his? [Human]: I don't really know much about him. I do like Michael Jordan in Space Jam Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 2,
+    "question": "Extract key content based on the background information and the conversation:The Secret Life of Bees has genre Teen drama. Teen drama has examples: A Walk to RememberA Walk to Remember is produced by Hunt LowryHunt Lowry produced A Walk to Remember. A Walk to Remember is a/an Film[Human]: Could you recommend any books like The Secret Life of Bees? [Assistant]: Yes, its a great teen book, have you heard about A walk to remember ? It is also a great teen drama [Human]: I think I have.. is that one with Hunt Lowry? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 262,
+    "question": "Extract key content based on the background information and the conversation:The Hobbit: An Unexpected Journey has genre Fantasy. Fantasy has examples: The WolfmanThe Wolfman is starring Anthony Hopkins[Human]: Could you recommend movies similar to The Hobbit: An Unexpected Journey? [Assistant]: Sure! Do you like Fantasy films? You might like The Wolfman. [Human]: I love Fantasy Films. Who is in The Wolfman? [Assistant]: The Wolfman stars Benicio del Toro, Emily Blunt and Anthony Hopkins to name a few. I also have other fantasy movie recommendations if you want more. [Human]: I love Anthony Hopkins. What other fantasy movies do you recommend? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 271,
+    "question": "Extract key content based on the background information and the conversation:Andrés Iniesta : `~Player statistics`: Spain national football teamSpain national football team : `Player statistics`: Andrés Iniesta[Human]: What do you think of Andres Iniesta's career this year? [Assistant]: I am not familiar with Andres Iniesta. Who is he? [Human]: He's a member of Spain's national football team. Are you a football fan? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 59,
+    "question": "Extract key content based on the background information and the conversation:Chris Penn starred in True RomanceTrue Romance is starring Val KilmerVal Kilmer starred in True Romance. True Romance is written by Quentin Tarantino[Human]: Do you know about the actor Chris Penn? [Assistant]: Yes, he starred in True Romance and The Wild Life. [Human]: Ah. Who else starred in True Romance? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 250,
+    "question": "Extract key content based on the background information and the conversation:Laura Hillenbrand wrote SeabiscuitSeabiscuit : `Hall of fame induction`: National Museum of Racing and Hall of FameNational Museum of Racing and Hall of Fame : `~Hall of fame induction`: Seabiscuit. Seabiscuit is written by Laura Hillenbrand[Human]: Could you recommend any good books by Laura Hillenbrand? [Assistant]: She is most known for writing Seabiscuit. It is a story about a race horse. Do you like horses? [Human]: Yes, I like horseback riding.    Seabiscuit was inducted into the National Museum of Racing and Hall of Fame Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 321,
+    "question": "Extract key content based on the background information and the conversation:Back to the Future is written by Robert Zemeckis[Human]: Would you recommend Back to the Future movie? [Assistant]: If you like science fiction yes. It is written by Robert Zemeckis. Do you like sci-fi movies? [Human]: Yes, I do. Can you tell me more? [Assistant]: You'll like The Polar Express written by Robert Zemeckis and stars Eddie Deezen.  [Human]: Sounds interesting. Who is in it? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 6,
+    "question": "Extract key content based on the background information and the conversation:Home Alone is written by John Hughes. John Hughes wrote Ferris Bueller's Day Off[Human]: I like Home Alone could you give me recommendations based on this one [Human]: I need recommendations based on the movie Home Alone [Assistant]: Do you like it because it's a family film? [Human]: because it is funny Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 87,
+    "question": "Extract key content based on the background information and the conversation:Guy Cardwell wrote The Adventures of Tom Sawyer[Human]: Could you recommend any books by Guy Cardwell? [Assistant]: He wrote The Adventures of Tom Sawyer  [Human]: What kind of book is that? [Assistant]: These books are literary criticism  [Human]: Oh wow! That is definitely a genre that I'd be interested in learning more about. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 287,
+    "question": "Extract key content based on the background information and the conversation:Thomas  Christensen wrote Como agua para chocolate. Como agua para chocolate was released 1989Como agua para chocolate was released 1989[Human]: I like Thomas Christensen [Assistant]: He wrote Como agua para chocolate which was released in 1989. Are you familiar with it? [Human]: Is it in English Language? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 373,
+    "question": "Extract key content based on the background information and the conversation:Prometheus was released 2012. 2012 has genre Science FictionScience Fiction has examples: The Avengers. The Avengers is starring Jenny AgutterThe Avengers is starring Scarlett Johansson[Human]: Do you like Prometheus? [Assistant]: Yes, that is a great science fiction movie. Do you like science fiction? [Human]: I do. It's my favorite genre.  The Avengers is my favorite movie of all time. Have you seen it? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 325,
+    "question": "Extract key content based on the background information and the conversation:Hotel on the Corner of Bitter and Sweet has genre Historical fiction. Historical fiction has examples: Cry to Heaven[Human]: Caould you recommend other novels like Hotel on the Corner of Bitter and Sweet [Assistant]: Cry to Heaven is similar one [Human]: Who is the author? [Assistant]: I am not sure about it.There is no information about it [Human]: Do you know of any other novels by Jamie Ford? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 31,
+    "question": "Extract key content based on the background information and the conversation:Just Listen is written by Sarah DessenSarah Dessen wrote This LullabyThis Lullaby is written by Sarah Dessen[Human]: Do you know who wrote Just Listen?  [Assistant]: Sarah Dessen is the author.  do you like to read young adults books? [Human]: I do like young adult books. I am not familiar with Sarah Dessen, did she write any other books?  Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 116,
+    "question": "Extract key content based on the background information and the conversation:Josh Hutcherson starred in The Kids Are All Right[Human]: Can you tell me what Josh Hutcherson has done? [Assistant]: Yes, he is a well known American actor and starred for example in the Hunger Games Triology. [Human]: Has he done anything else besides The Hunger Games? [Assistant]: He acted in The Kids are all right together with Mia Wasikowska. This is Comedy-Drama genre. [Human]: ok thanks.  I think I'll give that a try I like Mia.   Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 133,
+    "question": "Extract key content based on the background information and the conversation:Vin Diesel starred in XXX. XXX is starring Tom EverettXXX : `~Film Executive Produced`: Vin Diesel. Vin Diesel starred in Riddick (Science Fiction Film)Vin Diesel starred in The Chronicles of Riddick. The Chronicles of Riddick is written by David Twohy[Human]: I like Vin Diesel. Can you recommend any of his movies? [Assistant]: XXX is a great movie. [Human]: Oh I like that one. Who else is in that film again? [Assistant]: Thomas Ian Griffith, Scott Waugh, and Tom Everett to name a few. [Human]: Is Vin Diesel also in Riddick? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 268,
+    "question": "Extract key content based on the background information and the conversation:Dreama Walker starred in Compliance (Crime Fiction Film)Compliance (Crime Fiction Film) is starring Pat HealyPat Healy starred in Compliance (Crime Fiction Film)[Human]: Could you recommend any movies that has Dreama Walker in them? [Assistant]: Do you like Crime Fiction Films? If so, Dreama Walker starred in Compliance. [Human]: I love Fiction films. Does that one star Pat Healy? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 212,
+    "question": "Extract key content based on the background information and the conversation:Tony Goldwyn starred in Someone Like You. Someone Like You is written by Sarah Dessen[Human]: Could you recommend some of Tony Goldwyn's movies? [Assistant]: Are you interested in movies he's starred in or ones he has directed? [Human]: I am interested in the ones he has acted in  [Assistant]: Tony Goldwyn has starred in Someone Like You, The Pelican Brief, and The Mechanic. Have you seen any of these? [Human]: I have watched The Mechanic, are any of these comedy movies? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 290,
+    "question": "Extract key content based on the background information and the conversation:Wes Craven wrote My Soul to Take. My Soul to Take is starring Frank GrilloMy Soul to Take has genre ThrillerThriller : `~Subject`: Shark Night. Shark Night is starring Joshua Leonard[Human]: Do you know Wes Craven? What are his best movies? [Assistant]: Wes Craven wrote My Soul to Take, and he directed Scream 4. Are you interested in this genre? [Human]: My Soul to Take was a Horror Thriller, right? Yes I like those kind of movies. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 172,
+    "question": "Extract key content based on the background information and the conversation:Arsenal is a/an Sports TeamSports Team has example: Arsenal[Human]: What can you tell me about Arsenal? [Assistant]: Arsenal is a sports team. [Human]: Ok, what kind of sports team is it? I don't think Ihave heard of it. I like American Football. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 103,
+    "question": "Extract key content based on the background information and the conversation:Pat Conroy wrote The Water is WideThe Water is Wide is written by Pat Conroy. Pat Conroy : `Place of birth`: AtlantaPat Conroy : `Place of birth`: Atlanta[Human]: Could you recommend anything from Pat Conroy? [Assistant]: Sure thing! He wrote The Water is Wide, The Prince of Tides and The Lords of Discipline. [Human]: When was The Water is Wide released?  [Assistant]: That would be 1969 the same year that the Slaughterhouse-Five was released. [Human]: I think I've heard of Pat Conroy before, was he born in Atlanta? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 339,
+    "question": "Extract key content based on the background information and the conversation:Alien has genre Horror. Horror has examples: Bats[Human]: Do you know Alien? [Assistant]: It came out many years ago. It's the first in a series of science fiction horror movies. Do you enjoy those kinds of movies? [Human]: I do, can you recommend horror movies? [Assistant]: Do you like vampire movies? You might enjoy one called Bats. [Human]: I like some vampire movies. Can you tell me more about Bats? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 330,
+    "question": "Extract key content based on the background information and the conversation:Houston Texans : `~Team`: National Football LeagueNational Football League : `Team`: Houston TexansHouston Texans : `~Team`: American Football Conference[Human]: Do you like how the Houston Texans are playing this season? [Assistant]: I don't really follow them are they in the NFL? [Human]: They sure are! The Texans are one of the most popular teams. Do you like Football? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 209,
+    "question": "Extract key content based on the background information and the conversation:Harry Potter and the Prisoner of Azkaban is written by J. K. RowlingJ. K. Rowling wrote Harry Potter literary series[Human]: I like \"Harry Potter and the Prisoner of Azkaban.\" Can you recommend a similar book? [Assistant]: Yeah, there is other in the series, harry potter and the order of the phoenix book [Human]: Indeed. What else has J.K. Rowling written? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 55,
+    "question": "Extract key content based on the background information and the conversation:Basher Savage starred in GravityGravity is starring Amy Warren[Human]: Do you have any actor recommendations similar to Basher Savage? [Assistant]: No I don't.   I'm sorry.  He stars in Gravity [Human]: Who else is in the movie Gravity? [Assistant]: Ok.  Gravity also stars Phaldut Sharma and Amy Warren. [Human]: Does Amy Warren have any other movies similar to Gravity? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 350,
+    "question": "Extract key content based on the background information and the conversation:As Good as It Gets is starring Peter Jacobson. Peter Jacobson starred in Purple VioletsPurple Violets is starring Patrick WilsonPatrick Wilson starred in Purple Violets. Purple Violets has genre Romance[Human]: Do you know any movies like As Good as It Gets? I really liked that movie. [Assistant]: Peter Jacobson stared in As Good as It Gets and Purple Violets so the two might be similar.  [Human]: I love Peter Jacobson, he's a great actor.  I have not seen Purple Violets, is it genre Comedy?   Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 349,
+    "question": "Extract key content based on the background information and the conversation:Eternal Sunshine of the Spotless Mind is written by Pierre BismuthPierre Bismuth wrote Eternal Sunshine of the Spotless Mind. Eternal Sunshine of the Spotless Mind has genre Science Fiction[Human]: Can you recommend a movie like Eternal Sunshine of the Spotless Mind? [Assistant]: That movie was written by Pierre Bismuth [Human]: Is that a sci-fi movie? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 207,
+    "question": "Extract key content based on the background information and the conversation:Mary Ann Shaffer wrote The Guernsey Literary and Potato Peel Pie Society[Human]: I like Mary Ann Shaffer, do you have any of her books you could refer for me?  [Assistant]: Yes, how about Guernsey Literary or Potato Peel Pie Society? They are both Historical Fiction genre. [Human]: Sounds great, could you enlighten me a little bit more about Guernsey Literary? What is it about really? [Assistant]: Yes it was released 2008. The same year as The darkest kiss. [Human]: Wow, I didn't know that, well, I'll have to check on that later. Thanks for everything. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 226,
+    "question": "Extract key content based on the background information and the conversation:The Kite Runner is written by Khaled HosseiniKhaled Hosseini wrote The Kite Runner. The Kite Runner is edited by Matt Chesse[Human]: Do you know something like the Kite Runner? [Assistant]: Do you like the Kite Runner because it is by Khaled Hosseini or because it is a Romantic Comedy? [Human]: I really like the work of Hosseni so if you can tell me other things he did, that would be great! Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 43,
+    "question": "Extract key content based on the background information and the conversation:Little Women is written by Louisa May AlcottLouisa May Alcott is a/an WriterWriter has example: William Steig[Human]: Do you have any books similar to Little Women? [Assistant]: Do you like the author Louisa May Alcott?  She wrote Little Women. [Human]: Louisa May Alcott was a writer influenced by Stephenie Meyer, do you have any works by her instead? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 371,
+    "question": "Extract key content based on the background information and the conversation:Lionel Messi : `~Player statistics`: Argentina national football team[Human]: What do you think of Lionel Messi? [Assistant]: I guess he belongs to the Argentina national football team and is quite a popular Football player. [Human]: I see. Do you play Football? [Assistant]: No, I don't how about you? I think one needs a lotta strength on the legs to kick hard! Ha ha!! [Human]: Me, either! You need very healthy set of lungs too!  Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 122,
+    "question": "Extract key content based on the background information and the conversation:Becca Fitzpatrick wrote [Human]: Do you know who Becca Fitzpatrick is? I heard someone talking about her but never heard of her. [Assistant]: Becca Fitzpatrick wrote Hush Hush and Crescendo.  [Human]: I haven't heard of those, what genre are they? [Assistant]: Hush hush is a fantasy. Do you like that genre? [Human]: I am just getting into fantasy.  If you could recommend a couple more I would appreciate it. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 169,
+    "question": "Extract key content based on the background information and the conversation:Fernando Meirelles directed The Constant GardenerThe Constant Gardener is starring Ralph FiennesRalph Fiennes starred in Wrath of the Titans[Human]: Could you tell me about any movies directed by Fernando Meirelles? [Assistant]: He Directed the Constant Gardener [Human]: Seems like I have heard of that movie. Do you know who stars in it? [Assistant]: It is starring Ralph Fiennes [Human]: Cool. Could you tell me what other movies he starred in? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 192,
+    "question": "Extract key content based on the background information and the conversation:Source Code is written by Ben RipleyBen Ripley wrote Source CodeSource Code has genre Thriller. Thriller has examples: Argo[Human]: Do you know anything about the movie Source Code? [Assistant]: It was written by Ben Ripley and starred Vera Farmiga and others.  Haven't seen the movie it's a Thriller.   [Human]: I haven't seen it either, could you recommend any similar movies? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 258,
+    "question": "Extract key content based on the background information and the conversation:Minnesota Vikings : `~Team coached`: Mike Zimmer[Human]: Do you have any information about Minnesota Vikings? [Assistant]: The Minnesota Vikings are playing the New England Patriots today. Coach Mike Zimmer has an uphill battle against a team like the Patriots. [Human]: That's great news! Where was Mike Zimmer born in , I mean his place of birth. [Assistant]: The coach of the American Football team, the Minnesota Vikings, was born in Peoria. Do you know he also went to the Royal Academy of Dramatic Art? Odd for a football coach. [Human]: Thanks for the information. I didn't know that and good you let me know about it. Give me some more info please if you can Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 301,
+    "question": "Extract key content based on the background information and the conversation:Karim Benzema : `Sport played`: Football. Football has examples: Jerry MaguireJerry Maguire has genre Football[Human]: Do you know what sport Karim Benzema plays? [Assistant]: I think he plays on a France national football team. I don't really follow those. [Human]: Neither do I. What sports do you like to watch? [Assistant]: Not a big sports nut. But I did like the movie Jerry Maguire [Human]: What sport was it about? I didn't see it yet. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 18,
+    "question": "Extract key content based on the background information and the conversation:There's Something About Mary is starring Sarah SilvermanSarah Silverman starred in I Am Comic. I Am Comic is starring Margaret ChoMargaret Cho starred in I Am Comic[Human]: Do you have some fun facts about the movie There's Something About Mary? [Assistant]: Sure. It's an all star cast that includes Ben Stiller, Cameron Diaz, Sarah Silverman and Matt Dillon [Human]: I love all of those actors, what else is Sarah Silverman in? [Assistant]: She's a great comedian and comedic actor. She was also in What Planet Are You From and the original Wreck-It Ralph. [Human]: I haven't seen what Planet Are You From, Wreck-It Ralph was cute. I heard she was in I Am Comic. Do you know who else stared in that? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 125,
+    "question": "Extract key content based on the background information and the conversation:Enrique Iglesias is a/an SingerSinger has example: Selena GomezSelena Gomez starred in Spring Breakers[Human]: do you like Enrique Iglesias? [Assistant]: No, I actually really don't, I really don't like his songs. [Human]: np what about  Selena Gomez? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 188,
+    "question": "Extract key content based on the background information and the conversation:A.A. Milne wrote Winnie-the-Pooh & The House at Pooh CornerWinnie-the-Pooh & The House at Pooh Corner was released 19261926 was the year that released The Sun Also Rises. The Sun Also Rises is starring Robert Evans[Human]: Do you know A.A. Milne? [Assistant]: Yes! He is famous because he wrote  Winnie-the-Pooh & The House at Pooh Corner and When We Were Very Young. [Human]: Right Winnie-the-Phone & The Hpuse at Pooh Corner was released in 1926 Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 22,
+    "question": "Extract key content based on the background information and the conversation:Demi Lovato starred in Princess Protection Program[Human]: I love Demi Lovato! I think she is a great singer, don't you? [Assistant]: I like her too and also I like the movie Princess Protection Program and Camp Rock [Human]: Oh yeah. Camp Rock was great. Do you know what year that came out? [Assistant]: It was released 2008, and also do you know that Nick Jonas starring in this movie? [Human]: Yes I do. He is also very talented. Did you know they are both great singers too? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 21,
+    "question": "Extract key content based on the background information and the conversation:Thor: The Dark World is starring Natalie PortmanNatalie Portman starred in No Strings Attached. No Strings Attached is written by Elizabeth MeriwetherNo Strings Attached : `~Film Executive Produced`: Natalie Portman[Human]: Can you tell me about the movie Thor: The Dark World? [Assistant]: Oh I love this movie, it stars Natalie Portman, Chris Hemsworth and Anthony Hopkins.  It's a Fantasy movie and the genre is adveture.  [Human]: Oh, I like all of them, can you tell me what else Natalie Portman has been in? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 146,
+    "question": "Extract key content based on the background information and the conversation:Ann Brashares wrote The Last Summer (of You and Me)The Last Summer (of You and Me) is written by Ann Brashares. Ann Brashares wrote The Sisterhood of the Traveling PantsThe Sisterhood of the Traveling Pants : `~Part of series`: The Second Summer of the Sisterhood. The Second Summer of the Sisterhood has genre Young-adult fiction[Human]: Do you like Ann Brashares? [Assistant]: Yes! I love the Sisterhood books. Have you read them? I recommend The Last Summer (of You and Me) [Human]: It appears I've heard of it from somewhere. Do you know of any other books that she's written? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 257,
+    "question": "Extract key content based on the background information and the conversation:The Pact is written by Jodi Picoult[Human]: Could you tell who wrote the book, The Pact? [Assistant]: The Pact is written by Jody Picoult and it is genre Speculative fiction. [Human]: Cool. Could you tell me more about some other books that Jodi Picoult wrote? [Assistant]: Sure, she wrote  Where There's Smoke and Vanishing Acts, have you read them? [Human]: No I sure haven't. What genre of books are they? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 15,
+    "question": "Extract key content based on the background information and the conversation:Manny Pacquiao starred in Wam Bam Pac's The ManWam Bam Pac's The Man is starring Manny Pacquiao. Manny Pacquiao : `~Fighter`: Oscar De La Hoya vs. Manny Pacquiao[Human]: Do you know of Manny Pacquiao? [Assistant]: I know that she starred in Wam Bam Pac's The Man [Human]: Really? I'm guessing he starred as a featherweight fighter?  Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 62,
+    "question": "Extract key content based on the background information and the conversation:Hot Fuzz is starring Simon PeggSimon Pegg starred in Star Trek (Science Fiction Film)Star Trek (Science Fiction Film) is starring Simon Pegg[Human]: Could you recommend the movie Hot Fuzz?  I haven't heard much about it. [Assistant]: Sure, it stars Simon Pegg and a comedy. Do you like the actor? [Human]: I really like him, he was in Star Trek and Shaun of the Dead correct? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 266,
+    "question": "Extract key content based on the background information and the conversation:Robert Stromberg directed MaleficentMaleficent is starring Angelina Jolie PittAngelina Jolie Pitt starred in Salt[Human]: Do you know Robert Stromberg? Tell me what you can about him? [Assistant]: Sure, he directed Maleficient starring Angelina Jolie. Are you interested in  adventure movies? [Human]: Absolutely, I also like Angelina Jolie what other movies has she been in that are adventure movies? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 93,
+    "question": "Extract key content based on the background information and the conversation:The Stand is written by Stephen KingStephen King starred in The Stand (Horror Film). The Stand (Horror Film) is starring Tom Holland[Human]: Have you heard of the book The Stand? [Assistant]: Its a book written by Stephen King. [Human]: Yes Stephen King is a very talented author.  What are some other books that he authored? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 277,
+    "question": "Extract key content based on the background information and the conversation:Yes Man is written by Nicholas Stoller. Nicholas Stoller wrote Fun with Dick and Jane[Human]: Could you recommend other movies like Yes Man? [Assistant]: Fun with Dick and Jane is a really good and funny movie I think you would enjoy [Human]: Who stars in that? [Assistant]: John Michael Higgins and Jeff Garlin are in it I recommend taking a look.  [Human]: I think I will, thank you!  Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 5,
+    "question": "Extract key content based on the background information and the conversation:Ryan Reynolds starred in TurboTurbo is starring Snoop DoggSnoop Dogg starred in Turbo[Human]: Could you recommend a good movie with Ryan Reynolds? [Assistant]: Sure! He starred in X-Men Origins:Wolverine, and Turbo. The Proposal was a great movie too. [Human]: Who else was starring in Turbo, I think I saw there Snoop Dog? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 297,
+    "question": "Extract key content based on the background information and the conversation:Rickie Fowler : `Sport played`: GolfGolf : `~Sport played`: Rickie Fowler[Human]: Do you know who Rickie Fowler is? [Assistant]: Rickie Fowler is a golfer. Do you enjoy golf? [Human]: My boyfriend does.  He was raving about Fowler.  Is he a good player? [Assistant]: He was in the 2014 championship and won 2nd in the masters tournament. I would say he is a good player. [Human]: Yes, I guess so!  Do you know how old he is? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 83,
+    "question": "Extract key content based on the background information and the conversation:Como agua para chocolate is written by Laura Esquivel. Laura Esquivel is a/an Writer[Human]: Do know about Como agua para chocolate? [Assistant]: It was released in 1989 and was written by Laura Esquivel who is also a teacher. [Human]: That's wonderful! I will have to check that out!  [Assistant]: It was also released in 1992 as a film. I think it is mostly a romance but has some magical fiction in it. [Human]: I like when books turn into movies! I will look that up as well. Thanks for the information! Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 154,
+    "question": "Extract key content based on the background information and the conversation:Scott O'Dell wrote Island of the Blue DolphinsIsland of the Blue Dolphins has genre Children's literatureChildren's literature has examples: The Witch of Blackbird Pond. The Witch of Blackbird Pond is written by Elizabeth George Speare[Human]: Do you know what Scott O'Dell has done? [Assistant]: Yes, he wrote Island of the blue Dolphins which won a Newbery Medal. [Human]: When did that come out and what were the genres associated with it? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 366,
+    "question": "Extract key content based on the background information and the conversation:Robert Downey Jr. starred in Tropic ThunderTropic Thunder has genre Adventure Film[Human]: I like some of the stuff Robert Downey Jr. does so do you have any recommendations for movies with him? [Assistant]: He starred in The Pick-Up Artist, The Judge, and Iron Man. What genres do you prefer? [Human]: I like Comedy mostly right now. [Assistant]: The Pick-Up Artist, Tropic Thunder, and Kiss Kiss Bang Bang are all comedies that he starred in. [Human]: Oh, I think I hearod of Tropic Thunder and something about it is also an Adventure Film, correct? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 265,
+    "question": "Extract key content based on the background information and the conversation:Ayush Mahesh Khedekar : `Place of birth`: MumbaiMumbai : `~State/Province/Region`: Mumbai[Human]: I like Ayush Mahesh Khedekar. [Assistant]: Ok Ayush Mahesh Khedekar starred in Slumdog Millionaire.  [Human]: Thanks! I'll need to know more! [Assistant]: He was born in Mumbai and he is from India.  [Human]: OK, OK. Anything else on Mumbai? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 200,
+    "question": "Extract key content based on the background information and the conversation:Robert Lewandowski : `~Player statistics`: Poland national football teamPoland national football team : `Player statistics`: Robert Lewandowski. Robert Lewandowski : `~Player statistics`: Lech PoznańLech Poznań : `Color`: White[Human]: i like Robert Lewandowski what do you know about him [Assistant]: I know he's in the poland national football team, but I don't follow football [Human]: o ok lech poznah also plays Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 293,
+    "question": "Extract key content based on the background information and the conversation:Taylor Swift starred in Valentine's Day (Romantic comedy Film)Valentine's Day (Romantic comedy Film) is starring Topher GraceTopher Grace starred in Valentine's Day (Romantic comedy Film)[Human]: What do you think about Taylor Swift? [Assistant]: I think she a great singer and I also like her acting in Valentine's day and The lorax. Have you seeing? [Human]: The kids and I love the Lorax!  Wasn't Topher Grace also in Valentine's Day? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 42,
+    "question": "Extract key content based on the background information and the conversation:Ravichandran Ashwin : `Sport played`: Cricket (Interest)Cricket (Interest) : `~Sport`: Pakistan national cricket teamPakistan national cricket team : `~Team`: Wasim Akram[Human]: Do you know anything about Ravichandran Ashwin? [Assistant]: He is a Cricket player from India, do you like cricket? [Human]: Yes, I'm interested in it.  What club or team is he on? [Assistant]: He plays for Tamil Nadu in domestic cricket and captain King IX Punjab in the Indian Premier league.  [Human]: Interesting.  Do you know any players on the Pakistan Natl. Cricket team? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 224,
+    "question": "Extract key content based on the background information and the conversation:W.W. Denslow wrote The Wonderful Wizard of OzThe Wonderful Wizard of Oz is written by W.W. DenslowW.W. Denslow wrote The Wonderful Wizard of Oz. The Wonderful Wizard of Oz was released 1900[Human]: Can you recommend any authors related to W.W. Denslow? [Assistant]: I'm sorry, I do not have access to that information. But I can tell you he wrote The Wonderful Wizard of Oz.  [Human]: I like the Wizard of Oz when was it released again? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 96,
+    "question": "Extract key content based on the background information and the conversation:Twilight is written by Stephenie Meyer[Human]: Could you recommend a book like Twilight? [Assistant]: Written by Stephanie Meyer, Twilight was a good story. It was part of the series Breaking Dawn. Would you like more information? [Human]: Can you recommend another book by Stephanie Meyer? [Assistant]: Stephanie Meyer also wrote the Host. That genre is Thriller/Horror. Do you want to know more about Stephanie Meyer? [Human]: Sure Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 40,
+    "question": "Extract key content based on the background information and the conversation:Jerry Spinelli wrote Milkweed. Milkweed has genre Historical novelHistorical novel has examples: The Other Boleyn GirlThe Other Boleyn Girl : `Next in series`: The Queen's Fool[Human]: Do you know what Jerry Spinelli wrote? I have have heard a lot about him lately.  [Assistant]: Sure, he wrote the historical novel Milkweed. Do you enjoy those types of books? [Human]: I have never read one. Could you give me another example of a historical novel?  Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 51,
+    "question": "Extract key content based on the background information and the conversation:Arundhati Roy wrote The God of Small ThingsThe God of Small Things is written by Arundhati Roy[Human]: Could you recommend any good books by the author Arundhati Roy? [Assistant]: Sure! Arundhati Roy has written The God of Small Things, it was released in 1997. You might enjoy that one. [Human]: What other books did he write? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 156,
+    "question": "Extract key content based on the background information and the conversation:Dave McKean wrote The Sandman: Endless Nights[Human]: I like to read. Can you give me some information on the author, Dave McKean?  [Assistant]: I love reading too. Dave McKean wrote The Sandman: Endless Nights and The Graveyard Book. Are you interested in fantasy books? [Human]: I have not read any fantasy books. They do interest me though. Can you tell me a little more about The Sandman: Endless Nights? [Assistant]: Sure. The Sandman: Endless Nights reveals the legend of the Endless, a family of magical and mythical beings who exist and interact in the real world. Born at the beginning of time, Destiny, Death, Dream, Desire, Despair, Delirium, and Destruction are seven brothers and sisters who each lord over their respective realms.  [Human]: Wow! That does sound quite interesting, thank you for the information. I will get it. Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 222,
+    "question": "Extract key content based on the background information and the conversation:Zoë Kravitz starred in Yelling to the SkyYelling to the Sky is starring Tim Blake Nelson. Tim Blake Nelson starred in The Big Year[Human]: Do you know alot about Zoe Kravitz? [Assistant]: I know that Zoë Kravitz starred in Yelling to the Sky and Twelve. [Human]: Did you know that Tim Blake Nelson also starred in that movie? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 164,
+    "question": "Extract key content based on the background information and the conversation:Ma Long : `Sport played`: Table tennisTable tennis : `Olympic game contested`: The London 2012 Summer OlympicsThe London 2012 Summer Olympics : `~Participation in Relay`: Wang Leehom[Human]: Do you know Ma Long? [Assistant]: I have heard the Ma Long is an athlete of sorts, and is known for table tennis it seems. [Human]: I like to call it ping pong! Wasn't he is the olympics in 2012? Only provide the simplified text as the answer."
+  },
+  {
+    "ID": 216,
+    "question": "Extract key content based on the background information and the conversation:Alice Walker wrote The Temple of My Familiar[Human]: Do you like Alice Walker? [Assistant]: He wrote The Temple of My Familiar [Human]: When was the book released? [Assistant]: In 1989 [Human]: What is the genre please? Only provide the simplified text as the answer."
+  }
+]
