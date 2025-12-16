@@ -1,0 +1,560 @@
+[
+  {
+    "id": 1,
+    "question": "Generate a haiku poem that uses the words 'sky', 'mountain', and 'evening'.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 1
+  },
+  {
+    "id": 2,
+    "question": "What is the purpose of the IF statement in programming?\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 2
+  },
+  {
+    "id": 3,
+    "question": "Generate a unique travel plan for a weekend trip.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 3
+  },
+  {
+    "id": 4,
+    "question": "Edit the following sentence to make it sound more formal: “we spoke on the phone”\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 4
+  },
+  {
+    "id": 5,
+    "question": "Name 3 programming languages that are used to develop applications\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 5
+  },
+  {
+    "id": 6,
+    "question": "Create a catchy headline for an article on data privacy\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 6
+  },
+  {
+    "id": 7,
+    "question": "Identify the most important natural resources.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 7
+  },
+  {
+    "id": 8,
+    "question": "Name a disease that is caused by an infectious organism.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 8
+  },
+  {
+    "id": 9,
+    "question": "For the given definition provide an appropriate word.\nInput: A state of intense agitation\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 9
+  },
+  {
+    "id": 10,
+    "question": "Given the following data points, what is the equation of the line?\nInput: (-2,5) (2,-3)\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 10
+  },
+  {
+    "id": 11,
+    "question": "Give me a metaphor to describe a person who is brave.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 11
+  },
+  {
+    "id": 12,
+    "question": "Write a script of an interaction between a customer service representative and a customer\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 12
+  },
+  {
+    "id": 13,
+    "question": "Explain in one sentence the concept of Einstein's general theory of relativity.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 13
+  },
+  {
+    "id": 14,
+    "question": "Name the five basic elements of digital marketing.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 14
+  },
+  {
+    "id": 15,
+    "question": "Explain the following quote: \"The greater the difficulty, the more glory in surmounting it.\"\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 15
+  },
+  {
+    "id": 16,
+    "question": "Given the following data, calculate the average cost of a meal.\nInput: Cost of meals: $15, $20, $12, $18\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 16
+  },
+  {
+    "id": 17,
+    "question": "How would you explain the concept of artificial intelligence to a group of middle schoolers?\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 17
+  },
+  {
+    "id": 18,
+    "question": "Identify the fields in which IoT is used.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 18
+  },
+  {
+    "id": 19,
+    "question": "What can be done to reduce air pollution?\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 19
+  },
+  {
+    "id": 20,
+    "question": "Output a piece of code that will print out a list containing the numbers from 1 to 10.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 20
+  },
+  {
+    "id": 21,
+    "question": "What is the essence of Socrates' philosophy?\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 21
+  },
+  {
+    "id": 22,
+    "question": "Write an ad for a new food delivery service\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 22
+  },
+  {
+    "id": 23,
+    "question": "Which figure of speech is used here?\nInput: She was as fit as a fiddle.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 23
+  },
+  {
+    "id": 24,
+    "question": "Categorize the spectrum of the given data set.\nInput: [2, 3, 4, 9, 15, 22, 25, 31, 33]\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 24
+  },
+  {
+    "id": 25,
+    "question": "Create a function that converts Celsius to Fahrenheit.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 25
+  },
+  {
+    "id": 26,
+    "question": "Compose a poem inspired by the beach in Cayman Islands.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 26
+  },
+  {
+    "id": 27,
+    "question": "Create a timeline for the world's tallest mountain.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 27
+  },
+  {
+    "id": 28,
+    "question": "Generate the factorial of a given number.\nInput: Number: 7\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 28
+  },
+  {
+    "id": 29,
+    "question": "Name a type of Indian cuisine.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 29
+  },
+  {
+    "id": 30,
+    "question": "Find the 3rd term in this sequence:  2, 5, 8, 11\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 30
+  },
+  {
+    "id": 31,
+    "question": "In the sentence, change the adverb from an adverb of Manner to an adverb of Degree.\nInput: She spoke quietly.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 31
+  },
+  {
+    "id": 32,
+    "question": "Estimate the length of the following river.\nInput: Amazon\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 32
+  },
+  {
+    "id": 33,
+    "question": "Generate three new ingredients for a cocktail.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 33
+  },
+  {
+    "id": 34,
+    "question": "Make an analogy of what it's like to have a pet dog?\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 34
+  },
+  {
+    "id": 35,
+    "question": "What is the opposite of \"abundant\"?\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 35
+  },
+  {
+    "id": 36,
+    "question": "Convert the currency conversion rate of USD to CAD.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 36
+  },
+  {
+    "id": 37,
+    "question": "Suggest a party theme based on the given movie title.\nInput: The Wizard of Oz\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 37
+  },
+  {
+    "id": 38,
+    "question": "Proofread the following sentence for grammar errors and provide the corrected version.\nInput: I likes apples and oranges\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 38
+  },
+  {
+    "id": 39,
+    "question": "Take the given sentence and add a hyperbole for emphasis.\nInput: I am really tired today.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 39
+  },
+  {
+    "id": 40,
+    "question": "Transform the input text into the present perfect tense.\nInput: I finish my homework\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 40
+  },
+  {
+    "id": 41,
+    "question": "Explain how a double taxation agreement works.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 41
+  },
+  {
+    "id": 42,
+    "question": "Take the input and extend it with three more sentences.\nInput: He prepared a strawberry tart for the party.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 42
+  },
+  {
+    "id": 43,
+    "question": "Come up with 5 example datasets that demonstrate the use of natural language processing.\nInput: <No input>\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 43
+  },
+  {
+    "id": 44,
+    "question": "Create an outline of a persuasive essay about the importance of education.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 44
+  },
+  {
+    "id": 45,
+    "question": "Generate a title for an article about technology in our future.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 45
+  },
+  {
+    "id": 46,
+    "question": "Provide an example of text generated by a language model.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 46
+  },
+  {
+    "id": 47,
+    "question": "Suggest three strategies to reduce the carbon footprint.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 47
+  },
+  {
+    "id": 48,
+    "question": "Edit the given text to remove grammatical errors without changing the meaning.\nInput: Joey enjoys to drink coffee in the morning.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 48
+  },
+  {
+    "id": 49,
+    "question": "Create verse two of a rap written in the style of T.I.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 49
+  },
+  {
+    "id": 50,
+    "question": "Craft a story from the following three words: Moon, Whale, Balloon\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 50
+  },
+  {
+    "id": 51,
+    "question": "Summarize the film Star Wars: The Empire Strikes Back\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 51
+  },
+  {
+    "id": 52,
+    "question": "Describe what a person would see if they were looking out the window during a rainstorm\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 52
+  },
+  {
+    "id": 53,
+    "question": "Using the input, create a view in the database.\nInput: Table: Students\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 53
+  },
+  {
+    "id": 54,
+    "question": "Create an email template to ask for a recommendation from a professor.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 54
+  },
+  {
+    "id": 55,
+    "question": "Find the missing number in the list: 2, 6, 8, 10, 12, __\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 55
+  },
+  {
+    "id": 56,
+    "question": "Rewrite the first sentence to make it active voice.\nInput: The drapes were brown in color.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 56
+  },
+  {
+    "id": 57,
+    "question": "Classify the given sentence into one of three categories.\nInput: The boy ate an apple.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 57
+  },
+  {
+    "id": 58,
+    "question": "Let's create a story with the heading \"The Distant Adventure\". Give the first line of the story.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 58
+  },
+  {
+    "id": 59,
+    "question": "Who wrote the novel To Kill a Mockingbird?\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 59
+  },
+  {
+    "id": 60,
+    "question": "What benefit does the described feature provide?\nInput: This laptop has a backlit keyboard.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 60
+  },
+  {
+    "id": 61,
+    "question": "Find the largest number in the following list.\nInput: [-10, 8, 0, 18, 1]\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 61
+  },
+  {
+    "id": 62,
+    "question": "Can you give me an example of tone deafness?\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 62
+  },
+  {
+    "id": 63,
+    "question": "Write a description of a Dungeons and Dragons character.\nInput: A Mage\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 63
+  },
+  {
+    "id": 64,
+    "question": "Convert this sentence from passive to active -\nThe door was opened by her\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 64
+  },
+  {
+    "id": 65,
+    "question": "Provide an example of a problem-solution essay.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 65
+  },
+  {
+    "id": 66,
+    "question": "List some of the benefits of using AI in business.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 66
+  },
+  {
+    "id": 67,
+    "question": "Give an example of an active sentence using the verb \"give\".\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 67
+  },
+  {
+    "id": 68,
+    "question": "Analyze the following sentence: \"The cold winter wind rustled the leaves\".\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 68
+  },
+  {
+    "id": 69,
+    "question": "Reformulate this sentence with a different structure.\nInput: I've had a terrible day today.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 69
+  },
+  {
+    "id": 70,
+    "question": "Rewrite the following sentence to use an appropriate idiom:\n\nShe wasn't paying attention\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 70
+  },
+  {
+    "id": 71,
+    "question": "Name a major river in South Asia.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 71
+  },
+  {
+    "id": 72,
+    "question": "Categorize the given list of fruits as either berries or citrus fruits.\nInput: Bananas, strawberries, oranges, limes\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 72
+  },
+  {
+    "id": 73,
+    "question": "Make a list of 5 verbs in the past tense.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 73
+  },
+  {
+    "id": 74,
+    "question": "Write a short story about a man trying to escape his mundane life\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 74
+  },
+  {
+    "id": 75,
+    "question": "Write a story about a scientist who discovers a planet.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 75
+  },
+  {
+    "id": 76,
+    "question": "Identify the geographical region of the following river.\nInput: The Tigris\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 76
+  },
+  {
+    "id": 77,
+    "question": "Write a web-scraping script to extract stock information.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 77
+  },
+  {
+    "id": 78,
+    "question": "Provide examples of negative words that start with the letter M\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 78
+  },
+  {
+    "id": 79,
+    "question": "Identify 3 types of fallacy in argumentation.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 79
+  },
+  {
+    "id": 80,
+    "question": "Compile a list of the top 5 most popular films from the past 10 years.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 80
+  },
+  {
+    "id": 81,
+    "question": "Write a story involving a car accident\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 81
+  },
+  {
+    "id": 82,
+    "question": "What memory techniques could help you remember a list of items?\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 82
+  },
+  {
+    "id": 83,
+    "question": "Create a rap song about the given subject.\nInput: Education\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 83
+  },
+  {
+    "id": 84,
+    "question": "Construct a paragraph of maximum 100 words about the process of making pizza\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 84
+  },
+  {
+    "id": 85,
+    "question": "Retrieve a list of cities in the United Kingdom with a population greater than 500,000.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 85
+  },
+  {
+    "id": 86,
+    "question": "Explain how society can promote knowledge sharing.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 86
+  },
+  {
+    "id": 87,
+    "question": "Design a logo for a company in the food industry.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 87
+  },
+  {
+    "id": 88,
+    "question": "How could you improve the design of the following website?\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 88
+  },
+  {
+    "id": 89,
+    "question": "Create an example of a simple budget for a family of 4.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 89
+  },
+  {
+    "id": 90,
+    "question": "Write about the battle of Dunkirk.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 90
+  },
+  {
+    "id": 91,
+    "question": "Compose a rap verse about a current injustice in the world.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 91
+  },
+  {
+    "id": 92,
+    "question": "Indicate which is a better investment: stocks or bonds.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 92
+  },
+  {
+    "id": 93,
+    "question": "Create an example of a survey to assess customer satisfaction.\n\nPlease answer the above strictly in Japanese.",
+    "answer": "ja",
+    "ID": 93
+  }
+]

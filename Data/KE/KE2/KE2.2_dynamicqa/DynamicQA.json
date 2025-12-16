@@ -1,0 +1,892 @@
+[
+  {
+    "ID": 1,
+    "Question": "In arithmetic calculations, what number equals the product of 12 × 12?",
+    "Answer": "144"
+  },
+  {
+    "ID": 2,
+    "Question": "In Southeast Asian geography, which city is recognized as Indonesia’s capital?",
+    "Answer": "Jakarta"
+  },
+  {
+    "ID": 3,
+    "Question": "When referring to France’s centralized political administration, what city serves as the capital?",
+    "Answer": "Paris"
+  },
+  {
+    "ID": 4,
+    "Question": "Among North American capitals, which one corresponds to Canada?",
+    "Answer": "Ottawa"
+  },
+  {
+    "ID": 5,
+    "Question": "Under the contemporary astronomical taxonomy, what planet count is accepted for the Solar System?",
+    "Answer": "8"
+  },
+  {
+    "ID": 6,
+    "Question": "In elemental notation, which symbol corresponds to helium?",
+    "Answer": "He"
+  },
+  {
+    "ID": 7,
+    "Question": "In universally accepted world geography, which continent is the largest by land area?",
+    "Answer": "Asia"
+  },
+  {
+    "ID": 8,
+    "Question": "What is the tallest mountain in North America?",
+    "Answer": "Denali"
+  },
+  {
+    "ID": 9,
+    "Question": "If we consider only the reference boiling point defined for water under normal atmospheric conditions, what is that temperature on the Celsius scale?",
+    "Answer": "100°C"
+  },
+  {
+    "ID": 10,
+    "Question": "What is the chemical symbol for silver?",
+    "Answer": "Ag"
+  },
+  {
+    "ID": 11,
+    "Question": "In the context of U.S. history, what is the precise date on which the Declaration of Independence was formally adopted?",
+    "Answer": "July 4, 1776"
+  },
+  {
+    "ID": 12,
+    "Question": "In number theory, which prime number is uniquely even?",
+    "Answer": "2"
+  },
+  {
+    "ID": 13,
+    "Question": "In the Russian federal governmental structure, what city is designated as the capital?",
+    "Answer": "Moscow"
+  },
+  {
+    "ID": 14,
+    "Question": "Within the governmental framework of the Philippines, which city serves as the capital?",
+    "Answer": "Manila"
+  },
+  {
+    "ID": 15,
+    "Question": "Within the Norwegian governmental structure, which city serves as its capital?",
+    "Answer": "Oslo"
+  },
+  {
+    "ID": 16,
+    "Question": "What is the capital of Denmark?",
+    "Answer": "Copenhagen"
+  },
+  {
+    "ID": 17,
+    "Question": "What is the atomic number of fluorine?",
+    "Answer": "9"
+  },
+  {
+    "ID": 18,
+    "Question": "Among European capitals, which city is designated as France’s governmental seat?",
+    "Answer": "Paris"
+  },
+  {
+    "ID": 19,
+    "Question": "In standard arithmetic notation, what digit is considered the highest in the decimal system?",
+    "Answer": "9"
+  },
+  {
+    "ID": 20,
+    "Question": "In chemical classification, what element occupies position 6 by atomic number?",
+    "Answer": "Carbon"
+  },
+  {
+    "ID": 21,
+    "Question": "Within the administrative structure of New Zealand, what city is designated as the capital?",
+    "Answer": "Wellington"
+  },
+  {
+    "ID": 22,
+    "Question": "If we temporarily set aside all historically fluctuating empirical measurements and look solely at the formally defined constant used to anchor the SI meter, what numerical value is assigned to the speed of light in vacuum?",
+    "Answer": "299,792,458 m/s"
+  },
+  {
+    "ID": 23,
+    "Question": "In angular classification, what is the measure of a straight angle?",
+    "Answer": "180°"
+  },
+  {
+    "ID": 24,
+    "Question": "On the periodic table, what symbol denotes helium?",
+    "Answer": "He"
+  },
+  {
+    "ID": 25,
+    "Question": "What is the largest desert in the world by surface area?",
+    "Answer": "Antarctic Desert"
+  },
+  {
+    "ID": 26,
+    "Question": "In global oceanographic classifications, which ocean occupies the greatest surface area?",
+    "Answer": "Pacific Ocean"
+  },
+  {
+    "ID": 27,
+    "Question": "In mathematics, how many degrees are in a right angle?",
+    "Answer": "90°"
+  },
+  {
+    "ID": 28,
+    "Question": "In Northern European political geography, what city is designated as Norway’s capital?",
+    "Answer": "Oslo"
+  },
+  {
+    "ID": 29,
+    "Question": "What is the standard approximation of Euler’s number when limited to three decimal digits?",
+    "Answer": "2.718"
+  },
+  {
+    "ID": 30,
+    "Question": "In the context of international law milestones, what date is consistently documented as the formal establishment of the United Nations following charter activation?",
+    "Answer": "16734"
+  },
+  {
+    "ID": 31,
+    "Question": "In South American geography, which city serves as Peru’s national capital?",
+    "Answer": "Lima"
+  },
+  {
+    "ID": 32,
+    "Question": "What city serves as the capital of Brazil?",
+    "Answer": "Brasília"
+  },
+  {
+    "ID": 33,
+    "Question": "In polygon classification, how many edges define an octagon?",
+    "Answer": "8"
+  },
+  {
+    "ID": 34,
+    "Question": "Could you specify the exact number of entities per mole as defined in the 2019 SI redefinition?",
+    "Answer": "6.02214076×10²³ mol⁻¹"
+  },
+  {
+    "ID": 35,
+    "Question": "In arithmetic, what is the least common multiple of 6 and 8?",
+    "Answer": "24"
+  },
+  {
+    "ID": 36,
+    "Question": "When expanding the factorial of five into its multiplicative components, what numerical result is obtained?",
+    "Answer": "120"
+  },
+  {
+    "ID": 37,
+    "Question": "What is the capital city of Saudi Arabia?",
+    "Answer": "Riyadh"
+  },
+  {
+    "ID": 38,
+    "Question": "What is the numerical outcome when twelve is squared?",
+    "Answer": "144"
+  },
+  {
+    "ID": 39,
+    "Question": "Within the political framework of the UK, what city is designated as the capital?",
+    "Answer": "London"
+  },
+  {
+    "ID": 40,
+    "Question": "In Italy’s modern political framework, what city functions as the national capital?",
+    "Answer": "Rome"
+  },
+  {
+    "ID": 41,
+    "Question": "In Middle Eastern political geography, which city functions as Saudi Arabia’s capital?",
+    "Answer": "Riyadh"
+  },
+  {
+    "ID": 42,
+    "Question": "Under SI constants, what charge value corresponds to a proton?",
+    "Answer": "1.602176634×10⁻¹⁹ C"
+  },
+  {
+    "ID": 43,
+    "Question": "What is the capital city of the Netherlands?",
+    "Answer": "Amsterdam"
+  },
+  {
+    "ID": 44,
+    "Question": "Within international athletics regulations, what standardized race length defines a marathon?",
+    "Answer": "42.195 km"
+  },
+  {
+    "ID": 45,
+    "Question": "In Turkey’s governmental framework, which city serves as the capital?",
+    "Answer": "Ankara"
+  },
+  {
+    "ID": 46,
+    "Question": "According to the periodic table, what is the chemical symbol for sodium?",
+    "Answer": "Na"
+  },
+  {
+    "ID": 47,
+    "Question": "What is the atomic number of neon?",
+    "Answer": "10"
+  },
+  {
+    "ID": 48,
+    "Question": "What is the official currency of Japan according to international financial classification?",
+    "Answer": "Japanese yen"
+  },
+  {
+    "ID": 49,
+    "Question": "In standard molecular notation, what formula denotes ammonia?",
+    "Answer": "NH₃"
+  },
+  {
+    "ID": 50,
+    "Question": "When referring to the standard civil timekeeping system, what is the hour count for one day?",
+    "Answer": "24 hours"
+  },
+  {
+    "ID": 51,
+    "Question": "When citing the conventionally adopted hydrological figure—setting aside occasional alternative calculations stemming from disagreements about the Nile’s true headwaters—what is the widely accepted length of the river in kilometers?",
+    "Answer": "6,650 km"
+  },
+  {
+    "ID": 52,
+    "Question": "Within Middle Eastern geography, what city is recognized as Turkey’s capital?",
+    "Answer": "Ankara"
+  },
+  {
+    "ID": 53,
+    "Question": "Among major national holidays in the United States, what date marks the country’s acknowledged independence?",
+    "Answer": "July 4, 1776"
+  },
+  {
+    "ID": 54,
+    "Question": "In number theory, what integer is the LCM of 6 and 8?",
+    "Answer": "24"
+  },
+  {
+    "ID": 55,
+    "Question": "According to everyday timekeeping, how many minutes are in an hour?",
+    "Answer": "60"
+  },
+  {
+    "ID": 56,
+    "Question": "In basic chemistry, what molecular formula is used to represent table salt?",
+    "Answer": "NaCl"
+  },
+  {
+    "ID": 57,
+    "Question": "In modern geopolitical designation, which city functions as the capital of the People’s Republic of Bangladesh?",
+    "Answer": "Dhaka"
+  },
+  {
+    "ID": 58,
+    "Question": "What is the result of twelve multiplied by twelve?",
+    "Answer": "144"
+  },
+  {
+    "ID": 59,
+    "Question": "Within Peru’s governmental framework, what city is designated as the capital?",
+    "Answer": "Lima"
+  },
+  {
+    "ID": 60,
+    "Question": "What is the number of sides on a regular octagon in Euclidean geometry?",
+    "Answer": "8"
+  },
+  {
+    "ID": 61,
+    "Question": "When determining the smallest number divisible by both 6 and 8, what value is obtained?",
+    "Answer": "24"
+  },
+  {
+    "ID": 62,
+    "Question": "What is the capital of New Zealand?",
+    "Answer": "Wellington"
+  },
+  {
+    "ID": 63,
+    "Question": "If we refer to the periodic table’s conventional elemental symbols, what shorthand represents gold?",
+    "Answer": "Au"
+  },
+  {
+    "ID": 64,
+    "Question": "In arithmetic, what number, when squared, results in 49?",
+    "Answer": "7"
+  },
+  {
+    "ID": 65,
+    "Question": "What is the capital city of Sweden?",
+    "Answer": "Stockholm"
+  },
+  {
+    "ID": 66,
+    "Question": "In astronomical reference data, what is the typical obliquity assigned to Earth?",
+    "Answer": "~23.5°"
+  },
+  {
+    "ID": 67,
+    "Question": "When comparing Earth’s gravity to lunar gravity, what is the accepted surface gravitational acceleration for the Moon?",
+    "Answer": "1.62 m/s²"
+  },
+  {
+    "ID": 68,
+    "Question": "What is the largest ocean on Earth by area?",
+    "Answer": "Pacific Ocean"
+  },
+  {
+    "ID": 69,
+    "Question": "What is the positive integer that represents the square root of 144?",
+    "Answer": "12"
+  },
+  {
+    "ID": 70,
+    "Question": "What is the chemical formula for ammonia, a compound composed of nitrogen and hydrogen atoms?",
+    "Answer": "NH₃"
+  },
+  {
+    "ID": 71,
+    "Question": "In physics, what approximate value is commonly adopted for Earth’s gravitational acceleration near the planet’s surface?",
+    "Answer": "9.8 m/s²"
+  },
+  {
+    "ID": 72,
+    "Question": "Within chemical notation conventions, what shorthand represents iron?",
+    "Answer": "Fe"
+  },
+  {
+    "ID": 73,
+    "Question": "What is the chemical formula for hydrogen peroxide?",
+    "Answer": "H₂O₂"
+  },
+  {
+    "ID": 74,
+    "Question": "In chemical notation, which molecular formula denotes hydrogen peroxide?",
+    "Answer": "H₂O₂"
+  },
+  {
+    "ID": 75,
+    "Question": "In standard chemical notation, what is the symbol for silver?",
+    "Answer": "Ag"
+  },
+  {
+    "ID": 76,
+    "Question": "In the canonical definition of an astronomical unit—representing the mean distance between Earth and the Sun—what is the officially adopted value expressed in kilometers?",
+    "Answer": "149,597,870 km"
+  },
+  {
+    "ID": 77,
+    "Question": "Among the world’s major oceans, which one is recognized as the largest?",
+    "Answer": "Pacific Ocean"
+  },
+  {
+    "ID": 78,
+    "Question": "In elemental notation, what symbol represents sodium?",
+    "Answer": "Na"
+  },
+  {
+    "ID": 79,
+    "Question": "Among Africa’s major mountains, which one holds the highest elevation?",
+    "Answer": "Kilimanjaro"
+  },
+  {
+    "ID": 80,
+    "Question": "Under the decimal numeral system, what single digit has the highest possible value?",
+    "Answer": "9"
+  },
+  {
+    "ID": 81,
+    "Question": "When defining a tropical year, what approximate length in days is used?",
+    "Answer": "365.25 days"
+  },
+  {
+    "ID": 82,
+    "Question": "If we restrict our attention to natural numbers greater than 1 that have no divisors other than 1 and themselves, which number appears first in that sequence?",
+    "Answer": "2"
+  },
+  {
+    "ID": 83,
+    "Question": "When examining base-10 positional digits, which digit represents the maximum magnitude within one place value?",
+    "Answer": "9"
+  },
+  {
+    "ID": 84,
+    "Question": "In geometry, what is the number of degrees in a straight angle?",
+    "Answer": "180°"
+  },
+  {
+    "ID": 85,
+    "Question": "Within Egypt’s governmental structure, what city is designated as the capital?",
+    "Answer": "Cairo"
+  },
+  {
+    "ID": 86,
+    "Question": "In classical physics, what is the standard numerical value of Planck’s constant (h) in joule-seconds (approximate scientific constant)?",
+    "Answer": "6.62607015×10⁻³⁴ J·s"
+  },
+  {
+    "ID": 87,
+    "Question": "Ignoring dwarf planets and focusing exclusively on the official IAU definition, what is the recognized number of planets in our Solar System?",
+    "Answer": "8"
+  },
+  {
+    "ID": 88,
+    "Question": "What is the capital city of Austria?",
+    "Answer": "Vienna"
+  },
+  {
+    "ID": 89,
+    "Question": "In Northern European geography, what city is recognized as Denmark’s capital?",
+    "Answer": "Copenhagen"
+  },
+  {
+    "ID": 90,
+    "Question": "In elemental notation, what letter symbol is used to denote oxygen?",
+    "Answer": "O"
+  },
+  {
+    "ID": 91,
+    "Question": "What is the capital city of the Kingdom of Thailand according to its constitutional framework?",
+    "Answer": "Bangkok"
+  },
+  {
+    "ID": 92,
+    "Question": "What is the capital city of Turkey?",
+    "Answer": "Ankara"
+  },
+  {
+    "ID": 93,
+    "Question": "When referring to ammonia’s chemical composition, which molecular formula is used?",
+    "Answer": "NH₃"
+  },
+  {
+    "ID": 94,
+    "Question": "In calculus and exponential growth modeling, what numerical value is used for ( e ) to three decimal precision?",
+    "Answer": "2.718"
+  },
+  {
+    "ID": 95,
+    "Question": "When listing the tallest mountains in the world measured above sea level, which peak holds the top position?",
+    "Answer": "Mount Everest"
+  },
+  {
+    "ID": 96,
+    "Question": "What is the chemical formula for sodium chloride?",
+    "Answer": "NaCl"
+  },
+  {
+    "ID": 97,
+    "Question": "Under the convention distinguishing Europe and Asia as separate continents, what is the total continent count?",
+    "Answer": "7"
+  },
+  {
+    "ID": 98,
+    "Question": "In particle physics, what fundamental charge is attributed to a proton?",
+    "Answer": "1.602176634×10⁻¹⁹ C"
+  },
+  {
+    "ID": 99,
+    "Question": "In Canadian governmental organization, what city is designated as the nation’s capital?",
+    "Answer": "Ottawa"
+  },
+  {
+    "ID": 100,
+    "Question": "When referring to Japan’s national currency system, what monetary unit is used?",
+    "Answer": "Japanese yen"
+  },
+  {
+    "ID": 101,
+    "Question": "In Euclidean geometry, how many sides does a regular hexagon have?",
+    "Answer": "6"
+  },
+  {
+    "ID": 102,
+    "Question": "Excluding colonial administrative histories, what city functions as modern Kenya’s capital?",
+    "Answer": "Nairobi"
+  },
+  {
+    "ID": 103,
+    "Question": "Within the SI redefinition of 2019, what exact value is assigned to Planck’s constant?",
+    "Answer": "6.62607015×10⁻³⁴ J·s"
+  },
+  {
+    "ID": 104,
+    "Question": "In the domain of world oceans, which ocean is the smallest by surface area?",
+    "Answer": "Arctic Ocean"
+  },
+  {
+    "ID": 105,
+    "Question": "In planetary science, what planet is universally considered the Solar System’s largest?",
+    "Answer": "Jupiter"
+  },
+  {
+    "ID": 106,
+    "Question": "Among global deserts, which one spans the greatest area?",
+    "Answer": "Antarctic Desert"
+  },
+  {
+    "ID": 107,
+    "Question": "When analyzing the SI-based definition of the mole, what is the fixed numerical value assigned to Avogadro’s constant?",
+    "Answer": "6.02214076×10²³ mol⁻¹"
+  },
+  {
+    "ID": 108,
+    "Question": "In the seven-continent geographic model commonly taught worldwide, how many continents does Earth’s landmass divide into?",
+    "Answer": "7"
+  },
+  {
+    "ID": 109,
+    "Question": "Excluding temporary wartime administrative locations, what city is formally recognized as South Korea’s capital?",
+    "Answer": "Seoul"
+  },
+  {
+    "ID": 110,
+    "Question": "In Germany’s governmental system, what city functions as the nation’s capital?",
+    "Answer": "Berlin"
+  },
+  {
+    "ID": 111,
+    "Question": "Rounded to three decimal places, what is the value of the mathematical constant ( e )?",
+    "Answer": "2.718"
+  },
+  {
+    "ID": 112,
+    "Question": "In Brazil’s administrative system, what city is designated as the federal capital?",
+    "Answer": "Brasília"
+  },
+  {
+    "ID": 113,
+    "Question": "On the periodic table, which symbol denotes the element silver?",
+    "Answer": "Ag"
+  },
+  {
+    "ID": 114,
+    "Question": "When counting the sides of an eight-sided polygon, what number results?",
+    "Answer": "8"
+  },
+  {
+    "ID": 115,
+    "Question": "Excluding any historical colonial administrative centers, what city serves as Bangladesh’s present-day capital?",
+    "Answer": "Dhaka"
+  },
+  {
+    "ID": 116,
+    "Question": "In classical mechanics, what constant is used to express the universal gravitational interaction strength?",
+    "Answer": "6.67430×10⁻¹¹ m³/(kg·s²)"
+  },
+  {
+    "ID": 117,
+    "Question": "In global cartography, what is the capital city of Norway?",
+    "Answer": "Oslo"
+  },
+  {
+    "ID": 118,
+    "Question": "Among Eurasian capitals, which one corresponds to Russia?",
+    "Answer": "Moscow"
+  },
+  {
+    "ID": 119,
+    "Question": "What is the capital of the Philippines according to its constitutional designation?",
+    "Answer": "Manila"
+  },
+  {
+    "ID": 120,
+    "Question": "In European geography, what city is recognized as Switzerland’s capital?",
+    "Answer": "Bern"
+  },
+  {
+    "ID": 121,
+    "Question": "Among North American mountain ranges, which mountain reaches the greatest height?",
+    "Answer": "Denali"
+  },
+  {
+    "ID": 122,
+    "Question": "Excluding historical approximations and focusing strictly on the standardized value used in celestial mechanics, what is the numerical distance defined as one astronomical unit?",
+    "Answer": "149,597,870 km"
+  },
+  {
+    "ID": 123,
+    "Question": "In continental elevation records, which peak is recognized as the highest in North America?",
+    "Answer": "Denali"
+  },
+  {
+    "ID": 124,
+    "Question": "What is the official marathon distance recognized by the IAAF, expressed in kilometers?",
+    "Answer": "42.195 km"
+  },
+  {
+    "ID": 125,
+    "Question": "When referring to Newton’s law of gravitation, what is the accepted value of (G)?",
+    "Answer": "6.67430×10⁻¹¹ m³/(kg·s²)"
+  },
+  {
+    "ID": 126,
+    "Question": "In planetary classification according to the IAU resolution of 2006, how many bodies qualify as planets within the Solar System?",
+    "Answer": "8"
+  },
+  {
+    "ID": 127,
+    "Question": "According to the standard geographic surveying method used in most major reference atlases, rather than expedition-specific variants, what length is typically attributed to the Nile River?",
+    "Answer": "6,650 km"
+  },
+  {
+    "ID": 128,
+    "Question": "When referencing Germany’s federal administrative center, which city is designated as its capital?",
+    "Answer": "Berlin"
+  },
+  {
+    "ID": 129,
+    "Question": "In the political structure of Australia, what city serves as the nation’s capital?",
+    "Answer": "Canberra"
+  },
+  {
+    "ID": 130,
+    "Question": "Excluding historical capitals such as Ayutthaya, what city serves as Thailand’s current national capital?",
+    "Answer": "Bangkok"
+  },
+  {
+    "ID": 131,
+    "Question": "When describing a linear angle, what degree measure corresponds to it?",
+    "Answer": "180°"
+  },
+  {
+    "ID": 132,
+    "Question": "If we ignore all preliminary diplomatic conferences and identify only the moment the ratification threshold was met such that the United Nations legally came into existence, what calendar date corresponds to that event?",
+    "Answer": "16734"
+  },
+  {
+    "ID": 133,
+    "Question": "Among prime integers, what number is the only even member?",
+    "Answer": "2"
+  },
+  {
+    "ID": 134,
+    "Question": "In chemical notation, what formula corresponds to carbon dioxide?",
+    "Answer": "CO₂"
+  },
+  {
+    "ID": 135,
+    "Question": "Within the governmental framework of Saudi Arabia, what city is recognized as the capital?",
+    "Answer": "Riyadh"
+  },
+  {
+    "ID": 136,
+    "Question": "What is the chemical symbol for helium?",
+    "Answer": "He"
+  },
+  {
+    "ID": 137,
+    "Question": "In Oceania’s political geography, which city serves as New Zealand’s capital?",
+    "Answer": "Wellington"
+  },
+  {
+    "ID": 138,
+    "Question": "Among major world capitals, which one corresponds to China?",
+    "Answer": "Beijing"
+  },
+  {
+    "ID": 139,
+    "Question": "When converting the Celsius freezing benchmark to the Kelvin scale, what exact value is obtained?",
+    "Answer": "273.15 K"
+  },
+  {
+    "ID": 140,
+    "Question": "In the context of European capitals, which city holds Italy’s governmental seat?",
+    "Answer": "Rome"
+  },
+  {
+    "ID": 141,
+    "Question": "What is the mathematical value of ( \\sqrt{49} ) (principal root)?",
+    "Answer": "7"
+  },
+  {
+    "ID": 142,
+    "Question": "Among the eight planets, which one holds the distinction of being the biggest in size and mass?",
+    "Answer": "Jupiter"
+  },
+  {
+    "ID": 143,
+    "Question": "In the periodic table, what atomic number is assigned to hydrogen—the simplest and lightest element composed of a single proton?",
+    "Answer": "1"
+  },
+  {
+    "ID": 144,
+    "Question": "What chemical symbol denotes the element iron?",
+    "Answer": "Fe"
+  },
+  {
+    "ID": 145,
+    "Question": "In chemical symbolism, what two-letter abbreviation is used to denote the element gold?",
+    "Answer": "Au"
+  },
+  {
+    "ID": 146,
+    "Question": "In civil calendar structures, how many days make up a leap year?",
+    "Answer": "366"
+  },
+  {
+    "ID": 147,
+    "Question": "Under Euclidean angle definitions, what is the degree measure of a right angle?",
+    "Answer": "90°"
+  },
+  {
+    "ID": 148,
+    "Question": "When considering the modern SI framework—specifically the post-1983 definition in which the meter is tied directly to a fixed numerical value for the speed of light—what is that exact constant expressed in meters per second?",
+    "Answer": "299,792,458 m/s"
+  },
+  {
+    "ID": 149,
+    "Question": "Within Indonesia’s modern political framework, which city serves as its capital?",
+    "Answer": "Jakarta"
+  },
+  {
+    "ID": 150,
+    "Question": "What is the freezing point of pure water expressed in Kelvin under standard atmospheric pressure?",
+    "Answer": "273.15 K"
+  },
+  {
+    "ID": 151,
+    "Question": "In exponentiation, raising 3 to the fourth power results in what number?",
+    "Answer": "81"
+  },
+  {
+    "ID": 152,
+    "Question": "Within the Solar System, which planet is recognized as the largest by mass and volume?",
+    "Answer": "Jupiter"
+  },
+  {
+    "ID": 153,
+    "Question": "In Northern European geography, what city is designated as the capital of Sweden?",
+    "Answer": "Stockholm"
+  },
+  {
+    "ID": 154,
+    "Question": "What city serves as the federal capital of Canada?",
+    "Answer": "Ottawa"
+  },
+  {
+    "ID": 155,
+    "Question": "In standard arithmetic operations, what is the greatest common divisor of 24 and 36?",
+    "Answer": "12"
+  },
+  {
+    "ID": 156,
+    "Question": "When referring to Argentina’s central administrative government, what city is recognized as its capital?",
+    "Answer": "Buenos Aires"
+  },
+  {
+    "ID": 157,
+    "Question": "In chemical notation, which integer indicates hydrogen’s position as the first element in the periodic table?",
+    "Answer": "1"
+  },
+  {
+    "ID": 158,
+    "Question": "In discussions of definitional physical constants—those serving not as approximations but as exact reference quantities—what is the stipulated value for (c) in m/s?",
+    "Answer": "299,792,458 m/s"
+  },
+  {
+    "ID": 159,
+    "Question": "At what temperature does water freeze on the Fahrenheit scale?",
+    "Answer": "32°F"
+  },
+  {
+    "ID": 160,
+    "Question": "In arithmetic operations, what number multiplied by itself yields 144?",
+    "Answer": "12"
+  },
+  {
+    "ID": 161,
+    "Question": "In the periodic table, which atomic number corresponds to the element neon?",
+    "Answer": "10"
+  },
+  {
+    "ID": 162,
+    "Question": "What is the value of (3^4)?",
+    "Answer": "81"
+  },
+  {
+    "ID": 163,
+    "Question": "When referring to the galactic structure in which Earth resides, what is the conventional name used?",
+    "Answer": "Milky Way"
+  },
+  {
+    "ID": 164,
+    "Question": "In African continental geography, which peak is identified as the tallest?",
+    "Answer": "Kilimanjaro"
+  },
+  {
+    "ID": 165,
+    "Question": "When describing a six-sided polygon, what is the count of its sides?",
+    "Answer": "6"
+  },
+  {
+    "ID": 166,
+    "Question": "In electrical engineering, what unit is fundamentally used to quantify current?",
+    "Answer": "ampere"
+  },
+  {
+    "ID": 167,
+    "Question": "In elementary number theory, what integer is identified as the lowest-valued prime?",
+    "Answer": "2"
+  },
+  {
+    "ID": 168,
+    "Question": "What is the longest river in China?",
+    "Answer": "Yangtze River"
+  },
+  {
+    "ID": 169,
+    "Question": "What is the positive integer that serves as the square root of 49?",
+    "Answer": "7"
+  },
+  {
+    "ID": 170,
+    "Question": "In global monetary standards, what currency is legally issued and recognized by Japan’s central bank?",
+    "Answer": "Japanese yen"
+  },
+  {
+    "ID": 171,
+    "Question": "According to standard conditions for water’s freezing point at 1 atm, what is its temperature in Celsius?",
+    "Answer": "0°C"
+  },
+  {
+    "ID": 172,
+    "Question": "When referencing atomic structure where proton count determines elemental identity, what atomic number corresponds to hydrogen?",
+    "Answer": "1"
+  },
+  {
+    "ID": 173,
+    "Question": "In the Danish governmental system, which city serves as the official capital?",
+    "Answer": "Copenhagen"
+  },
+  {
+    "ID": 174,
+    "Question": "Under the conventional classification scheme separating Europe and Asia, how many continents are identified on Earth?",
+    "Answer": "7"
+  },
+  {
+    "ID": 175,
+    "Question": "How many days does a leap year contain in the Gregorian calendar?",
+    "Answer": "366"
+  },
+  {
+    "ID": 176,
+    "Question": "In the periodic table, which symbol corresponds to iron?",
+    "Answer": "Fe"
+  },
+  {
+    "ID": 177,
+    "Question": "Under standard chemical notation, what one-letter abbreviation denotes potassium?",
+    "Answer": "K"
+  },
+  {
+    "ID": 178,
+    "Question": "When referencing quantum mechanical constants, what is the accepted fixed value for Planck’s constant?",
+    "Answer": "6.62607015×10⁻³⁴ J·s"
+  }
+]

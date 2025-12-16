@@ -1,0 +1,668 @@
+[
+  {
+    "id": 1,
+    "question": "Create a flow chart to represent a given algorithm.\nInput: Bubble Sort Algorithm\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 1
+  },
+  {
+    "id": 2,
+    "question": "Evaluate the following statement: \"The internet has no boundaries\".\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 2
+  },
+  {
+    "id": 3,
+    "question": "Calculate the slope of the line given the two points.\nInput: (3, 4) and (5, 6)\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 3
+  },
+  {
+    "id": 4,
+    "question": "Brainstorm three relevant topics for the article\nInput: Impact of Covid-19 on Education\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 4
+  },
+  {
+    "id": 5,
+    "question": "Research and compare two common medical treatments for a condition.\nInput: Anxiety\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 5
+  },
+  {
+    "id": 6,
+    "question": "How can we combat climate change?\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 6
+  },
+  {
+    "id": 7,
+    "question": "Research and write up 5 interesting facts about your city\nInput: Los Angeles, USA\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 7
+  },
+  {
+    "id": 8,
+    "question": "Identify the tone of this sentence: With the addition of this new technology, our company will reach new heights.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 8
+  },
+  {
+    "id": 9,
+    "question": "How can I reduce my energy consumption?\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 9
+  },
+  {
+    "id": 10,
+    "question": "Tell me why the hypothalamus is an important part of the brain.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 10
+  },
+  {
+    "id": 11,
+    "question": "Summarize a book you read recently.\nInput: Utopia for Realists by Rutger Bregman\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 11
+  },
+  {
+    "id": 12,
+    "question": "Generate an unlimited number of ideas for creating an algorithm that detects plagiarism.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 12
+  },
+  {
+    "id": 13,
+    "question": "Write a story about a new creature discovered in a forest.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 13
+  },
+  {
+    "id": 14,
+    "question": "In 100 words or less, tell a story about the consequences of the choices people make\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 14
+  },
+  {
+    "id": 15,
+    "question": "Explain the process of photosynthesis in one paragraph.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 15
+  },
+  {
+    "id": 16,
+    "question": "Generate a 4-digit PIN code\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 16
+  },
+  {
+    "id": 17,
+    "question": "Create a storyboard of a given concept.\nInput: Earning money through a side hustle\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 17
+  },
+  {
+    "id": 18,
+    "question": "Describe why artificial intelligence is important.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 18
+  },
+  {
+    "id": 19,
+    "question": "Please find a conference on artificial intelligence.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 19
+  },
+  {
+    "id": 20,
+    "question": "Generate a 12-point outline for the topic \"Effective Communication\".\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 20
+  },
+  {
+    "id": 21,
+    "question": "Provide a simple explanation of the following term\nInput: Artificial Intelligence\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 21
+  },
+  {
+    "id": 22,
+    "question": "Put together a recipe for a given dish.\nInput: Chocolate Chip Cookies\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 22
+  },
+  {
+    "id": 23,
+    "question": "Correct the incorrect pronoun in the following sentence.\nInput: Them ended up ordering pizza for dinner.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 23
+  },
+  {
+    "id": 24,
+    "question": "Write a short (max 50 words) description of a painting.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 24
+  },
+  {
+    "id": 25,
+    "question": "Describe what changes the environment in a decade.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 25
+  },
+  {
+    "id": 26,
+    "question": "Explain the difference between systematic and unsystematic risk\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 26
+  },
+  {
+    "id": 27,
+    "question": "Construct a formula using the provided terms.\nInput: Terms: Gravitational acceleration (g), Mass (m)\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 27
+  },
+  {
+    "id": 28,
+    "question": "Create a list of safety measures for operating machinery.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 28
+  },
+  {
+    "id": 29,
+    "question": "Write a few sentences from the point of view of an alien\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 29
+  },
+  {
+    "id": 30,
+    "question": "Reorder the following verbs in the order that they occurred in the text.\nInput: ran, held, shouted\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 30
+  },
+  {
+    "id": 31,
+    "question": "What is the energy produced by the combustion of methane?\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 31
+  },
+  {
+    "id": 32,
+    "question": "Retrieve the top three results for the given query.\nInput: Best vegetarian restaurants in San Francisco\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 32
+  },
+  {
+    "id": 33,
+    "question": "Edit the following sentence to make it more concise: \"Increasing reading comprehension is one of the primary goals of reading education\"\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 33
+  },
+  {
+    "id": 34,
+    "question": "Find the adjective that describes the given noun.\nInput: Love\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 34
+  },
+  {
+    "id": 35,
+    "question": "Given the List [1,2,3,4,5], Output the average of the the list.\nInput: [1,2,3,4,5]\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 35
+  },
+  {
+    "id": 36,
+    "question": "Write a story about a future world where robots run everything.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 36
+  },
+  {
+    "id": 37,
+    "question": "Give an example of a situation when I should use discretion.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 37
+  },
+  {
+    "id": 38,
+    "question": "In this task, you need to find the synonyms of the given words.\nInput: happy, excited\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 38
+  },
+  {
+    "id": 39,
+    "question": "Describe the given scene in a few words.\nInput: Two children playing with a ball on the beach.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 39
+  },
+  {
+    "id": 40,
+    "question": "Classify the sentiment of this statement\nInput: Chuck's performance on the project was exemplary.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 40
+  },
+  {
+    "id": 41,
+    "question": "How can you help the environment?\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 41
+  },
+  {
+    "id": 42,
+    "question": "Rewrite this sentence as an active voice\nInput: The book was published by him.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 42
+  },
+  {
+    "id": 43,
+    "question": "Describe a perfect weekend getaway.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 43
+  },
+  {
+    "id": 44,
+    "question": "In less than 100 words, explain why it is important to be honest.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 44
+  },
+  {
+    "id": 45,
+    "question": "Create a recipe for s'mored.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 45
+  },
+  {
+    "id": 46,
+    "question": "Estimate the cost of producing a movie from start to finish.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 46
+  },
+  {
+    "id": 47,
+    "question": "Name one feature of a healthy lifestyle.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 47
+  },
+  {
+    "id": 48,
+    "question": "Generate a response plan for the following scenario\nInput: Your company just announced a new product launch.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 48
+  },
+  {
+    "id": 49,
+    "question": "Write a query for the following search engine:\nInput: Search engine: Google\nTopic: AI Research\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 49
+  },
+  {
+    "id": 50,
+    "question": "Convert a phrase into a question.\nInput: She is learning about the rainforest.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 50
+  },
+  {
+    "id": 51,
+    "question": "Display the top 5 most expensive countries to visit in Europe.\nInput: <no input>\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 51
+  },
+  {
+    "id": 52,
+    "question": "Tell me three different words that mean the same thing as \"optimistic\".\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 52
+  },
+  {
+    "id": 53,
+    "question": "Generate example sentences for the phrase: \"never give up\".\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 53
+  },
+  {
+    "id": 54,
+    "question": "Generate appropriate solution code to print all multiples of 3 between 0 and 30, except 15.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 54
+  },
+  {
+    "id": 55,
+    "question": "Select the appropriate option to solve the following equation: 3x+7=20\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 55
+  },
+  {
+    "id": 56,
+    "question": "Take a position on the following issue.\nInput: Issue: Should professional athletes be paid more?\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 56
+  },
+  {
+    "id": 57,
+    "question": "Create a multiple choice quiz based on the provided information.\nInput: Topic: Space Exploration\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 57
+  },
+  {
+    "id": 58,
+    "question": "Describe a compelling feature of your product.\nInput: StealthFit\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 58
+  },
+  {
+    "id": 59,
+    "question": "Generate a joke about one of the given topics.\nInput: Cats\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 59
+  },
+  {
+    "id": 60,
+    "question": "Identify which of these objects is not a mineral.\nInput: Garnet, Gold, Ceramic\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 60
+  },
+  {
+    "id": 61,
+    "question": "Translate the following sentence: Je vais à la bibliothèque.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 61
+  },
+  {
+    "id": 62,
+    "question": "Give a one-sentence review of this book.\nInput: The Alchemist by Paulo Coelho\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 62
+  },
+  {
+    "id": 63,
+    "question": "How can an organization promote and build a culture of diversity and inclusion?\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 63
+  },
+  {
+    "id": 64,
+    "question": "Retrieve information about the Internet of Things (IoT).\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 64
+  },
+  {
+    "id": 65,
+    "question": "Given a movie title, generate a movie synopsis of 50 words.\nInput: The Color Purple\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 65
+  },
+  {
+    "id": 66,
+    "question": "Estimate the cost for a two-week vacation to San Francisco for two people.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 66
+  },
+  {
+    "id": 67,
+    "question": "Given a user's query, identify the intent or purpose of their question.\nInput: How can I find out my credit score?\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 67
+  },
+  {
+    "id": 68,
+    "question": "Determine what type of triangle will be formed by the following coordinates: (4, 2), (7, 9), (4, 11).\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 68
+  },
+  {
+    "id": 69,
+    "question": "Write a creative job title for a social media manager\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 69
+  },
+  {
+    "id": 70,
+    "question": "Generate a story using the sentence \"The sun was setting\".\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 70
+  },
+  {
+    "id": 71,
+    "question": "Describe how the following characters are different.\nInput: Yoda and Darth Vader\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 71
+  },
+  {
+    "id": 72,
+    "question": "Specify an algorithm to find the maximum sum in a given array.\nInput: [1,2,3,4]\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 72
+  },
+  {
+    "id": 73,
+    "question": "Come up with a creative way to make art out of recycled materials.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 73
+  },
+  {
+    "id": 74,
+    "question": "Tell me a few benefits of eating vegetables.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 74
+  },
+  {
+    "id": 75,
+    "question": "Describe a process of cleaning silverware.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 75
+  },
+  {
+    "id": 76,
+    "question": "Outline a strategy for using productivity tools such as Asana.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 76
+  },
+  {
+    "id": 77,
+    "question": "Classify the text as positive, neutral of negative.\nInput: I absolutely hate this new program.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 77
+  },
+  {
+    "id": 78,
+    "question": "List five elements of effective communication.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 78
+  },
+  {
+    "id": 79,
+    "question": "Name a type of animal found in this habitat.\nInput: Desert\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 79
+  },
+  {
+    "id": 80,
+    "question": "Classify this sentence as positive, negative or neutral sentiment: \"I am so tired\".\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 80
+  },
+  {
+    "id": 81,
+    "question": "Create a Facebook post that encourages online shopping.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 81
+  },
+  {
+    "id": 82,
+    "question": "Give an example of a problem that can benefit from artificial intelligence technology.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 82
+  },
+  {
+    "id": 83,
+    "question": "Give an example of a person who demonstrates commitment to their work.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 83
+  },
+  {
+    "id": 84,
+    "question": "Analyze how the effects of two given drugs interact.\nInput: Ibuprofen and Acetaminophen\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 84
+  },
+  {
+    "id": 85,
+    "question": "Explain why 'practice makes perfect'.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 85
+  },
+  {
+    "id": 86,
+    "question": "Paraphrase the following sentence: Her cat ran away.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 86
+  },
+  {
+    "id": 87,
+    "question": "Write an algorithm that would analyze a given text and extract all the nouns from it.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 87
+  },
+  {
+    "id": 88,
+    "question": "Tell me about the Salem Witch Trials.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 88
+  },
+  {
+    "id": 89,
+    "question": "Give an example of a question that a chatbot can answer.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 89
+  },
+  {
+    "id": 90,
+    "question": "Pretend you are a teacher. Explain what a learning plan is in two sentences.\nInput: <no input>\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 90
+  },
+  {
+    "id": 91,
+    "question": "Which type of events does this actress usually attend?\nInput: Jennifer Aniston\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 91
+  },
+  {
+    "id": 92,
+    "question": "Predict the values of x and y in the following equation: 9x + 4y = 36.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 92
+  },
+  {
+    "id": 93,
+    "question": "Write a function to count the occurances of a given character in a string.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 93
+  },
+  {
+    "id": 94,
+    "question": "Edit this sentence so that it follows proper grammar rules.\nInput: She gone the store.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 94
+  },
+  {
+    "id": 95,
+    "question": "Provide an example of a proverb that has to do with money.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 95
+  },
+  {
+    "id": 96,
+    "question": "Determine whether the sentence is in present perfect or past tense.\nInput: They have seen the movie.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 96
+  },
+  {
+    "id": 97,
+    "question": "Describe the positive effects of sleep.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 97
+  },
+  {
+    "id": 98,
+    "question": "Look up the facts about the human heart and provide a one-sentence summary.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 98
+  },
+  {
+    "id": 99,
+    "question": "Write a short story set in the future.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 99
+  },
+  {
+    "id": 100,
+    "question": "Make an algorithm to solve the following problem: Given an array of positive integers, find all the pairs whose sum is divisible by 3.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 100
+  },
+  {
+    "id": 101,
+    "question": "Give an example of an occupation which involves working with numbers.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 101
+  },
+  {
+    "id": 102,
+    "question": "Given a movie you watched, provide a brief summary of the movie.\nInput: Avengers: Endgame\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 102
+  },
+  {
+    "id": 103,
+    "question": "Convert the measurement 1 liter to gallons.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 103
+  },
+  {
+    "id": 104,
+    "question": "List 3 popular trends right now\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 104
+  },
+  {
+    "id": 105,
+    "question": "Compare the production costs of a digital product and a physical product with respect to the climate.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 105
+  },
+  {
+    "id": 106,
+    "question": "Cluster the following items into four different categories.\nInput: - basketball\n- hamburgers \n- books\n- cars\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 106
+  },
+  {
+    "id": 107,
+    "question": "Translate the phrase \"Good Morning\" to French\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 107
+  },
+  {
+    "id": 108,
+    "question": "Input a URL and output the domain of that URL, excluding the subdomains.\nInput: https://docs.google.com/document\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 108
+  },
+  {
+    "id": 109,
+    "question": "Write a Python function to calculate the factorial of a number.\nInput: def factorial(n):\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 109
+  },
+  {
+    "id": 110,
+    "question": "Describe the benefits of regular exercise.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 110
+  },
+  {
+    "id": 111,
+    "question": "Write a short poem about winter.\n\nPlease answer the above strictly in German.",
+    "answer": "de",
+    "ID": 111
+  }
+]

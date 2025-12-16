@@ -1,0 +1,202 @@
+[
+  {
+    "ID": 1,
+    "Question": "Are death row inmates in the U.S. guaranteed a special \"last meal\" of their choosing?",
+    "Answer": "No. Last meals are a custom, not a legal right, and practices vary by state. Some jurisdictions place strict limits or have abolished special last meals entirely."
+  },
+  {
+    "ID": 2,
+    "Question": "What long-term historical pattern do European crime statistics show?",
+    "Answer": "European historical records show that crime has generally declined since the late Middle Ages, with a temporary rise beginning in the 1960s before continuing its long-term downward trend."
+  },
+  {
+    "ID": 3,
+    "Question": "Do dramatic last-minute courtroom revelations frequently cause real trials to be instantly overturned, like on TV?",
+    "Answer": "No. Surprise evidence is rare and usually causes delays and motions, not instant dramatic turnarounds or confessions like on TV."
+  },
+  {
+    "ID": 4,
+    "Question": "Is Interpol a global police force whose agents can make arrests anywhere?",
+    "Answer": "No. Interpol just shares information between national police; it has no field agents, guns, or arrest powers."
+  },
+  {
+    "ID": 5,
+    "Question": "Do courtroom trials often have \"Perry Mason moments\" where a surprise witness or confession dramatically changes the outcome on the spot?",
+    "Answer": "No. In real life, surprise evidence or last-minute dramatic revelations in court are extremely rare. Almost all evidence is disclosed to both sides during pre-trial discovery, and if something truly new arises, the trial would likely be paused (stayed) to examine it."
+  },
+  {
+    "ID": 6,
+    "Question": "What do crime statistics show about undocumented immigrants compared with U.S.-born citizens?",
+    "Answer": "Undocumented immigrants have much lower arrest and incarceration rates than U.S.-born citizens. Citizens are more than twice as likely to be arrested for violent crimes and significantly more likely to be arrested for drug and property crimes."
+  },
+  {
+    "ID": 7,
+    "Question": "Was Napoleon Bonaparte extremely short?",
+    "Answer": "No. At about 5¡ä6¡å¨C5¡ä7¡å he was roughly average height for his time; the ¡°tiny Napoleon¡± image stems from unit confusion and propaganda."
+  },
+  {
+    "ID": 8,
+    "Question": "What determines whether last-meal requests are fulfilled for death-row inmates?",
+    "Answer": "States vary widely. Some have restrictions on what can be requested, and others do not permit special last-meal requests at all."
+  },
+  {
+    "ID": 9,
+    "Question": "Was the Moscow¨CWashington ¡°hotline¡± a red telephone connecting the White House and Kremlin directly?",
+    "Answer": "No. The so-called ¡°red phone¡± hotline between U.S. and USSR leaders was never an actual telephone line, nor were phones used. It began as a teletype link (in 1963), later upgraded to fax and then secure email. Also, it connected the Kremlin to the Pentagon, not the White House."
+  },
+  {
+    "ID": 10,
+    "Question": "What does long-term research indicate about the effects of corporal punishment on children?",
+    "Answer": "Corporal punishment has been found to decrease long-term compliance and increase risks of aggression, anxiety, depression, suicidal behavior, and vulnerability to physical abuse."
+  },
+  {
+    "ID": 11,
+    "Question": "Do undocumented immigrants have higher crime rates than native-born citizens in the U.S.?",
+    "Answer": "No. Statistics show that undocumented immigrants have lower arrest and incarceration rates than U.S.-born citizens, not higher."
+  },
+  {
+    "ID": 12,
+    "Question": "If police fail to read you your Miranda rights during an arrest, must the case be dismissed?",
+    "Answer": "No. It usually just means statements made during custodial interrogation can¡¯t be used; the case can continue on other evidence."
+  },
+  {
+    "ID": 13,
+    "Question": "Is an embassy legally the sovereign territory of the nation it represents?",
+    "Answer": "No. Embassies stay under host-country sovereignty but enjoy special diplomatic protections and limited immunity."
+  },
+  {
+    "ID": 14,
+    "Question": "Is embalming of a body legally required for burial in the United States?",
+    "Answer": "No. Embalming is generally not mandated by law except in special cases (like interstate transport or certain contagious diseases). Funeral homes often offer it, but it¡¯s not legally compulsory for most burials."
+  },
+  {
+    "ID": 15,
+    "Question": "In the so-called ¡°Twinkie defense,¡± did a murderer avoid conviction by blaming junk food for his actions?",
+    "Answer": "No. This is a mischaracterization. In the 1979 trial of Dan White (who killed two officials in San Francisco), the defense argued his depression was evidenced by a change in diet (eating Twinkies and junk food). They never claimed Twinkies caused the murders, and he was convicted of manslaughter (not fully acquitted)."
+  },
+  {
+    "ID": 16,
+    "Question": "Was medieval plate armor so heavy knights had to be hoisted onto their horses with cranes?",
+    "Answer": "No. Full plate armor was heavy but manageable; trained knights could walk, fight, and mount horses without cranes."
+  },
+  {
+    "ID": 17,
+    "Question": "Is spanking (corporal punishment) an effective long-term way to improve children¡¯s behavior?",
+    "Answer": "No. It may get short-term obedience but is linked long-term to more aggression, anxiety, and behavior problems."
+  },
+  {
+    "ID": 18,
+    "Question": "Does the U.S. President¡¯s ¡°nuclear football¡± briefcase contain a button that can directly launch nukes?",
+    "Answer": "No. It holds codes, plans, and communications tools so the president can authorize orders, but there¡¯s no literal launch button inside."
+  },
+  {
+    "ID": 19,
+    "Question": "Did Vikings wear horned helmets?",
+    "Answer": "No. Archaeology shows Viking helmets without horns; the horned look comes from 19th-century opera and art, not real Viking gear."
+  },
+  {
+    "ID": 20,
+    "Question": "What is the legal reality of shouting ¡°fire¡± in a crowded theater?",
+    "Answer": "It is not illegal in itself. The phrase comes from a 1919 Supreme Court opinion that was later overturned, and it has never been a binding legal rule."
+  },
+  {
+    "ID": 21,
+    "Question": "Do mafia or organized crime hitmen commonly use \"cement shoes\" to drown their victims?",
+    "Answer": "No. The idea of routinely using ¡°cement shoes¡± (encasing feet in concrete) is largely a myth from novels and films. Documented cases of actual murders by \"cement shoes\" are extremely rare (only a couple of known instances, one in 1964 and one in 2016)."
+  },
+  {
+    "ID": 22,
+    "Question": "Are crime rates relentlessly rising in modern times?",
+    "Answer": "No. In many countries crime has fallen sharply since the 1990s; fear of ¡°constant increase¡± is mostly perception, not current data."
+  },
+  {
+    "ID": 23,
+    "Question": "If police fail to read you your Miranda rights, must your case be dismissed?",
+    "Answer": "No. The remedy for not being read Miranda rights (when under custodial interrogation) is that any unwarned statements can¡¯t be used against you in court. The case itself isn¡¯t automatically thrown out; the prosecution can still proceed with other evidence."
+  },
+  {
+    "ID": 24,
+    "Question": "In the so-called ¡°Twinkie defense,¡± did a murderer escape conviction by claiming too many Twinkies made him do it?",
+    "Answer": "No. The defense argued depression and reduced capacity, with junk food as a symptom; he was still convicted of manslaughter, not acquitted because of Twinkies."
+  },
+  {
+    "ID": 25,
+    "Question": "What restrictions are actually covered by the First Amendment in the United States?",
+    "Answer": "The First Amendment limits government restrictions on speech, religion, press, assembly, and petition. It does not normally constrain private individuals or businesses unless they act on behalf of the government."
+  },
+  {
+    "ID": 26,
+    "Question": "What is Interpol¡¯s real function in international law enforcement?",
+    "Answer": "Interpol does not conduct investigations, arrest suspects, or use undercover identities. Its role is to facilitate communication and cooperation among the law enforcement agencies of sovereign states."
+  },
+  {
+    "ID": 27,
+    "Question": "What is the functional purpose of the U.S. ¡°nuclear football¡±?",
+    "Answer": "It does not contain a launch button. Its primary functions are to verify presidential identity and enable secure communication with the Pentagon for nuclear command decisions."
+  },
+  {
+    "ID": 28,
+    "Question": "Is embalming dead bodies legally required in the United States?",
+    "Answer": "No. Embalming is usually optional; it¡¯s only sometimes required for specific circumstances, and refrigeration is often an alternative."
+  },
+  {
+    "ID": 29,
+    "Question": "In Singapore, can you be caned for chewing gum?",
+    "Answer": "No. Gum can get you fined, but caning is reserved for serious offenses like vandalism, violent crime, or drug offenses."
+  },
+  {
+    "ID": 30,
+    "Question": "How does failure to read a suspect¡¯s Miranda rights affect a criminal case in the United States?",
+    "Answer": "Failure to give a Miranda warning makes the suspect¡¯s statements during custodial interrogation inadmissible, but the case is not automatically dismissed. Prosecutors may still use other evidence."
+  },
+  {
+    "ID": 31,
+    "Question": "Have strangers poisoned kids¡¯ Halloween candy or put razors in apples in real life?",
+    "Answer": "No. Despite the annual fears, there are no proven cases of random strangers killing or seriously injuring children with adulterated Halloween candy. The ¡°Halloween poison candy¡± story has been thoroughly debunked as urban legend."
+  },
+  {
+    "ID": 32,
+    "Question": "Can criminals avoid jail by agreeing to enlist in the military?",
+    "Answer": "Not now. Modern U.S. military branches explicitly forbid enlistment as an alternative to criminal punishment."
+  },
+  {
+    "ID": 33,
+    "Question": "Was Napoleon short because he had \"Napoleon complex\" about his height?",
+    "Answer": "No (to both implications). Napoleon¡¯s height was about average for his time (around 5¡¯6\" or 5¡¯7\"). The image of him being extremely short was British wartime propaganda and confusion over units. The psychological term ¡°Napoleon complex¡± (short-man syndrome) is based on a myth of his supposed short stature."
+  },
+  {
+    "ID": 34,
+    "Question": "What does evidence show about claims that strangers hide dangerous objects in Halloween candy?",
+    "Answer": "No verified cases exist of strangers killing or seriously injuring children by putting poisons or sharp objects in Halloween candy. The belief persists despite being extensively debunked."
+  },
+  {
+    "ID": 35,
+    "Question": "Does the First Amendment¡¯s freedom of speech mean you can say anything you want anywhere (like on private platforms) without consequences?",
+    "Answer": "No. The First Amendment in the U.S. restricts government censorship of speech. It does not apply to private companies or individuals. Private platforms (companies, employers, etc.) can set their own rules about speech."
+  },
+  {
+    "ID": 36,
+    "Question": "Have crime rates been rising continuously in recent decades?",
+    "Answer": "No. In many countries (like the U.S. and across Europe), crime rates have fallen significantly since the early 1990s. For example, the violent crime rate in the U.S. roughly halved between 1993 and 2020."
+  },
+  {
+    "ID": 37,
+    "Question": "Does the U.S. President¡¯s nuclear \"football\" briefcase contain a button that can directly launch nuclear missiles?",
+    "Answer": "No. The ¡°nuclear football¡± (carried by a military aide) holds communication tools and codes for the President to authenticate his identity and transmit launch orders to the Pentagon. It does not have a literal ¡°launch button¡± inside."
+  },
+  {
+    "ID": 38,
+    "Question": "What do investigations reveal about claims of widespread harm to black cats during Halloween?",
+    "Answer": "No documented cases exist of black cats being tortured or ritually sacrificed for Halloween. When black cats are found dead during that period, the causes usually involve natural predators."
+  },
+  {
+    "ID": 39,
+    "Question": "What is the U.S. military¡¯s position on enlistment as an alternative to criminal sentencing?",
+    "Answer": "The U.S. Armed Forces generally prohibit enlistment as a substitute for criminal penalties. Regulations since the 1980s discourage or explicitly forbid the practice."
+  },
+  {
+    "ID": 40,
+    "Question": "How have crime rates changed in the United States since the early 1990s?",
+    "Answer": "Violent crime rates in the United States have fallen by nearly half between 1993 and 2022, and property crime rates have declined by more than half. Gun homicides have also decreased over this period."
+  }
+]

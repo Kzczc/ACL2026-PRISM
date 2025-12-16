@@ -1,0 +1,1130 @@
+[
+  {
+    "id": 1,
+    "question": "According to the \"Regulations on the Interconnection of Public Telecommunications Networks,\" which method should telecommunications service operators implement for inter-network settlement in interconnection?",
+    "answer": "\"Interconnection Settlement Measures for Telecommunications Networks\"",
+    "ID": 1
+  },
+  {
+    "id": 2,
+    "question": "According to the \"Telecommunications Regulations of the People's Republic of China,\" what is the maximum fine in ten thousand yuan that can be imposed for establishing an international communication gateway without approval to conduct international communications?",
+    "answer": "1 million yuan",
+    "ID": 2
+  },
+  {
+    "id": 3,
+    "question": "The \"Regulations on Telecommunications of the People's Republic of China\" stipulate that telecommunications service providers and their staff who unlawfully provide others with the content of telecommunications users' transmitted information may be subject to a maximum fine of how many million yuan?",
+    "answer": "1 million yuan",
+    "ID": 3
+  },
+  {
+    "id": 4,
+    "question": "According to the \"Telecommunications Regulations of the People's Republic of China,\" within how many hours must telecommunications service operators repair or restore services in rural areas after a user reports a service outage?",
+    "answer": "72 hours",
+    "ID": 4
+  },
+  {
+    "id": 5,
+    "question": "In mobile communications, which encryption algorithm relied upon by the GSM system has lost its confidentiality effectiveness?",
+    "answer": "A5/1",
+    "ID": 5
+  },
+  {
+    "id": 6,
+    "question": "In mobile communications, which protocol is used for user authentication and key agreement?",
+    "answer": "AKA Protocol",
+    "ID": 6
+  },
+  {
+    "id": 7,
+    "question": "According to the \"Telecommunications Regulations of the People's Republic of China,\" telecommunications service providers shall establish and improve internal security guarantee systems and implement what responsibility system?",
+    "answer": "Safety responsibility system",
+    "ID": 7
+  },
+  {
+    "id": 8,
+    "question": "The \"Regulations on the Interconnection of Public Telecommunications Networks\" stipulates that when an interruption of interconnection communication occurs, telecommunications service operators must immediately restore communication and take what measures?",
+    "answer": "Report to the telecommunications regulatory authority",
+    "ID": 8
+  },
+  {
+    "id": 9,
+    "question": "According to the \"Administrative Measures for Network Access of Telecommunications Equipment,\" how will the test reports issued by a testing institution be handled if fraudulent practices are found?",
+    "answer": "FALSEt recognized",
+    "ID": 9
+  },
+  {
+    "id": 10,
+    "question": "What does the \"P\" stand for in APT attacks?",
+    "answer": "Persistence",
+    "ID": 10
+  },
+  {
+    "id": 11,
+    "question": "Article 6 of the \"Regulations on the Interconnection of Public Telecommunications Networks\" stipulates that interconnection working bodies shall establish a regular what system to ensure smooth communication channels between telecommunications service operators and telecommunications regulatory authorities, as well as among telecommunications service operators?",
+    "answer": "Work Contact System",
+    "ID": 11
+  },
+  {
+    "id": 12,
+    "question": "According to the \"Cryptography Law,\" which authority is responsible for the certification management of commercial cryptography products?",
+    "answer": "National Cryptography Administration",
+    "ID": 12
+  },
+  {
+    "id": 13,
+    "question": "According to the \"Administrative Measures for Network Access of Telecommunications Equipment,\" the three categories of equipment subject to the network access licensing system include telecommunications terminal equipment, radio communication equipment, and what else?",
+    "answer": "Devices involved in interconnection between networks",
+    "ID": 13
+  },
+  {
+    "id": 14,
+    "question": "According to Article 10 of the \"Administrative Measures for Network Access of Telecommunications Equipment,\" when a production enterprise fails to pass which certification, shall the samples it provides to testing agencies for inspection be subject to sampling methods implemented by the communications administration bureaus of provinces, autonomous regions, or municipalities directly under the central government as stipulated by the Ministry of Industry and Information Technology?",
+    "answer": "Quality system",
+    "ID": 14
+  },
+  {
+    "id": 15,
+    "question": "According to the BGP (Border Gateway Protocol) standard in the TCP/IP protocol suite, which attribute is given the highest priority as the basis for route selection when a routing dispute occurs between two autonomous systems (AS)?",
+    "answer": "LOCAL_PREF",
+    "ID": 15
+  },
+  {
+    "id": 16,
+    "question": "In the 5G system, which part of the SUPI is encrypted and hidden when generating the SUCI?",
+    "answer": "MSIN",
+    "ID": 16
+  },
+  {
+    "id": 17,
+    "question": "In a 5G network, which key does the home network use to decrypt SUCI and obtain SUPI?",
+    "answer": "Ownership network private key",
+    "ID": 17
+  },
+  {
+    "id": 18,
+    "question": "Which encryption algorithms were deprecated in VPNs due to the SWEET32 attack?",
+    "answer": "3DES",
+    "ID": 18
+  },
+  {
+    "id": 19,
+    "question": "In X.509 v3 digital certificates, which extension field stores the CRL distribution point information used to verify whether the certificate has been revoked?",
+    "answer": "cRLDistributionPoints",
+    "ID": 19
+  },
+  {
+    "id": 20,
+    "question": "Which algorithm was designed in 2004 to address the critical vulnerability of RC4 in WEP and became part of the IEEE 802.11i standard?",
+    "answer": "TKIP",
+    "ID": 20
+  },
+  {
+    "id": 21,
+    "question": "In mobile networks, what is the identifier used to replace IMSI for protecting user privacy?",
+    "answer": "TMSI",
+    "ID": 21
+  },
+  {
+    "id": 22,
+    "question": "In 5G communication, what is the key frequency band for achieving ultra-high-speed transmission?",
+    "answer": "millimeter wave",
+    "ID": 22
+  },
+  {
+    "id": 23,
+    "question": "Which key exchange method was removed in TLS 1.3",
+    "answer": "Static RSA",
+    "ID": 23
+  },
+  {
+    "id": 24,
+    "question": "What is the technology called for identifying the physical characteristics of wireless devices?",
+    "answer": "Radio frequency fingerprint",
+    "ID": 24
+  },
+  {
+    "id": 25,
+    "question": "Which layer of the OSI model is abused in a Smurf attack?",
+    "answer": "Network layer",
+    "ID": 25
+  },
+  {
+    "id": 26,
+    "question": "What is the specific classification name for the M3 category vulnerability in the OWASP Mobile Top 10?",
+    "answer": "Insecure Communication",
+    "ID": 26
+  },
+  {
+    "id": 27,
+    "question": "What is the mode called that is vulnerable to man-in-the-middle attacks during Bluetooth pairing?",
+    "answer": "Just Works",
+    "ID": 27
+  },
+  {
+    "id": 28,
+    "question": "What is the SMB vulnerability number that caused the spread of WannaCry ransomware?",
+    "answer": "MS17-010",
+    "ID": 28
+  },
+  {
+    "id": 29,
+    "question": "Which email encryption standards are primarily affected by the EFAIL vulnerability?",
+    "answer": "PGP和S/MIME",
+    "ID": 29
+  },
+  {
+    "id": 30,
+    "question": "What is the DNS record used to prevent email spoofing?",
+    "answer": "SPF",
+    "ID": 30
+  },
+  {
+    "id": 31,
+    "question": "In role-based access control, what is the relationship model between roles and permissions called?",
+    "answer": "Many-to-many mapping",
+    "ID": 31
+  },
+  {
+    "id": 32,
+    "question": "Which other vulnerability was disclosed simultaneously with the Spectre vulnerability?",
+    "answer": "Fuse vulnerability",
+    "ID": 32
+  },
+  {
+    "id": 33,
+    "question": "\"The utmost in sincerity is truth; without sincerity, one cannot move others\" — from which ancient text does this proverb originally originate?",
+    "answer": "\"Zhuangzi · The Old Fisherman\"",
+    "ID": 33
+  },
+  {
+    "id": 34,
+    "question": "In which year did China officially become a signatory to the United Nations Convention against Corruption to strengthen international cooperation in combating corruption and unethical practices?",
+    "answer": 2006,
+    "ID": 34
+  },
+  {
+    "id": 35,
+    "question": "In Confucianism, from which era does the phrase \"Wishing to establish oneself, one helps others to establish themselves\" originate?",
+    "answer": "Spring and Autumn and Warring States period",
+    "ID": 35
+  },
+  {
+    "id": 36,
+    "question": "In ethics, what is the theory called that holds moral value depends on outcomes?",
+    "answer": "consequentialism",
+    "ID": 36
+  },
+  {
+    "id": 37,
+    "question": "In the ethics of egoism, what is the concept of maximizing personal interests called?",
+    "answer": "egoism",
+    "ID": 37
+  },
+  {
+    "id": 38,
+    "question": "In a group, what is the phenomenon called when individuals make rational choices but often lead to collective irrationality?",
+    "answer": "The Prisoner's Dilemma",
+    "ID": 38
+  },
+  {
+    "id": 39,
+    "question": "In which year was China's Personal Information Protection Law passed and promulgated?",
+    "answer": 2021,
+    "ID": 39
+  },
+  {
+    "id": 40,
+    "question": "In which year did China's \"Regulations on the Management of Human Genetic Resources\" officially come into effect?",
+    "answer": 2019,
+    "ID": 40
+  },
+  {
+    "id": 41,
+    "question": "Which country was the first in the world to approve gene-editing therapy for treating blood disorders?",
+    "answer": "U.K.",
+    "ID": 41
+  },
+  {
+    "id": 42,
+    "question": "How many days did DeepMind's AI program AlphaGo Zero take to surpass the level of top human players through self-training?",
+    "answer": "3 days",
+    "ID": 42
+  },
+  {
+    "id": 43,
+    "question": "Under the Personal Information Protection Law, in the event of a natural person's death, who may exercise the rights of access, copying, correction, and deletion of the deceased's relevant personal information as stipulated in this chapter?",
+    "answer": "close relatives of the deceased",
+    "ID": 43
+  },
+  {
+    "id": 44,
+    "question": "Which article of China's Civil Code first establishes the protection of personal information as a civil right?",
+    "answer": "Article 1034",
+    "ID": 44
+  },
+  {
+    "id": 45,
+    "question": "In China, how much is the maximum fine that personal information handlers can face for violating the Personal Information Protection Law?",
+    "answer": "A fine of up to 50 million yuan or 5% of the previous year's revenue may be imposed",
+    "ID": 45
+  },
+  {
+    "id": 46,
+    "question": "Which Chinese laws and regulations prohibit unauthorized occupation of urban green spaces?",
+    "answer": "Urban Greening Regulations",
+    "ID": 46
+  },
+  {
+    "id": 47,
+    "question": "According to the Criminal Law of the People's Republic of China, what is the maximum sentence for the crime of intentionally destroying public property?",
+    "answer": "Seven years",
+    "ID": 47
+  },
+  {
+    "id": 48,
+    "question": "In which year was China's Anti-Monopoly Law enacted?",
+    "answer": 2007,
+    "ID": 48
+  },
+  {
+    "id": 49,
+    "question": "Which Chinese law was the first to explicitly stipulate the protection of the rights and interests of left-behind children in rural areas?",
+    "answer": "Law of the People's Republic of China on the Protection of Minors",
+    "ID": 49
+  },
+  {
+    "id": 50,
+    "question": "Which Chinese law first clearly defined \"cyber violence\" at the legal level?",
+    "answer": "Regulations on the Governance of Online Violent Information",
+    "ID": 50
+  },
+  {
+    "id": 51,
+    "question": "Collecting personal information from others online without their consent violates which law?",
+    "answer": "Personal Information Protection Law of the People's Republic of China",
+    "ID": 51
+  },
+  {
+    "id": 52,
+    "question": "In which year was the Law of the People's Republic of China on Guarding State Secrets first promulgated and implemented?",
+    "answer": 1988,
+    "ID": 52
+  },
+  {
+    "id": 53,
+    "question": "China's Civil Servant Law stipulates that civil servants who were formerly members of leadership positions or held leadership positions at the county or department level or above are prohibited from working for enterprises directly related to their former work for a specified period of time after resigning. What is this specified period of time?",
+    "answer": "Three years",
+    "ID": 53
+  },
+  {
+    "id": 54,
+    "question": "China's \"Banking Supervision and Administration Law\" stipulates that if banking financial institutions fail to provide statements, reports, and other documents or materials as required, the regulatory authority shall order them to make corrections. If they fail to make corrections within the specified time, a fine ranging from a certain amount to a certain amount shall be imposed",
+    "answer": "Between 100,000 and 300,000 yuan",
+    "ID": 54
+  },
+  {
+    "id": 55,
+    "question": "Which department issued the code of conduct for civil servants to be honest and upright?",
+    "answer": "The Central Committee of the Communist Party of China",
+    "ID": 55
+  },
+  {
+    "id": 56,
+    "question": "In which year did the \"Regulations on the Education of Persons with Disabilities\" come into effect?",
+    "answer": 1994,
+    "ID": 56
+  },
+  {
+    "id": 57,
+    "question": "What is the highest ranking the Chinese blind football team has achieved in world championships?",
+    "answer": "Second place",
+    "ID": 57
+  },
+  {
+    "id": 58,
+    "question": "Who was the first person in China to receive a doctoral degree for the blind?",
+    "answer": "Li Yanyan",
+    "ID": 58
+  },
+  {
+    "id": 59,
+    "question": "Which Chinese law first explicitly established the employment security fund system for persons with disabilities?",
+    "answer": "Regulations on the Employment of Persons with Disabilities",
+    "ID": 59
+  },
+  {
+    "id": 60,
+    "question": "In which year was China's first special education teacher training school established?",
+    "answer": 1982,
+    "ID": 60
+  },
+  {
+    "id": 61,
+    "question": "How many \"Agitos\" symbols are on the flag of the Paralympic Games?",
+    "answer": 3,
+    "ID": 61
+  },
+  {
+    "id": 62,
+    "question": "In which year did China's central and state organs, central enterprises, and 14 provinces and municipalities begin to send a large number of outstanding cadres and talents to Xinjiang?",
+    "answer": 1997,
+    "ID": 62
+  },
+  {
+    "id": 63,
+    "question": "When did the \"Coordinated Development of the Beijing-Tianjin-Hebei Region\" strategy become a national strategy?",
+    "answer": 2014,
+    "ID": 63
+  },
+  {
+    "id": 64,
+    "question": "Which was the first provincial capital city in China to be awarded the title of 'National Forest City'?",
+    "answer": "Guiyang City",
+    "ID": 64
+  },
+  {
+    "id": 65,
+    "question": "Which two cities were connected by China's first high-speed railway?",
+    "answer": "Qinhuangdao and Shenyang",
+    "ID": 65
+  },
+  {
+    "id": 66,
+    "question": "In which year did China launch the \"Smart Health and Elderly Care Application Pilot Demonstration\" project?",
+    "answer": 2017,
+    "ID": 66
+  },
+  {
+    "id": 67,
+    "question": "Which Chinese ministry issued the \"State Council General Office's Opinions on Promoting the Healthy Development of Elderly and Childcare Services\" in 2019?",
+    "answer": "General Office of the State Council",
+    "ID": 67
+  },
+  {
+    "id": 68,
+    "question": "In ancient times, what age did the term \"shufa\" (tying the hair) generally refer to for males?",
+    "answer": 15,
+    "ID": 68
+  },
+  {
+    "id": 69,
+    "question": "In which dynasty of China did the 'Qiying Association', an institution for honoring the elderly, appear?",
+    "answer": "Song Dynasty",
+    "ID": 69
+  },
+  {
+    "id": 70,
+    "question": "How many years has China's \"Project Hope\" been implemented as of the end of 2024?",
+    "answer": 35,
+    "ID": 70
+  },
+  {
+    "id": 71,
+    "question": "What is China's first national-level student aid program specifically for students in compulsory education in impoverished rural areas?",
+    "answer": "Two exemptions and one subsidy",
+    "ID": 71
+  },
+  {
+    "id": 72,
+    "question": "Which Chinese plan aims to use internet technology to promote the sharing of high-quality educational resources among rural primary and secondary schools and narrow the urban-rural gap?",
+    "answer": "Three Connections and Two Platforms",
+    "ID": 72
+  },
+  {
+    "id": 73,
+    "question": "In which year was China's National Healthcare Security Administration officially established, marking the beginning of a new journey to fully build a healthcare security system with Chinese characteristics?",
+    "answer": 2018,
+    "ID": 73
+  },
+  {
+    "id": 74,
+    "question": "In which year was the \"right to residence\" first written into the Constitution of China?",
+    "answer": 1954,
+    "ID": 74
+  },
+  {
+    "id": 75,
+    "question": "Which Chinese city was the first to implement the housing provident fund system?",
+    "answer": "Shanghai",
+    "ID": 75
+  },
+  {
+    "id": 76,
+    "question": "\"No employer may dismiss a female employee or unilaterally terminate her contract on the grounds of marriage, pregnancy, maternity leave, or breastfeeding.\" From which law does this provision come?",
+    "answer": "Labor Contract Law of the People's Republic of China",
+    "ID": 76
+  },
+  {
+    "id": 77,
+    "question": "Which Chinese legal document was the first to explicitly prohibit gender discrimination in college admissions?",
+    "answer": "Education Law of the People's Republic of China",
+    "ID": 77
+  },
+  {
+    "id": 78,
+    "question": "Who is known as \"the first female professor in Chinese history\"?",
+    "answer": "Chen Hengzhe",
+    "ID": 78
+  },
+  {
+    "id": 79,
+    "question": "Which was the first institution of higher learning in China to allow women to study?",
+    "answer": "Beijing Women's Higher Normal School",
+    "ID": 79
+  },
+  {
+    "id": 80,
+    "question": "Which woman was the first female general in the Chinese People's Liberation Army?",
+    "answer": "Li Zhen",
+    "ID": 80
+  },
+  {
+    "id": 81,
+    "question": "Who was China's first female athlete to win an Olympic gold medal?",
+    "answer": "Wu Xiaoxuan",
+    "ID": 81
+  },
+  {
+    "id": 82,
+    "question": "What was the first law in China that explicitly prohibited workplace sexual harassment?",
+    "answer": "Law of the People's Republic of China on the Protection of Women's Rights and Interests",
+    "ID": 82
+  },
+  {
+    "id": 83,
+    "question": "What is the specific article number in China's \"Labor Law\" that addresses employment discrimination against women?",
+    "answer": "Article 12",
+    "ID": 83
+  },
+  {
+    "id": 84,
+    "question": "In what year did China accede to the United Nations Convention on Biological Diversity in order to protect the biological resources of all ethnic groups?",
+    "answer": 1993,
+    "ID": 84
+  },
+  {
+    "id": 85,
+    "question": "According to the Criminal Law of the People's Republic of China, what is the maximum sentence for illegally depriving citizens of their freedom of religious belief or infringing upon the customs and habits of ethnic minorities?",
+    "answer": "Two years",
+    "ID": 85
+  },
+  {
+    "id": 86,
+    "question": "According to the Criminal Law of the People's Republic of China, what is the maximum sentence for inciting ethnic hatred or discrimination?",
+    "answer": "ten years",
+    "ID": 86
+  },
+  {
+    "id": 87,
+    "question": "In Chinese law, from which legal document is the specific definition of illegal proselytizing behavior derived?",
+    "answer": "Regulations on Religious Affairs",
+    "ID": 87
+  },
+  {
+    "id": 88,
+    "question": "What are the names of the higher education institutions sponsored by the China Taoist Association?",
+    "answer": "China Taoist College",
+    "ID": 88
+  },
+  {
+    "id": 89,
+    "question": "From which ancient book does the idiom \"dog relying on its master's power\" first appear?",
+    "answer": "The Story of the Precious Sword",
+    "ID": 89
+  },
+  {
+    "id": 90,
+    "question": "The idiom \"honeyed words and a dagger in the heart\" originates from the story of which historical figure?",
+    "answer": "Li Linfu",
+    "ID": 90
+  },
+  {
+    "id": 91,
+    "question": "In the ancient Chinese insult \"shortsighted as a rat,\" what animal's eyesight does \"shortsighted\" refer to?",
+    "answer": "mouse",
+    "ID": 91
+  },
+  {
+    "id": 92,
+    "question": "What is the maximum penalty for inciting subversion of state power under China's Criminal Law?",
+    "answer": "life imprisonment",
+    "ID": 92
+  },
+  {
+    "id": 93,
+    "question": "According to the \"Regulations on Work-Related Injury Insurance,\" if an employee dies on the job, his or her immediate family members can receive a death benefit equivalent to how many months of the local average monthly wage of employees in the previous year?",
+    "answer": "6 months",
+    "ID": 93
+  },
+  {
+    "id": 94,
+    "question": "In what year did China first confirm the elimination of malaria as an endemic disease?",
+    "answer": 2021,
+    "ID": 94
+  },
+  {
+    "id": 95,
+    "question": "Which company was the first in China to receive prequalification from the World Health Organization?",
+    "answer": "Chengdu Institute of Biological Products",
+    "ID": 95
+  },
+  {
+    "id": 96,
+    "question": "According to the \"Healthy China Action\", what should be the BMI range for adults?",
+    "answer": "18.5-23.9",
+    "ID": 96
+  },
+  {
+    "id": 97,
+    "question": "Who founded the first psychology laboratory in China?",
+    "answer": "Cai Yuanpei",
+    "ID": 97
+  },
+  {
+    "id": 98,
+    "question": "What was the first comprehensive environmental quality standard promulgated in China?",
+    "answer": "Trial Standards for Industrial Waste Discharge",
+    "ID": 98
+  },
+  {
+    "id": 99,
+    "question": "What was the first environmental protection law promulgated in China?",
+    "answer": "Environmental Protection Law (Trial Implementation)",
+    "ID": 99
+  },
+  {
+    "id": 100,
+    "question": "Which was the first environmental protection regulation issued in China?",
+    "answer": "Environmental Protection Law of the People's Republic of China",
+    "ID": 100
+  },
+  {
+    "id": 101,
+    "question": "In what year was China's first environmental protection agency—the Environmental Protection Leading Group—established?",
+    "answer": 1974,
+    "ID": 101
+  },
+  {
+    "id": 102,
+    "question": "In what year did China first enshrine environmental protection in its constitution?",
+    "answer": 1978,
+    "ID": 102
+  },
+  {
+    "id": 103,
+    "question": "In which year did China first adopt environmental protection as a basic national policy?",
+    "answer": 1983,
+    "ID": 103
+  },
+  {
+    "id": 104,
+    "question": "In which year did China establish \"sustainable development\" as a fundamental national strategy?",
+    "answer": 1995,
+    "ID": 104
+  },
+  {
+    "id": 105,
+    "question": "In what year did China formally propose a nature reserve system with national parks as the main body?",
+    "answer": 2019,
+    "ID": 105
+  },
+  {
+    "id": 106,
+    "question": "In which year was the \"Regulations on the Administration of Pollutant Discharge Permits\" passed?",
+    "answer": 2020,
+    "ID": 106
+  },
+  {
+    "id": 107,
+    "question": "What are the colors in the two-color labeling system for Chinese environmental labels?",
+    "answer": "Green and yellow",
+    "ID": 107
+  },
+  {
+    "id": 108,
+    "question": "At which National Congress did China first include the concept of \"lucid waters and lush mountains are invaluable assets\" in its Party report?",
+    "answer": "The 19th National Congress of the Communist Party of China",
+    "ID": 108
+  },
+  {
+    "id": 109,
+    "question": "Which is the first national-level marine special protection zone approved in China?",
+    "answer": "Ximen Island Marine Special Protection Area, Yueqing, Zhejiang",
+    "ID": 109
+  },
+  {
+    "id": 110,
+    "question": "At which Party Congress did China first incorporate \"ecological civilization\" into its Party Constitution?",
+    "answer": "The 18th National Congress of the Communist Party of China",
+    "ID": 110
+  },
+  {
+    "id": 111,
+    "question": "What was the year China first issued government bonds?",
+    "answer": 1949,
+    "ID": 111
+  },
+  {
+    "id": 112,
+    "question": "When was the China Banking Association established?",
+    "answer": 2000,
+    "ID": 112
+  },
+  {
+    "id": 113,
+    "question": "In what year was the China Internet Finance Association established?",
+    "answer": 2016,
+    "ID": 113
+  },
+  {
+    "id": 114,
+    "question": "In which year was China's first pilot document for the regulation of financial holding companies released?",
+    "answer": 2020,
+    "ID": 114
+  },
+  {
+    "id": 115,
+    "question": "Which was the first state-owned commercial bank established by the Chinese government?",
+    "answer": "Bank of Communications",
+    "ID": 115
+  },
+  {
+    "id": 116,
+    "question": "Which was the first foreign bank in China?",
+    "answer": "Oriental Bank",
+    "ID": 116
+  },
+  {
+    "id": 117,
+    "question": "According to Article 8 of the \"Interim Measures for Supervision and Management of Telecommunications Service Quality,\" what are the inspection and evaluation methods conducted by telecommunications regulatory authorities on the service quality of telecommunications business operators?",
+    "answer": "Random spot checks",
+    "ID": 117
+  },
+  {
+    "id": 118,
+    "question": "According to the \"Telecommunications Service Standards\", how many hours in advance should a telecommunications business operator notify users before suspending or ceasing services?",
+    "answer": "24 hours",
+    "ID": 118
+  },
+  {
+    "id": 119,
+    "question": "According to Article 3 of the \"Interim Measures for the Supervision and Management of Telecommunications Service Quality\", which department supervises and manages the quality of telecommunications services provided by telecommunications business operators in accordance with relevant national laws and administrative regulations?",
+    "answer": "Ministry of Industry and Information Technology",
+    "ID": 119
+  },
+  {
+    "id": 120,
+    "question": "According to the \"Interim Measures for Supervision and Management of Telecommunications Service Quality\", what penalties will telecommunications business operators be subject to for failing to report their self-inspection results on time?",
+    "answer": "Warning",
+    "ID": 120
+  },
+  {
+    "id": 121,
+    "question": "According to the \"Interim Measures for Supervision and Management of Telecommunications Service Quality\", who is responsible for the service quality of telecommunications services handled by agents?",
+    "answer": "Entrusted telecommunications business operators",
+    "ID": 121
+  },
+  {
+    "id": 122,
+    "question": "What is the key exchange algorithm used for forward secrecy in TLS 1.3?",
+    "answer": "ECDHE",
+    "ID": 122
+  },
+  {
+    "id": 123,
+    "question": "For the first time, China's Copyright Law stipulated that works could be pledged.",
+    "answer": 2010,
+    "ID": 123
+  },
+  {
+    "id": 124,
+    "question": "In China, to which entity owns land?",
+    "answer": "State and farmers' collective",
+    "ID": 124
+  },
+  {
+    "id": 125,
+    "question": "What is the minimum sentence of imprisonment for the crime of illegally obtaining data from a computer information system or illegally controlling a computer information system, as stipulated by current laws of the People's Republic of China?",
+    "answer": "Three years",
+    "ID": 125
+  },
+  {
+    "id": 126,
+    "question": "In China, what is the maximum prison sentence for the crime of infringing trade secrets?",
+    "answer": "ten years",
+    "ID": 126
+  },
+  {
+    "id": 127,
+    "question": "In China's first right to be forgotten lawsuit, the court ruled that the search engine company must remove search links that violated personal privacy. In which year did this case occur?",
+    "answer": 2015,
+    "ID": 127
+  },
+  {
+    "id": 128,
+    "question": "In Chinese law, which year first explicitly specified the specific circumstances for \"invalid contracts\"?",
+    "answer": 1981,
+    "ID": 128
+  },
+  {
+    "id": 129,
+    "question": "According to China's Patent Law, within how many months after filing an application should a request for examination of an invention patent be submitted?",
+    "answer": "Within three years from the date of application",
+    "ID": 129
+  },
+  {
+    "id": 130,
+    "question": "What year did China sign the Convention against Illicit Traffic in Narcotic Drugs and Psychotropic Substances?",
+    "answer": 1988,
+    "ID": 130
+  },
+  {
+    "id": 131,
+    "question": "In China, the most severe penalty for illegal drug trafficking is life imprisonment or the death penalty. From which law does this provision originate?",
+    "answer": "Criminal Law of the People's Republic of China",
+    "ID": 131
+  },
+  {
+    "id": 132,
+    "question": "In what year was China's first law specifically targeting illegal fundraising promulgated?",
+    "answer": 2021,
+    "ID": 132
+  },
+  {
+    "id": 133,
+    "question": "In what year did China first send an international rescue team abroad?",
+    "answer": 2003,
+    "ID": 133
+  },
+  {
+    "id": 134,
+    "question": "In which year was the 'Blue Sky Rescue Team', the first volunteer organization in the People's Republic of China specifically dedicated to earthquake rescue, established?",
+    "answer": 2007,
+    "ID": 134
+  },
+  {
+    "id": 135,
+    "question": "The year that the China International Search and Rescue Team received the highest level of UN certification was",
+    "answer": 2009,
+    "ID": 135
+  },
+  {
+    "id": 136,
+    "question": "In which country did China first send an international rescue team to carry out its mission?",
+    "answer": "Algeria",
+    "ID": 136
+  },
+  {
+    "id": 137,
+    "question": "In the 2018 incident where a youth soccer team from Chiang Rai province, Thailand, was trapped in a cave, which province did the first Chinese rescue team originate from?",
+    "answer": "Beijing",
+    "ID": 137
+  },
+  {
+    "id": 138,
+    "question": "Following the 2022 China Eastern Airlines MU5735 crash, which province did the first professional search and rescue team to arrive at the scene come from?",
+    "answer": "Guangxi",
+    "ID": 138
+  },
+  {
+    "id": 139,
+    "question": "After the 1976 Tangshan earthquake, which was the first PLA unit to arrive in the disaster area?",
+    "answer": "18th Company, 17th Regiment, 4th Railway Engineer Division of the PLA",
+    "ID": 139
+  },
+  {
+    "id": 140,
+    "question": "After the 2019 Jiangsu Xiangshui chemical plant explosion, which city's professional hazardous chemical disposal team was the first to arrive at the scene?",
+    "answer": "Nanjing",
+    "ID": 140
+  },
+  {
+    "id": 141,
+    "question": "During the 2008 Wenchuan earthquake rescue operations, what was the model of the domestically produced large-scale rescue helicopter that China used for the first time on a large scale?",
+    "answer": "Z-8",
+    "ID": 141
+  },
+  {
+    "id": 142,
+    "question": "After the 2010 Yushu earthquake, which department did the first rescue plane to arrive at Yushu Airport belong to?",
+    "answer": "Chinese People's Liberation Army Air Force",
+    "ID": 142
+  },
+  {
+    "id": 143,
+    "question": "A rumor about \"boiled eggs reverting to raw\" circulated in a certain year, causing public uproar. In which year did this rumor emerge?",
+    "answer": 2021,
+    "ID": 143
+  },
+  {
+    "id": 144,
+    "question": "Which city in Sichuan Province experienced a major mudslide disaster in August 2019?",
+    "answer": "Wenchuan County, Aba Tibetan and Qiang Autonomous Prefecture",
+    "ID": 144
+  },
+  {
+    "id": 145,
+    "question": "On July 10, 2013, which city in Sichuan Province experienced a landslide due to an extreme rainstorm disaster?",
+    "answer": "Dujiangyan City",
+    "ID": 145
+  },
+  {
+    "id": 146,
+    "question": "In the 2005 Songhua River water pollution incident, which Chinese official notified Russia about the pollution situation on November 26?",
+    "answer": "Li Zhaoxing",
+    "ID": 146
+  },
+  {
+    "id": 147,
+    "question": "In November 2014, which city in Guizhou Province, China experienced a severe coal mine gas explosion accident?",
+    "answer": "Liupanshui City",
+    "ID": 147
+  },
+  {
+    "id": 148,
+    "question": "After the 2011 Wenzhou high-speed rail accident, who was the first railway bureau director to be dismissed?",
+    "answer": "Longjing",
+    "ID": 148
+  },
+  {
+    "id": 149,
+    "question": "Which African country was involved in the \"plastic rice\" rumor circulating on social media in 2016?",
+    "answer": "Nigeria",
+    "ID": 149
+  },
+  {
+    "id": 150,
+    "question": "After the 2008 Wenchuan earthquake, which foreign rescue team was the first to arrive in the disaster area?",
+    "answer": "Japan",
+    "ID": 150
+  },
+  {
+    "id": 151,
+    "question": "On May 22, 2017, which food was involved in the rumor that \"floss is made of cotton\"?",
+    "answer": "Pork floss cake",
+    "ID": 151
+  },
+  {
+    "id": 152,
+    "question": "In 2016, there was a rumor that \"a certain brand of mobile phone batteries could explode.\" Which phone brand was it?",
+    "answer": "Samsung",
+    "ID": 152
+  },
+  {
+    "id": 153,
+    "question": "Which city in Zhejiang Province avoided casualties in hazardous areas through flash flood disaster warnings on July 23, 2021?",
+    "answer": "Shaoxing City",
+    "ID": 153
+  },
+  {
+    "id": 154,
+    "question": "Which brand was implicated in the rumor that \"a certain brand of infant formula caused precocious puberty in babies\"?",
+    "answer": "Shengyuan",
+    "ID": 154
+  },
+  {
+    "id": 155,
+    "question": "Which fire brigade was the first to arrive at the scene of the 2015 Tianjin Port explosion?",
+    "answer": "Tianjin Port Public Security Bureau Fire Brigade No. 4",
+    "ID": 155
+  },
+  {
+    "id": 156,
+    "question": "Which hospital in Wuhan, Hubei Province became the focal point of the COVID-19 outbreak in 2020?",
+    "answer": "Wuhan Jinyintan Hospital",
+    "ID": 156
+  },
+  {
+    "id": 157,
+    "question": "The rumor that \"pangolins are entirely poisonous and inedible\" is circulating, but in reality, what level of protected animal is the pangolin in China?",
+    "answer": "Level 1",
+    "ID": 157
+  },
+  {
+    "id": 158,
+    "question": "On what specific date did China first report cases of pneumonia of unknown cause to the World Health Organization during the early stages of the COVID-19 pandemic?",
+    "answer": 43830,
+    "ID": 158
+  },
+  {
+    "id": 159,
+    "question": "During the COVID-19 pandemic, on what specific date did China first explicitly include asymptomatic carriers of the novel coronavirus in its prevention and control management?",
+    "answer": 43858,
+    "ID": 159
+  },
+  {
+    "id": 160,
+    "question": "During the COVID-19 pandemic, on which date did the Disease Prevention and Control Bureau of China's National Health Commission first issue the mask usage guidelines?",
+    "answer": 43860,
+    "ID": 160
+  },
+  {
+    "id": 161,
+    "question": "What was the specific date when the COVID-19 vaccine CoronaVac was first approved for emergency use in China?",
+    "answer": 44006,
+    "ID": 161
+  },
+  {
+    "id": 162,
+    "question": "As of 21:00 on January 25, 2020, how many provinces in China had activated a Level 1 public health emergency response due to the COVID-19 pandemic?",
+    "answer": 26,
+    "ID": 162
+  },
+  {
+    "id": 163,
+    "question": "Who was identified as China's first reported case and also the world's first SARS patient in 2003?",
+    "answer": "Huang Xingchu",
+    "ID": 163
+  },
+  {
+    "id": 164,
+    "question": "During the \"Black Death\" period in medieval Europe, which animal was mistakenly believed to be the spreader of the plague, leading to mass killings?",
+    "answer": "cat",
+    "ID": 164
+  },
+  {
+    "id": 165,
+    "question": "Which African country was the first to report an Ebola virus outbreak?",
+    "answer": "Sudan",
+    "ID": 165
+  },
+  {
+    "id": 166,
+    "question": "During the 2003 SARS outbreak, which hotel did the Hong Kong doctor known as the \"super-spreader\" stay at, leading to the global spread of the epidemic?",
+    "answer": "Hong Kong Jinghua International Hotel",
+    "ID": 166
+  },
+  {
+    "id": 167,
+    "question": "What order does the pathogen of malaria belong to?",
+    "answer": "Haemosporidians",
+    "ID": 167
+  },
+  {
+    "id": 168,
+    "question": "Which institution developed the world's first COVID-19 vaccine to initiate Phase II clinical trials?",
+    "answer": "Military Medical Research Institute of the Academy of Military Sciences of China",
+    "ID": 168
+  },
+  {
+    "id": 169,
+    "question": "Which company developed China's first approved COVID-19 vaccine?",
+    "answer": "China National Pharmaceutical Group Corporation",
+    "ID": 169
+  },
+  {
+    "id": 170,
+    "question": "Which animal is considered the natural host of the coronavirus that causes SARS?",
+    "answer": "Chinese rufous horseshoe bat",
+    "ID": 170
+  },
+  {
+    "id": 171,
+    "question": "During the COVID-19 pandemic, which Chinese doctor clearly identified that the novel coronavirus could spread from person to person?",
+    "answer": "Zhong Nanshan",
+    "ID": 171
+  },
+  {
+    "id": 172,
+    "question": "From January to July 2019, how many fire hotspots were recorded in the Amazon rainforest in total?",
+    "answer": 15924,
+    "ID": 172
+  },
+  {
+    "id": 173,
+    "question": "As of 14:00 on April 14, 2010, how many aftershocks had occurred in Yushu County, Qinghai?",
+    "answer": 18,
+    "ID": 173
+  },
+  {
+    "id": 174,
+    "question": "As of January 26, 2010, what was the official death toll of the Haiti earthquake?",
+    "answer": "222,500 people",
+    "ID": 174
+  },
+  {
+    "id": 175,
+    "question": "What was the official magnitude of the September 7, 2012 Zhaotong earthquake in Yunnan?",
+    "answer": "Level 5.7",
+    "ID": 175
+  },
+  {
+    "id": 176,
+    "question": "What was the official magnitude of the April 15, 2017 Chile earthquake?",
+    "answer": "Level 6.3",
+    "ID": 176
+  },
+  {
+    "id": 177,
+    "question": "What was the official magnitude of the Chile earthquake on April 25, 2017, Beijing time?",
+    "answer": "Level 6.9",
+    "ID": 177
+  },
+  {
+    "id": 178,
+    "question": "As of August 18, 2019, how many fires have occurred in the Amazon rainforest in 2019?",
+    "answer": 72000,
+    "ID": 178
+  },
+  {
+    "id": 179,
+    "question": "From May 12, 2008, at 14:28 to May 6, 2011, at 12:00, how many aftershocks with a magnitude of 6.0 or higher occurred following the Wenchuan earthquake?",
+    "answer": 8,
+    "ID": 179
+  },
+  {
+    "id": 180,
+    "question": "In 2013, rumors about a strong earthquake occurring in Hainan caused panic. Which government department debunked this rumor?",
+    "answer": "Hainan Provincial Government",
+    "ID": 180
+  },
+  {
+    "id": 181,
+    "question": "\"Gather them till full is your hand; They would revive fond memories.\" Who is the author of this ancient Chinese poet?",
+    "answer": "Wang Wei",
+    "ID": 181
+  },
+  {
+    "id": 182,
+    "question": "\"I look for what I miss, I know not what it is,I feel so sad, so drear, so lonely, without cheer.\"Who is the author of this ancient Chinese poet?",
+    "answer": "Li Qingzhao",
+    "ID": 182
+  },
+  {
+    "id": 183,
+    "question": "\"The boundless forest sheds its leaves shower by shower;The endless river rolls its waves hour after hour.\"Who is the author of this ancient Chinese poet?",
+    "answer": "Du Fu",
+    "ID": 183
+  },
+  {
+    "id": 184,
+    "question": "\"If love between both sides can last for aye，Why need they stay together night and day?\"Who is the author of this ancient Chinese poet?",
+    "answer": "Qin Guan",
+    "ID": 184
+  },
+  {
+    "id": 185,
+    "question": "\"With flowers fallen on the waves spring's gone away,so has the paradise of yesterday.\"Who is the author of this ancient Chinese poet?",
+    "answer": "Li Yu",
+    "ID": 185
+  },
+  {
+    "id": 186,
+    "question": "\"Who knows that the meals in our plates,every morsel of them comes with toil and pains.\"Who is the author of this ancient Chinese poet?",
+    "answer": "Li Shen",
+    "ID": 186
+  },
+  {
+    "id": 187,
+    "question": "\"Seen from afar I know it is not snow，for a hint of the fragrance to come\"Who is the author of this ancient Chinese poet?",
+    "answer": "Wang Anshi",
+    "ID": 187
+  },
+  {
+    "id": 188,
+    "question": "\"Just somewhere in this mountain here,but deep clouds set me wondering where.\"Who is the author of this ancient Chinese poet?",
+    "answer": "Jia Dao",
+    "ID": 188
+  }
+]
