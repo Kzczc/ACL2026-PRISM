@@ -1,0 +1,132 @@
+# Model registry for scripts/run_inference.py and scripts/run_evaluation.py.
+#
+# No API key, endpoint, or local model path is stored in this repository: values of the form
+# ${NAME} or ${NAME:-default} are read from environment variables (see .env.example).
+# The default served-model names are the ones used in our experiments through an
+# OpenAI-compatible gateway; set the corresponding variable when your provider uses another name.
+
+defaults: &defaults
+  base_url: ${PRISM_API_BASE:-}
+  api_key_env: PRISM_API_KEY
+  max_tokens: 16384
+  max_workers: 20
+  max_retries: 3
+  timeout: 300
+  supports_top_p: true
+  strip_reasoning: true
+
+# Appendix J of the paper: GPT-4o judges the open-ended tasks and semantic matching.
+judge:
+  <<: *defaults
+  model: ${JUDGE_MODEL:-gpt-4o-2024-11-20}
+  base_url: ${JUDGE_API_BASE:-}
+  api_key_env: JUDGE_API_KEY
+  max_tokens: 1024
+
+models:
+  gpt-5.2:
+    <<: *defaults
+    display_name: GPT-5.2
+    model: ${GPT_5_2_MODEL:-gpt-5.2}
+  gpt-5.1:
+    <<: *defaults
+    display_name: GPT-5.1
+    model: ${GPT_5_1_MODEL:-gpt-5.1}
+  gpt-4o:
+    <<: *defaults
+    display_name: GPT-4o-20241120
+    model: ${GPT_4O_MODEL:-gpt-4o-2024-11-20}
+  gemini-3-pro:
+    <<: *defaults
+    display_name: Gemini-3-Pro
+    model: ${GEMINI_3_PRO_MODEL:-gemini-3-pro-preview}
+  gemini-3-flash:
+    <<: *defaults
+    display_name: Gemini-3-Flash
+    model: ${GEMINI_3_FLASH_MODEL:-gemini-3-flash-preview}
+  gemini-2.5-pro:
+    <<: *defaults
+    display_name: Gemini-2.5-Pro
+    model: ${GEMINI_2_5_PRO_MODEL:-gemini-2.5-pro}
+  gemini-2.5-flash:
+    <<: *defaults
+    display_name: Gemini-2.5-Flash
+    model: ${GEMINI_2_5_FLASH_MODEL:-gemini-2.5-flash}
+  claude-opus-4.5:
+    <<: *defaults
+    display_name: Claude-Opus-4.5
+    model: ${CLAUDE_OPUS_MODEL:-claude-opus-4-5-20251101}
+    supports_top_p: false
+  claude-sonnet-4.5:
+    <<: *defaults
+    display_name: Claude-Sonnet-4.5
+    model: ${CLAUDE_SONNET_MODEL:-claude-sonnet-4-5-20250929}
+    supports_top_p: false
+  claude-haiku-4.5:
+    <<: *defaults
+    display_name: Claude-Haiku-4.5
+    model: ${CLAUDE_HAIKU_MODEL:-claude-haiku-4-5-20251001}
+    supports_top_p: false
+  grok-4.1:
+    <<: *defaults
+    display_name: Grok-4.1
+    model: ${GROK_4_1_MODEL:-grok-4.1}
+  grok-4-0709:
+    <<: *defaults
+    display_name: Grok-4-0709
+    model: ${GROK_4_MODEL:-grok-4-0709}
+  deepseek-v3.2:
+    <<: *defaults
+    display_name: DeepSeek-V3.2
+    model: ${DEEPSEEK_CHAT_MODEL:-deepseek-chat}
+    base_url: ${DEEPSEEK_API_BASE:-https://api.deepseek.com}
+    api_key_env: DEEPSEEK_API_KEY
+  deepseek-r1:
+    <<: *defaults
+    display_name: DeepSeek-R1
+    model: ${DEEPSEEK_REASONER_MODEL:-deepseek-reasoner}
+    base_url: ${DEEPSEEK_API_BASE:-https://api.deepseek.com}
+    api_key_env: DEEPSEEK_API_KEY
+  deepseek-r1-distill-32b:
+    <<: *defaults
+    display_name: DeepSeek-R1-Distill-32B
+    # Served locally, e.g. vllm serve $LOCAL_MODEL_PATH --served-model-name DeepSeek-R1-Distill-Qwen-32B
+    model: ${LOCAL_SERVED_MODEL:-DeepSeek-R1-Distill-Qwen-32B}
+    base_url: ${VLLM_API_BASE:-http://localhost:8000/v1}
+    api_key_env: VLLM_API_KEY
+  qwen3-235b:
+    <<: *defaults
+    display_name: Qwen3-235B-Instruct
+    model: ${QWEN3_235B_MODEL:-qwen3-235b-a22b-instruct-2507}
+  qwen2.5-72b:
+    <<: *defaults
+    display_name: Qwen2.5-72B-Instruct
+    model: ${QWEN2_5_72B_MODEL:-qwen2.5-72b-instruct}
+  glm-4.5:
+    <<: *defaults
+    display_name: GLM-4.5
+    model: ${GLM_4_5_MODEL:-glm-4.5}
+  glm-4:
+    <<: *defaults
+    display_name: GLM-4
+    model: ${GLM_4_MODEL:-glm-4-flash}
+  llama-4-scout:
+    <<: *defaults
+    display_name: Llama-4-Scout
+    model: ${LLAMA_4_SCOUT_MODEL:-llama-4-scout}
+  llama-3.3-70b:
+    <<: *defaults
+    display_name: Llama-3.3-70B-Instruct
+    model: ${LLAMA_3_3_70B_MODEL:-llama-3.3-70b-instruct}
+  llama-3.1-8b:
+    <<: *defaults
+    display_name: Llama-3.1-8B-Instruct
+    model: ${LLAMA_3_1_8B_MODEL:-llama-3.1-8b-instruct}
+  llama-3-70b:
+    <<: *defaults
+    display_name: Llama-3-70B-8192
+    model: ${LLAMA_3_70B_MODEL:-llama3-70b-8192}
+  llama-3-8b:
+    <<: *defaults
+    display_name: Llama-3-8B-Instruct
+    model: ${LLAMA_3_8B_MODEL:-llama-3-8b-instruct}
