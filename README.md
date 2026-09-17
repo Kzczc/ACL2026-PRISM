@@ -14,6 +14,7 @@ Yujie Chen<sup>4</sup>, Jiaming Shang<sup>5</sup>, Guang Zhang<sup>1,†</sup>, 
 [![Website](https://img.shields.io/badge/Website-acl--prism.cc-1f6feb)](https://acl-prism.cc/)
 [![Benchmark](https://img.shields.io/badge/Benchmark-9%2C448%20items-ff0080)](data/README.md)
 [![Code License](https://img.shields.io/badge/Code-MIT-2ea44f)](LICENSE)
+[![Data License](https://img.shields.io/badge/Data-CC%20BY--NC%204.0-lightgrey)](DATA_LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776ab)](pyproject.toml)
 
 </div>
@@ -28,7 +29,8 @@ Yujie Chen<sup>4</sup>, Jiaming Shang<sup>5</sup>, Guang Zhang<sup>1,†</sup>, 
 ## News
 
 - **2026-09**: The benchmark, the evaluation code, and the prompts are released.
-- **2026-07**: PRISM is presented at ACL 2026 (Main Conference).
+- **2026-07**: The paper appears in the ACL 2026 proceedings (Main Conference).
+- **2026-04**: PRISM is accepted to ACL 2026 (Main Conference) and the preprint is posted on arXiv.
 
 ## Contents
 
@@ -82,6 +84,10 @@ reasoning, showing that mitigation strategies often improve specific dimensions 
 
 <p align="center">
   <img src="assets/data_distribution.png" width="94%" alt="Distribution of the 65 PRISM sub-tasks">
+</p>
+
+<p align="center">
+  <img src="assets/construction_pipeline.png" width="94%" alt="The three-phase construction pipeline of PRISM">
 </p>
 
 The corpus is filtered from 33,334 candidates through cleaning, a four-agent construction stage
@@ -222,7 +228,7 @@ reasoning SFT repairs mathematics while degrading the other three dimensions.
 with RE and least with IFE, so a single hallucination score hides the trade-offs.
 
 <p align="center">
-  <img src="assets/dimension_correlation.png" width="42%" alt="Spearman correlation of model rankings across the four dimensions">
+  <img src="assets/dimension_correlation.png" width="46%" alt="Spearman correlation of model rankings across the four dimensions">
 </p>
 
 ### Reproducing the reported numbers
@@ -241,6 +247,7 @@ sub-tasks, IFE-LC, and IFE-LgC. Three groups differ by construction:
 
 ```text
 ACL2026-PRISM/
+├── assets/                     # the figures of the paper used in this README
 ├── data/                       # the benchmark: 65 JSONL files, tasks.json, and the data card
 ├── prompts/
 │   ├── tasks/                  # the prompt of every sub-task
@@ -276,9 +283,9 @@ ACL2026-PRISM/
 
 ## License
 
-The code is released under the [MIT License](LICENSE). The PRISM annotations are released for
-non-commercial research use; sub-tasks derived from public datasets remain under the licenses of those
-datasets, as described in the [data card](data/README.md).
+The code is released under the [MIT License](LICENSE) and the PRISM annotations under
+[CC BY-NC 4.0](DATA_LICENSE). Sub-tasks derived from public datasets remain subject to the licenses of
+those datasets; see the [data card](data/README.md).
 
 ## Contact
 

@@ -129,6 +129,7 @@ over its sub-tasks, and the H-Score is the mean of the four dimension rates.
 
 ## License
 
-The PRISM annotations are released for non-commercial research use. Sub-tasks derived from public
-datasets remain under the licenses of those datasets; please consult the original sources before
-redistribution. The code in this repository is under the MIT License.
+The PRISM annotations are licensed under [CC BY-NC 4.0](../DATA_LICENSE): share and adapt them for
+non-commercial purposes with attribution. Sub-tasks derived from public datasets remain subject to the
+licenses of those datasets, so consult the original sources before redistribution. The code in this
+repository is under the [MIT License](../LICENSE).
