@@ -9,10 +9,12 @@ description = "PRISM: Probing Reasoning, Instruction, and Source Memory in LLM H
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
-dependencies = ["openai>=1.40", "pyyaml>=6.0", "langdetect>=1.0.9"]
+dependencies = ["openai>=1.40", "pyyaml>=6.0", "langdetect>=1.0.9", "numpy>=1.24"]
 
 [project.optional-dependencies]
 dev = ["pytest>=7.0"]
+train = ["torch>=2.1", "transformers>=4.44", "peft>=0.11", "datasets>=2.19", "accelerate>=0.30"]
+analysis = ["torch>=2.1", "transformers>=4.44", "matplotlib>=3.7"]
 
 [tool.setuptools.packages.find]
 include = ["prism*"]

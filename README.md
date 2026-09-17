@@ -160,6 +160,33 @@ python scripts/make_tables.py --models gpt-4o deepseek-v3.2 --report reports/res
 as `outputs/<name>/responses/<task id>.jsonl` with one `{"id": ..., "response": ...}` per line and run
 step 2.
 
+## Mitigation and internal states
+
+These two scripts cover the discussion section: the fine-tuning used for the mitigation comparison and
+the measurements behind the attention analysis. Both run on a local model
+(`pip install -e ".[train,analysis]"`).
+
+**LoRA fine-tuning on a reasoning dataset.** The adapter is merged into the base weights, so the result
+is served and evaluated like any other model.
+
+```bash
+python scripts/train_reasoning_lora.py --base-model "$SFT_BASE_MODEL" \
+    --output-dir runs/llama31-8b-reasoning --merge
+vllm serve runs/llama31-8b-reasoning/merged --served-model-name llama-3.1-8b-reasoning --port 8000
+LOCAL_SERVED_MODEL=llama-3.1-8b-reasoning python scripts/run_inference.py --model deepseek-r1-distill-32b
+```
+
+**Internal states.** For every response the script counts the MLP neurons that fire, measures how
+concentrated the attention distributions are (`1 - H(a)/log n`), and estimates the FLOPs of the forward
+pass, then reports the means for refusals and for ordinary answers.
+
+```bash
+python scripts/analyze_internals.py --model-path "$LOCAL_MODEL_PATH" --tasks IFE --limit 50 \
+    --report reports/internals.json
+python scripts/analyze_internals.py --model-path "$LOCAL_MODEL_PATH" \
+    --attention-map KE-EIC-SelfBuilt-0001 KM-TK-Numeric-0001 --output-dir reports/attention
+```
+
 ## Prompts
 
 `prompts/tasks/` holds one prompt per sub-category (three separate ones for KE-EIC and one per RE
@@ -260,8 +287,10 @@ ACL2026-PRISM/
 │   ├── sampling.py             # sampling parameters per dimension
 │   ├── judge.py                # LLM judge (GPT-4o by default)
 │   ├── evaluators/             # rule-based and judge-based scoring, IFEval checks
-│   └── metrics.py              # S, per-dimension H, H-Score
-├── scripts/                    # list_tasks, run_inference, run_evaluation, make_tables
+│   ├── metrics.py              # S, per-dimension H, H-Score
+│   └── internals.py            # active neurons, attention concentration, FLOPs, refusal detection
+├── scripts/                    # list_tasks, run_inference, run_evaluation, make_tables,
+│                               # train_reasoning_lora, analyze_internals
 ├── tests/                      # unit tests, including a check that the aggregation reproduces Table 2
 ├── configs/models.yaml         # 24 models and the judge; values come from environment variables
 └── .env.example
