@@ -1,13 +1,39 @@
 <div align="center">
 
-# PRISM: Probing Reasoning, Instruction, and Source Memory in LLM Hallucinations
+<img src="assets/prism-light.png#gh-light-mode-only" width="92" alt="PRISM"/>
+<img src="assets/prism-dark.png#gh-dark-mode-only" width="92" alt="PRISM"/>
+
+# PRISM
+
+**P**robing **R**easoning, **I**nstruction, and **S**ource **M**emory<br>
+in LLM Hallucinations
 
 Yuhe Wu<sup>1</sup>, Guangyu Wang<sup>2,3</sup>, Yuran Chen<sup>3</sup>, Jiatong Zhang<sup>3</sup>, Yutong Zhang<sup>3</sup>,<br>
 Yujie Chen<sup>4</sup>, Jiaming Shang<sup>5</sup>, Guang Zhang<sup>1,†</sup>, Zhuang Liu<sup>3,†</sup>
 
-<sup>1</sup>HKUST(GZ) &nbsp; <sup>2</sup>NYU Shanghai &nbsp; <sup>3</sup>DUFE &nbsp; <sup>4</sup>CUHK(SZ) &nbsp; <sup>5</sup>CUFE
+<p>
+  <a href="https://www.hkust-gz.edu.cn/"><img src="assets/logos/hkust-gz.png" height="58" alt="HKUST(GZ)"/></a>
+  &nbsp;&nbsp;
+  <a href="https://shanghai.nyu.edu/"><img src="assets/logos/nyu-shanghai.png" height="58" alt="NYU Shanghai"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.dufe.edu.cn/"><img src="assets/logos/dufe.png" height="58" alt="DUFE"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.cuhk.edu.cn/"><img src="assets/logos/cuhk-sz.png" height="58" alt="CUHK(SZ)"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.cufe.edu.cn/"><img src="assets/logos/cufe.png" height="58" alt="CUFE"/></a>
+</p>
 
-<sup>†</sup>Corresponding authors: guangzhang@hkust-gz.edu.cn, liuzhuang@dufe.edu.cn
+<sup>1</sup><a href="https://www.hkust-gz.edu.cn/">HKUST(GZ)</a>
+&nbsp;&nbsp;
+<sup>2</sup><a href="https://shanghai.nyu.edu/">NYU Shanghai</a>
+&nbsp;&nbsp;
+<sup>3</sup><a href="https://www.dufe.edu.cn/">DUFE</a>
+&nbsp;&nbsp;
+<sup>4</sup><a href="https://www.cuhk.edu.cn/">CUHK(SZ)</a>
+&nbsp;&nbsp;
+<sup>5</sup><a href="https://www.cufe.edu.cn/">CUFE</a>
+
+<sup>†</sup>Corresponding authors: <a href="mailto:guangzhang@hkust-gz.edu.cn">guangzhang@hkust-gz.edu.cn</a>, <a href="mailto:liuzhuang@dufe.edu.cn">liuzhuang@dufe.edu.cn</a>
 
 [![ACL 2026](https://img.shields.io/badge/ACL%202026-Main%20Conference-b31b1b)](https://aclanthology.org/2026.acl-long.1551/)
 [![arXiv](https://img.shields.io/badge/arXiv-2604.16909-b31b1b)](https://arxiv.org/abs/2604.16909)
